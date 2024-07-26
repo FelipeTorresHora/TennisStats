@@ -24,7 +24,7 @@ def aces_avg():
     df_aces = df[['PlayerName', 'AvgAcesPerMatchSortField']]
     aces = df_aces.sort_values(by='AvgAcesPerMatchSortField', ascending=False).iloc[:15].reset_index(drop=True)
     aces.index = aces.index + 1
-    return aces
+    print (aces)
 
 def aces():
     url = "https://ultimate-tennis1.p.rapidapi.com/global_players_stats/serve/2024/all"
@@ -37,7 +37,7 @@ def aces():
     df_acesp = df[['PlayerName', 'AvgAcesPerMatch']]
     acesp = df_acesp.sort_values(by='AvgAcesPerMatch', ascending=False).iloc[:15].reset_index(drop=True)
     acesp.index = acesp.index + 1
-    return acesp
+    print (acesp)
 
 def first_serve():
     url = "https://ultimate-tennis1.p.rapidapi.com/global_players_stats/serve/2024/all"
@@ -50,7 +50,7 @@ def first_serve():
     df_first_serve = df[['PlayerName', 'FirstServePctSortField']]
     first_serve = df_first_serve.sort_values(by='FirstServePctSortField', ascending=False).iloc[:15].reset_index(drop=True)
     first_serve.index = first_serve.index + 1
-    return first_serve
+    print (first_serve)
 
 def first_serve_pct():
     url = "https://ultimate-tennis1.p.rapidapi.com/global_players_stats/serve/2024/all"
@@ -63,7 +63,7 @@ def first_serve_pct():
     df_first_serve_pct = df[['PlayerName', 'FirstServePointsWonPctSortField']]
     first_serve_pct = df_first_serve_pct.sort_values(by='FirstServePointsWonPctSortField', ascending=False).iloc[:15].reset_index(drop=True)
     first_serve_pct.index = first_serve_pct.index + 1
-    return first_serve_pct
+    print (first_serve_pct)
 
 def double_fault():
     url = "https://ultimate-tennis1.p.rapidapi.com/global_players_stats/serve/2024/all"
@@ -76,7 +76,7 @@ def double_fault():
     df_double_fault = df[['PlayerName', 'AvgDblFaultsPerMatchSortField']]
     double_fault = df_double_fault.sort_values(by='AvgDblFaultsPerMatchSortField', ascending=False).iloc[:15].reset_index(drop=True)
     double_fault.index = double_fault.index + 1
-    return double_fault
+    print (double_fault)
 
 def second_service():
     url = "https://ultimate-tennis1.p.rapidapi.com/global_players_stats/serve/2024/all"
@@ -89,7 +89,7 @@ def second_service():
     df_second_service = df[['PlayerName', 'SecondServePointsWonPctSortField']]
     second_service = df_second_service.sort_values(by='SecondServePointsWonPctSortField', ascending=False).iloc[:15].reset_index(drop=True)
     second_service.index = second_service.index + 1
-    return second_service    
+    print (second_service)    
 
 def servicewon():
     url = "https://ultimate-tennis1.p.rapidapi.com/global_players_stats/serve/2024/all"
@@ -102,4 +102,4 @@ def servicewon():
     df_aces = df[['PlayerName', 'ServiceGamesWonPctSortField']]
     ser_won = df_aces.sort_values(by='ServiceGamesWonPctSortField', ascending=False).iloc[:15].reset_index(drop=True)
     ser_won.index = ser_won.index + 1
-    return ser_won
+    print (ser_won)
