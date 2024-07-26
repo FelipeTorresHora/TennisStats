@@ -1,14 +1,13 @@
 from func import *
 
 while True:
-
     print("--------------------  Menu de Opções  --------------------")
     print("1. Estatísticas de Aces")
-    print("2. Porcentagem de Primeiro serviço")
+    print("2. Porcentagem de Acertos Primeiro Saque")
     print("3. Porcentagem de Pontos Ganhos com Primeiro Saque")
     print("4. Média Dupla Falta por jogo")
-    print("5. Média de Segundo Serviço Ganhos")
-    print("6. Porcentagem Serviços Ganhos")
+    print("5. Porcentagem de Segundo Saque Ganhos")
+    print("6. Porcentagem de Games Saque Ganhos")
     print("7. Sair")
     print()
     choice = int(input("Selecione um Número: "))
