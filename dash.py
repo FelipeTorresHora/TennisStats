@@ -4,17 +4,17 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 stats_options = {
-        'Média de aces por jogo': acesa,
+        'Média de aces por jogo': aces_avg,
         'Primeiro Serviço': first_serve,
-        'Porcentagem de Primeiro Serviço': first_serve_pct,
+        'Porcentagem de Pontos ganhos com primeiro Serviço': first_serve_pct,
         'Média de Dupla Falta Por Jogo': double_fault,
         'Pontos Ganhos Segundo Serviço': second_service,
         'Porcentagem Games De Saques Ganhos': servicewon
-    }
+}
     
 #Cria interface principal
 st.title("Estatísticas de Tenistas ATP")
-st.write("A aplicação irá mostrar todas estatísticas dos jogadores rankeados na ATP no ano de 2024")
+st.write("A aplicação irá mostrar todas estatísticas de torneios feitos pela ATP no ano de 2024")
 stat_choice = st.sidebar.selectbox('Escolha a estatística para visualizar:', list(stats_options.keys()))
 
 # Chama a função correspondente à escolha do usuário
