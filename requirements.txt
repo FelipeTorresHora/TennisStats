@@ -1,2 +1,4 @@
-seaborn==0.13.2
-pandas==2.2.2
+seaborn
+streamlit
+pandas
+requests
