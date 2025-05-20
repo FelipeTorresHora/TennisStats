@@ -1,0 +1,21 @@
+event_id,market,short,handicap,odds_type,outcome,odds
+id1201231560558135,Winner,Winner,0,2Way,1,1.8
+id1201231560558135,Winner,Winner,0,2Way,2,2.0
+id1201231560558135,First Set Winner,1st Set Winner,0,2Way,1,1.8
+id1201231560558135,First Set Winner,1st Set Winner,0,2Way,2,2.0
+id1201231560558135,Total Games Over Under,Total,23.5,Over/Under,Over,1.9
+id1201231560558135,Total Games Over Under,Total,23.5,Over/Under,Under,1.8
+id1201231560558135,Game Handicap,Spread,-0.50,Handicap,1,1.83
+id1201231560558135,Game Handicap,Spread,-0.50,Handicap,2,1.83
+id1201231560558135,Total Tie Breaks,Total,0.5,Over/Under,Over,2.25
+id1201231560558135,Total Tie Breaks,Total,0.5,Over/Under,Under,1.57
+id1201231560558135,Total Tie Breaks,Total,1.5,Over/Under,Over,9.0
+id1201231560558135,Total Tie Breaks,Total,2.5,Over/Under,Over,26.0
+id1201231560558135,Total Games First Set,Total,6.5,Over/Under,Under,26.0
+id1201231560558135,Total Games First Set,Total,7.5,Over/Under,Under,8.0
+id1201231560558135,Total Games First Set,Total,8.5,Over/Under,Under,3.75
+id1201231560558135,Total Games First Set,Total,9.5,Over/Under,Over,1.72
+id1201231560558135,Total Games First Set,Total,9.5,Over/Under,Under,2.0
+id1201231560558135,Total Games First Set,Total,10.5,Over/Under,Over,3.25
+id1201231560558135,Total Games First Set,Total,10.5,Over/Under,Under,1.33
+id1201231560558135,Total Games First Set,Total,12.5,Over/Under,Over,4.5

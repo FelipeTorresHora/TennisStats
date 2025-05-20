@@ -111,3 +111,6 @@ def servicewon():
     ser_won = df_aces.sort_values(by='Porcentagem Games De Saques Ganhos', ascending=False).iloc[:15].reset_index(drop=True)
     ser_won.index = ser_won.index + 1
     return ser_won
+
+
+print(servicewon())
