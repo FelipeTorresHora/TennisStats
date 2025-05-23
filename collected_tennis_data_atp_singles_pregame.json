@@ -1,0 +1,468 @@
+[
+  {
+    "tournament_id": 12315,
+    "tournament_name": "ATP Geneva, Switzerland Men Singles",
+    "tournament_category": "ATP",
+    "event_id": "id1201231560558159",
+    "event_status": "pre-game",
+    "event_date": "2025-05-23",
+    "event_time": "12:00:00",
+    "participant1": "Hurkacz, Hubert",
+    "participant1_id": 158896,
+    "participant2": "Ofner, Sebastian",
+    "participant2_id": 83397,
+    "bookmaker_count": 228,
+    "start_time_unix": 1748001600,
+    "odds_bet365": [
+      {
+        "market": "Winner",
+        "short": "Winner",
+        "handicap": "0",
+        "odds_type": "2Way",
+        "outcome": "1",
+        "odds": 1.44
+      },
+      {
+        "market": "Winner",
+        "short": "Winner",
+        "handicap": "0",
+        "odds_type": "2Way",
+        "outcome": "2",
+        "odds": 2.75
+      },
+      {
+        "market": "First Set Winner",
+        "short": "1st Set Winner",
+        "handicap": "0",
+        "odds_type": "2Way",
+        "outcome": "1",
+        "odds": 1.53
+      },
+      {
+        "market": "First Set Winner",
+        "short": "1st Set Winner",
+        "handicap": "0",
+        "odds_type": "2Way",
+        "outcome": "2",
+        "odds": 2.5
+      },
+      {
+        "market": "Total Games Over Under",
+        "short": "Total",
+        "handicap": "23.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 2.0
+      },
+      {
+        "market": "Total Games Over Under",
+        "short": "Total",
+        "handicap": "23.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.72
+      },
+      {
+        "market": "Game Handicap",
+        "short": "Spread",
+        "handicap": "-2.50",
+        "odds_type": "Handicap",
+        "outcome": "1",
+        "odds": 1.72
+      },
+      {
+        "market": "Game Handicap",
+        "short": "Spread",
+        "handicap": "-2.50",
+        "odds_type": "Handicap",
+        "outcome": "2",
+        "odds": 2.0
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "0.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 1.9
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "0.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.8
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "1.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 7.5
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "1.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.07
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "2.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 21.0
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "2.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.0
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "6.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 1.0
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "6.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 34.0
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "7.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 1.06
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "7.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 10.0
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "8.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 1.18
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "8.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 4.5
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "9.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 1.66
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "9.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 2.1
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "10.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 2.75
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "10.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.4
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "12.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 3.75
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "12.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.25
+      }
+    ]
+  },
+  {
+    "tournament_id": 12315,
+    "tournament_name": "ATP Geneva, Switzerland Men Singles",
+    "tournament_category": "ATP",
+    "event_id": "id1201231560558161",
+    "event_status": "pre-game",
+    "event_date": "2025-05-23",
+    "event_time": "14:00:00",
+    "participant1": "Norrie, Cameron",
+    "participant1_id": 95935,
+    "participant2": "Djokovic, Novak",
+    "participant2_id": 14882,
+    "bookmaker_count": 99,
+    "start_time_unix": 1748008800,
+    "odds_bet365": [
+      {
+        "market": "Winner",
+        "short": "Winner",
+        "handicap": "0",
+        "odds_type": "2Way",
+        "outcome": "1",
+        "odds": 5.5
+      },
+      {
+        "market": "Winner",
+        "short": "Winner",
+        "handicap": "0",
+        "odds_type": "2Way",
+        "outcome": "2",
+        "odds": 1.14
+      },
+      {
+        "market": "First Set Winner",
+        "short": "1st Set Winner",
+        "handicap": "0",
+        "odds_type": "2Way",
+        "outcome": "1",
+        "odds": 4.0
+      },
+      {
+        "market": "First Set Winner",
+        "short": "1st Set Winner",
+        "handicap": "0",
+        "odds_type": "2Way",
+        "outcome": "2",
+        "odds": 1.25
+      },
+      {
+        "market": "Total Games Over Under",
+        "short": "Total",
+        "handicap": "20.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 1.83
+      },
+      {
+        "market": "Total Games Over Under",
+        "short": "Total",
+        "handicap": "20.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.83
+      },
+      {
+        "market": "Game Handicap",
+        "short": "Spread",
+        "handicap": "4.50",
+        "odds_type": "Handicap",
+        "outcome": "1",
+        "odds": 2.0
+      },
+      {
+        "market": "Game Handicap",
+        "short": "Spread",
+        "handicap": "4.50",
+        "odds_type": "Handicap",
+        "outcome": "2",
+        "odds": 1.72
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "0.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 2.75
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "0.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.4
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "1.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 11.0
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "1.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.02
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "2.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 26.0
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "2.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.0
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "6.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 1.02
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "6.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 19.0
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "7.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 1.12
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "7.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 6.0
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "8.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 1.33
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "8.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 3.25
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "9.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 2.0
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "9.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.72
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "10.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 3.75
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "10.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.25
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "12.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 5.5
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "12.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.14
+      }
+    ]
+  },
+  {
+    "tournament_id": 12315,
+    "tournament_name": "ATP Geneva, Switzerland Men Singles",
+    "tournament_category": "ATP",
+    "event_id": "id1201231560558157",
+    "event_status": "pre-game",
+    "event_date": "2025-05-24",
+    "event_time": "08:00:00",
+    "participant1": "WSF1",
+    "participant1_id": 837920,
+    "participant2": "WSF2",
+    "participant2_id": 837922,
+    "bookmaker_count": 21,
+    "start_time_unix": 1748073600,
+    "odds_bet365": []
+  }
+]
