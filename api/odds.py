@@ -307,7 +307,7 @@ if __name__ == "__main__":
 
             # Salvar os dados coletados em um arquivo JSON
             try:
-                with open("collected_tennis_data_atp_singles_pregame.json", "w", encoding="utf-8") as f:
+                with open("dados/collected_tennis_data_atp_singles_pregame.json", "w", encoding="utf-8") as f:
                     json.dump(collected_data, f, indent=2, ensure_ascii=False)
                 print("\nDados salvos em collected_tennis_data_atp_singles_pregame.json")
             except IOError as e:
