@@ -1,140 +1,140 @@
-# stats.py
 import requests
+import json
+import pandas as pd
 import os
-import json # Importar json para pretty print na depuração
+import time
 from dotenv import load_dotenv
 
 # Carregue as variáveis de ambiente do arquivo .env
 load_dotenv()
 
 STATS_RAPIDAPI_KEY = os.getenv("STATS_RAPIDAPI_KEY", os.getenv("RAPIDAPI_KEY"))
-STATS_RAPIDAPI_HOST = os.getenv("STATS_RAPIDAPI_HOST", "ultimate-tennis1.p.rapidapi.com")
 
-DESIRED_STATS_COLUMNS = {
-    "PlayerId": "player_id",
-    "PlayerName": "player_name_raw",
-    "AvgAcesPerMatchSortField": "avg_aces_match",
-    "AvgDblFaultsPerMatchSortField": "avg_dbl_faults_match",
-    "FirstServePctSortField": "first_serve_pct",
-    "FirstServePointsWonPctSortField": "first_serve_points_won_pct",
-    "SecondServePointsWonPctSortField": "second_serve_points_won_pct",
-    "ServeRatingSortField": "serve_rating",
-    "ServiceGamesWonPctSortField": "service_games_won_pct"
-}
-
-def normalize_player_name(name):
-    if not name:
-        return ""
-    name = name.lower()
-    if ',' in name:
-        parts = name.split(',', 1)
-        name = f"{parts[1].strip()} {parts[0].strip()}"
-    name = ''.join(char for char in name if char.isalnum() or char.isspace())
-    name = ' '.join(name.split())
-    return name
-
-def get_all_player_stats(year="2024"):
-    url = f"https://{STATS_RAPIDAPI_HOST}/global_players_stats/serve/{year}/all"
+def get_player_stats_ultimate_tennis(player_id, season="2024", surface="clay"):
+    """
+    Busca todos os dados de um jogador na Ultimate Tennis API
+    """
+    url = f"https://ultimate-tennis1.p.rapidapi.com/player_stats/atp/{player_id}/{season}/{surface}"
     headers = {
         "x-rapidapi-key": STATS_RAPIDAPI_KEY,
-        "x-rapidapi-host": STATS_RAPIDAPI_HOST
+        "x-rapidapi-host": "ultimate-tennis1.p.rapidapi.com"
     }
-
-    print(f"\nBuscando estatísticas de jogadores para o ano {year}...")
-    all_player_stats_map = {}
-    request_count = 0
-
+    
     try:
+        print(f"🔍 Buscando dados para jogador ID: {player_id}")
         response = requests.get(url, headers=headers)
-        request_count += 1
         response.raise_for_status()
-        raw_response_data = response.json()
-
-        actual_player_list = []
-
-        if isinstance(raw_response_data, list):
-            actual_player_list = raw_response_data
-            print(f"  API de estatísticas retornou uma lista diretamente com {len(actual_player_list)} itens.")
-        elif isinstance(raw_response_data, dict):
-            print(f"  API de estatísticas retornou um dicionário. Tentando encontrar a lista de jogadores dentro dele.")
-            # Imprime o dicionário para ajudar na depuração e identificar a chave correta
-            print(f"  Conteúdo do dicionário da API de estatísticas: {json.dumps(raw_response_data, indent=2)}")
-
-            possible_keys = ['data', 'results', 'players', 'items', 'statistics', 'response'] # Chaves comuns
-            found_list = False
-            for key in possible_keys:
-                if key in raw_response_data and isinstance(raw_response_data[key], list):
-                    actual_player_list = raw_response_data[key]
-                    print(f"  Lista de jogadores encontrada sob a chave '{key}' no dicionário (contém {len(actual_player_list)} itens).")
-                    found_list = True
-                    break
-
-            if not found_list:
-                print(f"  Não foi possível encontrar uma lista de jogadores dentro das chaves comuns do dicionário retornado.")
-                if raw_response_data.get("message"):
-                    print(f"  Mensagem da API de Estatísticas: {raw_response_data.get('message')}")
-                # Se a API retorna um dicionário sem uma lista de jogadores óbvia,
-                # e não é uma mensagem de erro conhecida, pode ser que a própria raiz do dicionário
-                # seja o dado de um único jogador, ou uma estrutura diferente.
-                # Por enquanto, vamos tratar como se não houvesse dados de jogadores.
-                return {}, request_count
+        data = response.json()
+        
+        # Retorna a resposta completa da API
+        if data:
+            print(f"  ✅ Dados coletados para jogador {player_id}")
+            return data
         else:
-            print(f"  Formato inesperado para dados de estatísticas: {type(raw_response_data)}. Esperava lista ou dicionário.")
-            return {}, request_count
-
-        if not actual_player_list:
-            print("  Nenhum dado de jogador utilizável encontrado na resposta da API de estatísticas.")
-            return {}, request_count
-
-        processed_count = 0
-        for player_data in actual_player_list:
-            if not isinstance(player_data, dict):
-                # print(f"  Item de estatística de jogador não é um dicionário: {player_data}")
-                continue
-
-            stats = {}
-            for api_key, new_key in DESIRED_STATS_COLUMNS.items():
-                stats[new_key] = player_data.get(api_key)
-
-            if stats.get("player_name_raw"):
-                normalized_name = normalize_player_name(stats["player_name_raw"])
-                if normalized_name:
-                    all_player_stats_map[normalized_name] = stats
-                    processed_count += 1
-
-        if processed_count > 0:
-            print(f"  Estatísticas de {processed_count} jogadores processadas e mapeadas.")
-        else:
-            print("  Nenhum jogador foi processado a partir da lista obtida.")
-
-        return all_player_stats_map, request_count
-
-    except requests.exceptions.HTTPError as http_err:
-        print(f"  Erro HTTP ao buscar estatísticas de jogadores: {http_err}")
-        print(f"  Conteúdo da resposta (se houver): {response.text}")
-        return {}, request_count
+            print(f"  ⚠️ Resposta vazia para jogador {player_id}")
+            return None
+        
     except requests.exceptions.RequestException as e:
-        print(f"  Erro de requisição ao buscar estatísticas de jogadores: {e}")
-        return {}, request_count
-    except ValueError:
-        print(f"  Erro ao decodificar JSON da resposta de estatísticas. Resposta: {response.text if 'response' in locals() else 'N/A'}")
-        return {}, request_count
+        print(f"  ❌ Erro na requisição para jogador {player_id}: {e}")
+        return None
+    except ValueError as e:
+        print(f"  ❌ Erro ao decodificar JSON para jogador {player_id}: {e}")
+        return None
+
+def collect_all_players_data():
+    """
+    Coleta dados de todos os jogadores do stats.csv e salva em JSON
+    """
+    # Verificar se o arquivo stats.csv existe
+    if not os.path.exists('dados/stats.csv'):
+        print("❌ Erro: Arquivo stats.csv não encontrado!")
+        return
+    
+    # Ler o arquivo stats.csv
+    try:
+        df_original = pd.read_csv('dados/stats.csv')
+        print(f"📊 Arquivo stats.csv carregado com {len(df_original)} jogadores")
+    except Exception as e:
+        print(f"❌ Erro ao ler stats.csv: {e}")
+        return
+    
+    # Verificar se a coluna IdJogador existe
+    if 'IdJogador' not in df_original.columns:
+        print("❌ Erro: Coluna 'IdJogador' não encontrada no stats.csv!")
+        return
+    
+    # Dicionário para armazenar os dados (chave = ID do jogador)
+    all_players_data = {}
+    consecutive_failures = 0
+    total_processed = 0
+    total_success = 0
+    
+    print(f"\\n🚀 Iniciando coleta de dados para {len(df_original)} jogadores...")
+    
+    # Processar cada jogador
+    for index, row in df_original.iterrows():
+        player_id = row['IdJogador']
+        
+        if pd.isna(player_id):
+            print(f"⚠️ ID do jogador na linha {index} está vazio, pulando...")
+            continue
+        
+        total_processed += 1
+        
+        # Buscar dados na API
+        player_data = get_player_stats_ultimate_tennis(player_id)
+        
+        if player_data is None:
+            consecutive_failures += 1
+            print(f"  ❌ Falha consecutiva #{consecutive_failures} para jogador {player_id}")
+            
+            # Verificar se atingiu 5 falhas consecutivas
+            if consecutive_failures >= 5:
+                print(f"\\n🛑 ERRO: 5 falhas consecutivas detectadas!")
+                print(f"Parando execução - possível problema no código ou API")
+                print(f"Último jogador que falhou: {player_id}")
+                break
+            
+            continue
+        
+        # Reset contador de falhas consecutivas se teve sucesso
+        consecutive_failures = 0
+        total_success += 1
+        
+        # Armazenar dados completos com ID como chave
+        all_players_data[str(player_id)] = {
+            'player_id': player_id,
+            'collected_at': time.strftime('%Y-%m-%d %H:%M:%S'),
+            'api_response': player_data
+        }
+        
+        # Pequeno delay para evitar rate limiting
+        time.sleep(0.5)
+    
+    # Salvar os dados em JSON
+    if all_players_data:
+        output_filename = 'dados/raw/stats_raw.json'
+        with open(output_filename, 'w', encoding='utf-8') as f:
+            json.dump(all_players_data, f, indent=2, ensure_ascii=False)
+        
+        print(f"\\n Arquivo {output_filename} criado com sucesso!")
+        print(f" Estatísticas da coleta:")
+        print(f"  • Total processados: {total_processed}")
+        print(f"  • Total sucessos: {total_success}")
+        print(f"  • Total falhas: {total_processed - total_success}")
+        print(f"  • Jogadores no JSON: {len(all_players_data)}")
+        
+        # Mostrar exemplo de um jogador
+        if all_players_data:
+            first_key = next(iter(all_players_data))
+            first_player = all_players_data[first_key]
+            print(f"\\n📋 Exemplo de estrutura (Jogador ID: {first_key}):")
+            print(f"  • Coletado em: {first_player['collected_at']}")
+            print(f"  • Campos na resposta da API: {len(first_player['api_response']) if isinstance(first_player['api_response'], dict) else 'N/A'}")
+            
+    else:
+        print(f"\\n❌ Nenhum dado foi coletado com sucesso!")
 
 if __name__ == "__main__":
-    if not STATS_RAPIDAPI_KEY or STATS_RAPIDAPI_KEY == "SUA_CHAVE_API_AQUI" or not STATS_RAPIDAPI_HOST :
-         print("Chave/Host da API de estatísticas não configurada no .env ou no script para teste.")
-    else:
-        player_stats_map, req_count = get_all_player_stats()
-        print(f"Total de requisições à API de estatísticas: {req_count}")
-        if player_stats_map:
-            print(f"\nEncontradas estatísticas para {len(player_stats_map)} jogadores.")
-            sample_name = next(iter(player_stats_map))
-            print(f"\nExemplo de estatísticas para '{sample_name}':")
-            print(json.dumps(player_stats_map[sample_name], indent=2))
-            print("\nTestando normalização:")
-            names_to_test = ["Djokovic, Novak", "Novak Djokovic", "Carlos Alcaraz", "Alcaraz, Carlos"]
-            for name in names_to_test:
-                norm_name = normalize_player_name(name)
-                print(f"'{name}' -> '{norm_name}' -> Stats found: {bool(player_stats_map.get(norm_name))}")
-        else:
-            print("Nenhuma estatística de jogador foi carregada.")
+        collect_all_players_data()
+        print("\\n🏁 Coleta finalizada!")

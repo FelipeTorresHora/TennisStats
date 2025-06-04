@@ -1,3 +1,4 @@
+# odds.py
 import requests
 import time
 import json
@@ -11,54 +12,61 @@ from stats import get_all_player_stats, normalize_player_name
 load_dotenv()
 
 # --- Credenciais para API de Odds ---
-# Usar nomes específicos para clareza, caso as chaves/hosts sejam diferentes da API de stats
-ODDS_RAPIDAPI_KEY = os.getenv("RAPIDAPI_KEY") # Sua chave principal para a API de Odds
-ODDS_RAPIDAPI_HOST = os.getenv("RAPIDAPI_HOST") # Host da API de Odds
+ODDS_RAPIDAPI_KEY = os.getenv("RAPIDAPI_KEY")
+ODDS_RAPIDAPI_HOST = os.getenv("RAPIDAPI_HOST")
 
 # Headers base para a API de Odds
 # É importante que estes sejam para a API de Odds
-BASE_HEADERS = {
-    "x-rapidapi-key": ODDS_RAPIDAPI_KEY,
-    "x-rapidapi-host": ODDS_RAPIDAPI_HOST
-}
+# Verifique se as variáveis foram carregadas antes de criar os headers
+if ODDS_RAPIDAPI_KEY and ODDS_RAPIDAPI_HOST:
+    BASE_HEADERS_ODDS = {
+        "x-rapidapi-key": ODDS_RAPIDAPI_KEY,
+        "x-rapidapi-host": ODDS_RAPIDAPI_HOST
+    }
+else:
+    BASE_HEADERS_ODDS = None # Será verificado depois
 
-# --- Funções da API de Odds (get_tournaments, get_events, get_odds, process_odds_data) ---
-# Estas funções permanecem como você as desenvolveu e testou.
-# A única mudança potencial seria aceitar um parâmetro 'headers' se você refatorar
-# para não usar BASE_HEADERS globalmente.
+# --- Funções da API de Odds ---
 
-def get_tournaments(sport="tennis"): # Adicionar headers como parâmetro se refatorar
-    url = f"https://{ODDS_RAPIDAPI_HOST}/tournaments" # Usar ODDS_RAPIDAPI_HOST
+def get_tournaments(sport="tennis", headers=None):
+    if not headers:
+        print("Erro: Headers da API de Odds não configurados para get_tournaments.")
+        return None, False
+    url = f"https://{headers['x-rapidapi-host']}/tournaments"
     querystring = {"sport": sport}
     try:
-        # Passar BASE_HEADERS (ou o parâmetro de headers se refatorado)
-        response = requests.get(url, headers=BASE_HEADERS, params=querystring)
+        response = requests.get(url, headers=headers, params=querystring)
         response.raise_for_status()
         return response.json(), True
     except requests.exceptions.RequestException as e:
         print(f"Erro ao buscar torneios: {e}")
         return None, False
-    except ValueError:
-        print(f"Erro ao decodificar JSON da resposta de torneios. Resposta: {response.text}")
+    except ValueError: # Erro ao decodificar JSON
+        print(f"Erro ao decodificar JSON da resposta de torneios. Resposta: {response.text if 'response' in locals() else 'N/A'}")
         return None, False
 
-def get_events(tournament_id, media="false"): # Adicionar headers como parâmetro se refatorar
-    url = f"https://{ODDS_RAPIDAPI_HOST}/events" # Usar ODDS_RAPIDAPI_HOST
+def get_events(tournament_id, headers=None, media="false"):
+    if not headers:
+        print(f"Erro: Headers da API de Odds não configurados para get_events (torneio {tournament_id}).")
+        return None, False
+    url = f"https://{headers['x-rapidapi-host']}/events"
     querystring = {"tournamentId": tournament_id, "media": media}
     try:
-        # Passar BASE_HEADERS (ou o parâmetro de headers se refatorado)
-        response = requests.get(url, headers=BASE_HEADERS, params=querystring)
+        response = requests.get(url, headers=headers, params=querystring)
         response.raise_for_status()
         return response.json(), True
     except requests.exceptions.RequestException as e:
         print(f"Erro ao buscar eventos para o torneio {tournament_id}: {e}")
         return None, False
-    except ValueError:
-        print(f"Erro ao decodificar JSON da resposta de eventos. Resposta: {response.text}")
+    except ValueError: # Erro ao decodificar JSON
+        print(f"Erro ao decodificar JSON da resposta de eventos (torneio {tournament_id}). Resposta: {response.text if 'response' in locals() else 'N/A'}")
         return None, False
 
-def get_odds(event_id, bookmakers="bet365", odds_format="decimal", raw="false"): # Adicionar headers como parâmetro se refatorar
-    url = f"https://{ODDS_RAPIDAPI_HOST}/odds" # Usar ODDS_RAPIDAPI_HOST
+def get_odds(event_id, headers=None, bookmakers="bet365", odds_format="decimal", raw="false"):
+    if not headers:
+        print(f"Erro: Headers da API de Odds não configurados para get_odds (evento {event_id}).")
+        return None, False
+    url = f"https://{headers['x-rapidapi-host']}/odds"
     querystring = {
         "eventId": event_id,
         "bookmakers": bookmakers,
@@ -66,23 +74,22 @@ def get_odds(event_id, bookmakers="bet365", odds_format="decimal", raw="false"):
         "raw": raw
     }
     try:
-        # Passar BASE_HEADERS (ou o parâmetro de headers se refatorado)
-        response = requests.get(url, headers=BASE_HEADERS, params=querystring)
+        response = requests.get(url, headers=headers, params=querystring)
         response.raise_for_status()
         data = response.json()
         if isinstance(data, dict) and 'markets' not in data and data.get('message'):
             print(f"      Mensagem da API de odds para o evento {event_id} (bookmaker: {bookmakers}): {data['message']}")
-            return None, True
+            return None, True # Requisição bem-sucedida, mas sem dados de mercado
         elif isinstance(data, list) and not data:
              print(f"      API de odds retornou uma lista vazia para o evento {event_id} (bookmaker: {bookmakers}).")
-             return None, True
+             return None, True # Requisição bem-sucedida, mas sem dados
         return data, True
     except requests.exceptions.RequestException as e:
         print(f"Erro ao buscar odds para o evento {event_id}: {e}")
-        return None, False
-    except ValueError:
-        print(f"Erro ao decodificar JSON da resposta de odds para o evento {event_id}. Resposta: {response.text}")
-        return None, True
+        return None, False # Falha na requisição
+    except ValueError: # Erro ao decodificar JSON
+        print(f"Erro ao decodificar JSON da resposta de odds (evento {event_id}). Resposta: {response.text if 'response' in locals() else 'N/A'}")
+        return None, True # Requisição feita, mas JSON inválido
 
 def process_odds_data(odds_api_response, event_id_for_log="N/A"):
     processed_odds = []
@@ -138,7 +145,7 @@ def process_odds_data(odds_api_response, event_id_for_log="N/A"):
 
             outcome_name_val = outcome_data.get('outcomeName', 'N/A')
             bookmakers_data = outcome_data.get('bookmakers', {})
-            bet365_data = bookmakers_data.get('bet365', {}) # Assumindo que sempre queremos bet365 aqui
+            bet365_data = bookmakers_data.get('bet365', {})
             odds_value = bet365_data.get('price', None)
 
             processed_odds.append({
@@ -150,8 +157,8 @@ def process_odds_data(odds_api_response, event_id_for_log="N/A"):
                 "odds": odds_value
             })
     return processed_odds
-# --- Fim das Funções da API de Odds ---
 
+# --- Fim das Funções da API de Odds ---
 
 def run_data_pipeline():
     print("Iniciando pipeline de coleta de dados...")
@@ -159,9 +166,8 @@ def run_data_pipeline():
     total_api_requests = 0
 
     # --- INÍCIO: Carregar estatísticas dos jogadores (UMA ÚNICA VEZ) ---
-    # O ano pode ser um parâmetro ou fixo. Usando 2024 como no exemplo.
-    player_stats_map, stats_req_count = get_all_player_stats(year="2024")
-    total_api_requests += stats_req_count # Adiciona contagem da API de stats
+    player_stats_map, stats_req_count = get_all_player_stats(year="2024") # Assumindo ano fixo
+    total_api_requests += stats_req_count
     if not player_stats_map:
         print("Aviso: Não foi possível carregar as estatísticas dos jogadores. Os eventos não serão enriquecidos com elas.")
     else:
@@ -169,12 +175,13 @@ def run_data_pipeline():
     # --- FIM: Carregar estatísticas dos jogadores ---
 
     # Verifica se as credenciais da API de Odds estão presentes
-    if not ODDS_RAPIDAPI_KEY or not ODDS_RAPIDAPI_HOST:
-        print("Erro: RAPIDAPI_KEY ou RAPIDAPI_HOST para a API de Odds não foram encontradas no arquivo .env ou nas variáveis de ambiente.")
-        print(f"\nTotal de requisições à API feitas (incluindo stats): {total_api_requests}")
+    if not BASE_HEADERS_ODDS:
+        print("Erro Crítico: RAPIDAPI_KEY ou RAPIDAPI_HOST para a API de Odds não foram encontradas no arquivo .env.")
+        print("Por favor, configure-as corretamente no arquivo .env.")
+        print(f"\nTotal de requisições à API feitas (incluindo stats, se houver): {total_api_requests}")
         return [], total_api_requests
 
-    tournaments_data, req_made_tournaments = get_tournaments(sport="tennis")
+    tournaments_data, req_made_tournaments = get_tournaments(sport="tennis", headers=BASE_HEADERS_ODDS)
     if req_made_tournaments: total_api_requests += 1
     if not tournaments_data:
         print("Não foi possível buscar torneios ou resposta vazia.")
@@ -223,127 +230,154 @@ def run_data_pipeline():
 
         print(f"  Buscando eventos para o torneio '{tournament_name}'...")
         time.sleep(1)
-        events_response_data, req_made_events = get_events(tournament_id)
+        events_response_data, req_made_events = get_events(tournament_id, headers=BASE_HEADERS_ODDS)
         if req_made_events: total_api_requests += 1
 
         if not events_response_data:
             print(f"  Não foi possível buscar eventos para o torneio {tournament_name} ou resposta vazia.")
             continue
 
-        actual_events_list = []
+        actual_events_list_raw = []
         events_payload = events_response_data.get('events')
         if isinstance(events_payload, dict):
-            actual_events_list = list(events_payload.values())
-            print(f"  Resposta de eventos para '{tournament_name}' recebida como dicionário, {len(actual_events_list)} eventos extraídos.")
+            actual_events_list_raw = list(events_payload.values())
+            print(f"  Resposta de eventos para '{tournament_name}' recebida como dicionário, {len(actual_events_list_raw)} eventos extraídos.")
         elif isinstance(events_payload, list):
-            actual_events_list = events_payload
-            print(f"  Resposta de eventos para '{tournament_name}' recebida como lista, {len(actual_events_list)} eventos.")
+            actual_events_list_raw = events_payload
+            print(f"  Resposta de eventos para '{tournament_name}' recebida como lista, {len(actual_events_list_raw)} eventos.")
         else:
             print(f"  Formato inesperado para o payload 'events' do torneio {tournament_name}: {type(events_payload)}")
             print(f"  Conteúdo do payload 'events': {events_payload}")
             continue
 
-        if not actual_events_list:
+        if not actual_events_list_raw:
             print(f"  Nenhum evento encontrado no payload para o torneio {tournament_name}.")
             continue
-        print(f"  Encontrados {len(actual_events_list)} eventos brutos para o torneio {tournament_name}.")
 
-        processed_event_count_for_tournament = 0
-        for j, event_item in enumerate(actual_events_list):
-            if not isinstance(event_item, dict):
-                print(f"    Item inesperado na lista de eventos não é um dicionário: {type(event_item)}, valor: {event_item}. Pulando item.")
+        pre_game_events = []
+        for event_item_raw in actual_events_list_raw:
+            if not isinstance(event_item_raw, dict):
                 continue
-            event_status = event_item.get("eventStatus")
-            if event_status != "pre-game":
-                continue
-            event_id = event_item.get("eventId")
-            if not event_id:
-                print(f"    Evento sem ID encontrado no torneio {tournament_name} (após filtro de status). Pulando.")
-                continue
+            if event_item_raw.get("eventStatus") == "pre-game":
+                pre_game_events.append(event_item_raw)
 
-            processed_event_count_for_tournament += 1
-            participant1_name = event_item.get('participant1', 'N/A')
-            participant2_name = event_item.get('participant2', 'N/A')
-            print(f"    Processando evento ({processed_event_count_for_tournament}º pré-jogo): {participant1_name} vs {participant2_name} (ID: {event_id}, Status: {event_status})")
+        print(f"  Encontrados {len(pre_game_events)} eventos 'pre-game' para o torneio {tournament_name}.")
 
-            # --- INÍCIO: Buscar estatísticas para os participantes (do mapa em memória) ---
-            p1_stats = None
-            p2_stats = None
-            if player_stats_map: # Só tenta buscar se o mapa de estatísticas foi carregado
-                norm_p1_name = normalize_player_name(participant1_name)
-                norm_p2_name = normalize_player_name(participant2_name)
+        if not pre_game_events:
+            print(f"  Nenhum evento 'pre-game' encontrado para o torneio {tournament_name}.")
+            continue
 
-                p1_stats = player_stats_map.get(norm_p1_name)
-                p2_stats = player_stats_map.get(norm_p2_name)
+        processed_event_count_for_tournament_total = 0
+        batch_size = 5
+        start_index = 0
 
-                if not p1_stats:
-                    print(f"      Aviso: Estatísticas não encontradas para {participant1_name} (normalizado como: '{norm_p1_name}')")
-                if not p2_stats:
-                    print(f"      Aviso: Estatísticas não encontradas para {participant2_name} (normalizado como: '{norm_p2_name}')")
-            # --- FIM: Buscar estatísticas para os participantes ---
+        while start_index < len(pre_game_events):
+            end_index = min(start_index + batch_size, len(pre_game_events))
+            current_batch_events = pre_game_events[start_index:end_index]
 
-            time.sleep(0.5)
+            print(f"\n    Processando lote de {len(current_batch_events)} eventos 'pre-game' (de {start_index + 1} a {end_index} de {len(pre_game_events)})...")
 
-            odds_data_raw, req_made_odds = get_odds(event_id, bookmakers="bet365")
-            if req_made_odds: total_api_requests += 1
+            for event_item in current_batch_events:
+                event_id = event_item.get("eventId")
+                if not event_id:
+                    print(f"      Evento sem ID encontrado no lote. Pulando.")
+                    continue
 
-            event_odds_processed = process_odds_data(odds_data_raw, event_id)
+                processed_event_count_for_tournament_total += 1
+                participant1_name = event_item.get('participant1', 'N/A')
+                participant2_name = event_item.get('participant2', 'N/A')
+                print(f"      Processando evento ({processed_event_count_for_tournament_total}º pré-jogo do torneio): {participant1_name} vs {participant2_name} (ID: {event_id})")
 
-            if not event_odds_processed:
-                print(f"      Nenhuma odd da Bet365 encontrada ou processada para o evento {event_id}.")
+                p1_stats, p2_stats = None, None
+                if player_stats_map:
+                    norm_p1_name = normalize_player_name(participant1_name)
+                    norm_p2_name = normalize_player_name(participant2_name)
+                    p1_stats = player_stats_map.get(norm_p1_name)
+                    p2_stats = player_stats_map.get(norm_p2_name)
+                    if not p1_stats: print(f"        Aviso: Estatísticas não encontradas para {participant1_name} (normalizado: '{norm_p1_name}')")
+                    if not p2_stats: print(f"        Aviso: Estatísticas não encontradas para {participant2_name} (normalizado: '{norm_p2_name}')")
+
+                time.sleep(0.5)
+
+                odds_data_raw, req_made_odds = get_odds(event_id, headers=BASE_HEADERS_ODDS, bookmakers="bet365")
+                if req_made_odds: total_api_requests += 1
+
+                event_odds_processed = process_odds_data(odds_data_raw, event_id)
+
+                if not event_odds_processed:
+                    print(f"        Nenhuma odd da Bet365 encontrada ou processada para o evento {event_id}.")
+                else:
+                    print(f"        Encontradas {len(event_odds_processed)} linhas de odds da Bet365 para o evento {event_id}.")
+
+                event_info = {
+                    "tournament_id": tournament_id,
+                    "tournament_name": tournament_name,
+                    "tournament_category": tournament_category,
+                    "event_id": event_id,
+                    "event_status": event_item.get("eventStatus"),
+                    "event_date": event_item.get("date"),
+                    "event_time": event_item.get("time"),
+                    "participant1": {
+                        "name_api": participant1_name,
+                        "id_api": event_item.get("participant1Id"),
+                        "stats": p1_stats if p1_stats else "N/A"
+                    },
+                    "participant2": {
+                        "name_api": participant2_name,
+                        "id_api": event_item.get("participant2Id"),
+                        "stats": p2_stats if p2_stats else "N/A"
+                    },
+                    "bookmaker_count_event": event_item.get("bookmakerCount"),
+                    "start_time_unix_event": event_item.get("startTime"),
+                    "odds_bet365": event_odds_processed
+                }
+                all_events_data.append(event_info)
+
+            start_index += batch_size
+
+            if start_index < len(pre_game_events):
+                while True:
+                    remaining_in_tournament = len(pre_game_events) - start_index
+                    next_batch_size = min(batch_size, remaining_in_tournament)
+                    continue_choice = input(f"    Processados {end_index} de {len(pre_game_events)} eventos 'pre-game' para '{tournament_name}'. Deseja processar os próximos {next_batch_size}? (y/n): ").lower()
+                    if continue_choice in ['y', 'n', 's', 'nao', 'sim', 'não']:
+                        break
+                    print("    Opção inválida. Por favor, digite 'y' ou 'n'.")
+                if continue_choice in ['n', 'nao']:
+                    print(f"    Interrompendo processamento de eventos para o torneio '{tournament_name}' conforme solicitado.")
+                    break
             else:
-                print(f"      Encontradas {len(event_odds_processed)} linhas de odds da Bet365 para o evento {event_id}.")
+                print(f"    Todos os {len(pre_game_events)} eventos 'pre-game' para '{tournament_name}' foram processados.")
 
-            event_info = {
-                "tournament_id": tournament_id,
-                "tournament_name": tournament_name,
-                "tournament_category": tournament_category,
-                "event_id": event_id,
-                "event_status": event_status,
-                "event_date": event_item.get("date"),
-                "event_time": event_item.get("time"),
-                "participant1": {
-                    "name_api": participant1_name, # Nome como veio da API de odds
-                    "id_api": event_item.get("participant1Id"),
-                    "stats": p1_stats if p1_stats else "N/A" # Adiciona estatísticas ou "N/A"
-                },
-                "participant2": {
-                    "name_api": participant2_name, # Nome como veio da API de odds
-                    "id_api": event_item.get("participant2Id"),
-                    "stats": p2_stats if p2_stats else "N/A" # Adiciona estatísticas ou "N/A"
-                },
-                "bookmaker_count_event": event_item.get("bookmakerCount"), # Do evento
-                "start_time_unix_event": event_item.get("startTime"), # Do evento
-                "odds_bet365": event_odds_processed
-            }
-            all_events_data.append(event_info)
-
-        if processed_event_count_for_tournament == 0 and actual_events_list:
-            print(f"  Nenhum evento 'pre-game' encontrado para o torneio {tournament_name} dentre os {len(actual_events_list)} eventos brutos.")
+        if processed_event_count_for_tournament_total == 0 and len(actual_events_list_raw) > 0:
+            if start_index >= len(pre_game_events):
+                if not any(e.get("eventStatus") == "pre-game" for e in actual_events_list_raw):
+                     print(f"  Nenhum evento 'pre-game' encontrado para o torneio {tournament_name} dentre os {len(actual_events_list_raw)} eventos brutos.")
 
     print("\nPipeline de coleta de dados concluído.")
     print(f"Total de requisições à API (Odds + Estatísticas): {total_api_requests}")
     return all_events_data, total_api_requests
 
 if __name__ == "__main__":
-    collected_data, total_requests = run_data_pipeline()
+    collected_data, total_requests_made = run_data_pipeline() # Renomeado para evitar conflito
 
     print(f"\n--- Resumo da Execução ---")
-    print(f"Total de requisições à API: {total_requests}")
+    print(f"Total de requisições à API: {total_requests_made}")
 
     if collected_data:
         print(f"Total de eventos ATP Singles 'pre-game' coletados com suas odds e estatísticas: {len(collected_data)}")
-        if collected_data: # Verifica novamente se há dados antes de tentar acessar o índice 0
-            print("\nExemplo do primeiro evento ATP Singles 'pre-game' coletado:")
+        if collected_data:
+            print("\nExemplo do primeiro evento ATP Singles 'pre-game' coletado (se houver):")
             try:
                 print(json.dumps(collected_data[0], indent=2, ensure_ascii=False))
             except IndexError:
                 print("Nenhum evento coletado para exibir como exemplo.")
 
             try:
-                with open("dados/collected_tennis_data_atp_singles_pregame_with_stats.json", "w", encoding="utf-8") as f:
+                output_filename = "collected_tennis_data_atp_singles_pregame_with_stats.json"
+                with open(output_filename, "w", encoding="utf-8") as f:
                     json.dump(collected_data, f, indent=2, ensure_ascii=False)
-                print("\nDados salvos em collected_tennis_data_atp_singles_pregame_with_stats.json")
+                print(f"\nDados salvos em {output_filename}")
             except IOError as e:
                 print(f"Erro ao salvar o arquivo JSON: {e}")
     else:
