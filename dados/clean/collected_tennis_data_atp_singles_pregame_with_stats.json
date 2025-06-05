@@ -1,0 +1,2277 @@
+[
+  {
+    "tournament_id": 2579,
+    "tournament_name": "French Open Men Singles",
+    "tournament_category": "ATP",
+    "event_id": "id1200257960690679",
+    "event_status": "pre-game",
+    "event_date": "2025-06-04",
+    "event_time": "11:20:00",
+    "participant1": {
+      "name_api": "Sinner, Jannik",
+      "id_api": 225050,
+      "stats": {
+        "player_id": "S0AG",
+        "name": "Jannik Sinner",
+        "ReturnRecordStatsClay": {
+          "BreakPointsConvertedPercentage": 48,
+          "BreakPointsOpportunities": 120,
+          "FirstServeReturnPointsWonPercentage": 35,
+          "ReturnGamesPlayed": 175,
+          "ReturnGamesWonPercentage": 33,
+          "ReturnPointsWonPercentage": 43,
+          "SecondServeReturnPointsWonPercentage": 54,
+          "TotalPointsWonPercentage": 55
+        },
+        "ServiceRecordStatsClay": {
+          "Aces": 59,
+          "BreakPointsFaced": 68,
+          "BreakPointsSavedPercentage": 69,
+          "DoubleFaults": 29,
+          "FirstServePercentage": 62,
+          "FirstServePointsWonPercentage": 79,
+          "SecondServePointsWonPercentage": 54,
+          "ServiceGamesPlayed": 176,
+          "ServiceGamesWonPercentage": 88,
+          "ServicePointsWonPercentage": 69
+        },
+        "surface_summary": [
+          {
+            "year": 2025,
+            "surfaces": [
+              {
+                "courtId": 1,
+                "court": "Hard",
+                "courtWins": 7,
+                "courtLosses": 0
+              },
+              {
+                "courtId": 2,
+                "court": "Clay",
+                "courtWins": 9,
+                "courtLosses": 1
+              }
+            ]
+          },
+          {
+            "year": 2024,
+            "surfaces": [
+              {
+                "courtId": 1,
+                "court": "Hard",
+                "courtWins": 40,
+                "courtLosses": 3
+              },
+              {
+                "courtId": 5,
+                "court": "Grass",
+                "courtWins": 9,
+                "courtLosses": 1
+              },
+              {
+                "courtId": 3,
+                "court": "I.hard",
+                "courtWins": 13,
+                "courtLosses": 0
+              },
+              {
+                "courtId": 2,
+                "court": "Clay",
+                "courtWins": 11,
+                "courtLosses": 2
+              }
+            ]
+          },
+          {
+            "year": 2023,
+            "surfaces": [
+              {
+                "courtId": 5,
+                "court": "Grass",
+                "courtWins": 8,
+                "courtLosses": 3
+              },
+              {
+                "courtId": 3,
+                "court": "I.hard",
+                "courtWins": 20,
+                "courtLosses": 2
+              },
+              {
+                "courtId": 2,
+                "court": "Clay",
+                "courtWins": 8,
+                "courtLosses": 3
+              },
+              {
+                "courtId": 1,
+                "court": "Hard",
+                "courtWins": 28,
+                "courtLosses": 7
+              }
+            ]
+          }
+        ],
+        "past_matches": {
+          "data": [
+            {
+              "id": "5503841827",
+              "date": "2025-06-02T21:20:00.000Z",
+              "roundId": 7,
+              "player1Id": 47275,
+              "player2Id": 29372,
+              "tournamentId": 20340,
+              "match_winner": 47275,
+              "result": "6-1 6-3 6-4",
+              "player1": {
+                "id": 47275,
+                "name": "Jannik Sinner",
+                "countryAcr": "ITA"
+              },
+              "player2": {
+                "id": 29372,
+                "name": "Andrey Rublev",
+                "countryAcr": "RUS"
+              }
+            },
+            {
+              "id": "5468738077",
+              "date": "2025-05-31T13:45:00.000Z",
+              "roundId": 6,
+              "player1Id": 47275,
+              "player2Id": 61838,
+              "tournamentId": 20340,
+              "match_winner": 47275,
+              "result": "6-0 6-1 6-2",
+              "player1": {
+                "id": 47275,
+                "name": "Jannik Sinner",
+                "countryAcr": "ITA"
+              },
+              "player2": {
+                "id": 61838,
+                "name": "Jiri Lehecka",
+                "countryAcr": "CZE"
+              }
+            },
+            {
+              "id": "5407639256",
+              "date": "2025-05-29T15:20:00.000Z",
+              "roundId": 5,
+              "player1Id": 47275,
+              "player2Id": 674,
+              "tournamentId": 20340,
+              "match_winner": 47275,
+              "result": "6-3 6-0 6-4",
+              "player1": {
+                "id": 47275,
+                "name": "Jannik Sinner",
+                "countryAcr": "ITA"
+              },
+              "player2": {
+                "id": 674,
+                "name": "Richard Gasquet",
+                "countryAcr": "FRA"
+              }
+            },
+            {
+              "id": "5321904660",
+              "date": "2025-05-26T21:15:00.000Z",
+              "roundId": 4,
+              "player1Id": 47275,
+              "player2Id": 28170,
+              "tournamentId": 20340,
+              "match_winner": 47275,
+              "result": "6-4 6-3 7-5",
+              "player1": {
+                "id": 47275,
+                "name": "Jannik Sinner",
+                "countryAcr": "ITA"
+              },
+              "player2": {
+                "id": 28170,
+                "name": "Arthur Rinderknech",
+                "countryAcr": "FRA"
+              }
+            },
+            {
+              "id": "5055899751",
+              "date": "2025-05-18T18:00:00.000Z",
+              "roundId": 12,
+              "player1Id": 68074,
+              "player2Id": 47275,
+              "tournamentId": 20337,
+              "match_winner": 68074,
+              "result": "7-6(5) 6-1",
+              "player1": {
+                "id": 68074,
+                "name": "Carlos Alcaraz",
+                "countryAcr": "ESP"
+              },
+              "player2": {
+                "id": 47275,
+                "name": "Jannik Sinner",
+                "countryAcr": "ITA"
+              }
+            },
+            {
+              "id": "4993654449",
+              "date": "2025-05-16T21:30:00.000Z",
+              "roundId": 10,
+              "player1Id": 47275,
+              "player2Id": 29935,
+              "tournamentId": 20337,
+              "match_winner": 47275,
+              "result": "1-6 6-0 6-3",
+              "player1": {
+                "id": 47275,
+                "name": "Jannik Sinner",
+                "countryAcr": "ITA"
+              },
+              "player2": {
+                "id": 29935,
+                "name": "Tommy Paul",
+                "countryAcr": "USA"
+              }
+            },
+            {
+              "id": "4959941956",
+              "date": "2025-05-15T20:10:00.000Z",
+              "roundId": 9,
+              "player1Id": 47275,
+              "player2Id": 33648,
+              "tournamentId": 20337,
+              "match_winner": 47275,
+              "result": "6-0 6-1",
+              "player1": {
+                "id": 47275,
+                "name": "Jannik Sinner",
+                "countryAcr": "ITA"
+              },
+              "player2": {
+                "id": 33648,
+                "name": "Casper Ruud",
+                "countryAcr": "NOR"
+              }
+            },
+            {
+              "id": "4899028144",
+              "date": "2025-05-13T20:30:00.000Z",
+              "roundId": 7,
+              "player1Id": 47275,
+              "player2Id": 52279,
+              "tournamentId": 20337,
+              "match_winner": 47275,
+              "result": "7-6(2) 6-3",
+              "player1": {
+                "id": 47275,
+                "name": "Jannik Sinner",
+                "countryAcr": "ITA"
+              },
+              "player2": {
+                "id": 52279,
+                "name": "Francisco Cerundolo",
+                "countryAcr": "ARG"
+              }
+            },
+            {
+              "id": "4862759920",
+              "date": "2025-05-12T17:00:00.000Z",
+              "roundId": 6,
+              "player1Id": 47275,
+              "player2Id": 59166,
+              "tournamentId": 20337,
+              "match_winner": 47275,
+              "result": "6-4 6-2",
+              "player1": {
+                "id": 47275,
+                "name": "Jannik Sinner",
+                "countryAcr": "ITA"
+              },
+              "player2": {
+                "id": 59166,
+                "name": "Jesper De Jong",
+                "countryAcr": "NED"
+              }
+            },
+            {
+              "id": "4803196180",
+              "date": "2025-05-10T20:00:00.000Z",
+              "roundId": 5,
+              "player1Id": 47275,
+              "player2Id": 66828,
+              "tournamentId": 20337,
+              "match_winner": 47275,
+              "result": "6-3 6-4",
+              "player1": {
+                "id": 47275,
+                "name": "Jannik Sinner",
+                "countryAcr": "ITA"
+              },
+              "player2": {
+                "id": 66828,
+                "name": "Mariano Navone",
+                "countryAcr": "ARG"
+              }
+            }
+          ],
+          "hasNextPage": true
+        }
+      }
+    },
+    "participant2": {
+      "name_api": "Bublik, Alexander",
+      "id_api": 163480,
+      "stats": {
+        "player_id": "BK92",
+        "name": "Alexander Bublik",
+        "ReturnRecordStatsClay": {
+          "BreakPointsConvertedPercentage": 53,
+          "BreakPointsOpportunities": 53,
+          "FirstServeReturnPointsWonPercentage": 31,
+          "ReturnGamesPlayed": 119,
+          "ReturnGamesWonPercentage": 24,
+          "ReturnPointsWonPercentage": 36,
+          "SecondServeReturnPointsWonPercentage": 44,
+          "TotalPointsWonPercentage": 48
+        },
+        "ServiceRecordStatsClay": {
+          "Aces": 76,
+          "BreakPointsFaced": 97,
+          "BreakPointsSavedPercentage": 64,
+          "DoubleFaults": 72,
+          "FirstServePercentage": 59,
+          "FirstServePointsWonPercentage": 69,
+          "SecondServePointsWonPercentage": 44,
+          "ServiceGamesPlayed": 120,
+          "ServiceGamesWonPercentage": 71,
+          "ServicePointsWonPercentage": 59
+        }
+      }
+    },
+    "bookmaker_count_event": 254,
+    "start_time_unix_event": 1749036000,
+    "odds_bet365": [
+      {
+        "market": "Winner",
+        "short": "Winner",
+        "handicap": "0",
+        "odds_type": "2Way",
+        "outcome": "1",
+        "odds": 1.02
+      },
+      {
+        "market": "Winner",
+        "short": "Winner",
+        "handicap": "0",
+        "odds_type": "2Way",
+        "outcome": "2",
+        "odds": 17.0
+      },
+      {
+        "market": "First Set Winner",
+        "short": "1st Set Winner",
+        "handicap": "0",
+        "odds_type": "2Way",
+        "outcome": "1",
+        "odds": 1.12
+      },
+      {
+        "market": "First Set Winner",
+        "short": "1st Set Winner",
+        "handicap": "0",
+        "odds_type": "2Way",
+        "outcome": "2",
+        "odds": 6.0
+      },
+      {
+        "market": "Total Games Over Under",
+        "short": "Total",
+        "handicap": "28.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 1.8
+      },
+      {
+        "market": "Total Games Over Under",
+        "short": "Total",
+        "handicap": "28.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.9
+      },
+      {
+        "market": "Game Handicap",
+        "short": "Spread",
+        "handicap": "-8.50",
+        "odds_type": "Handicap",
+        "outcome": "1",
+        "odds": 1.66
+      },
+      {
+        "market": "Game Handicap",
+        "short": "Spread",
+        "handicap": "-8.50",
+        "odds_type": "Handicap",
+        "outcome": "2",
+        "odds": 2.1
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "0.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 3.25
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "0.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.33
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "1.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 10.5
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "1.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.02
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "2.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 26.0
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "2.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.0
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "6.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 1.04
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "6.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 13.0
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "7.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 1.2
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "7.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 4.33
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "8.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 1.61
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "8.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 2.2
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "9.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 2.5
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "9.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.5
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "10.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 5.5
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "10.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.14
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "12.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 9.0
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "12.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.07
+      }
+    ]
+  },
+  {
+    "tournament_id": 2579,
+    "tournament_name": "French Open Men Singles",
+    "tournament_category": "ATP",
+    "event_id": "id1200257960690681",
+    "event_status": "pre-game",
+    "event_date": "2025-06-04",
+    "event_time": "18:15:00",
+    "participant1": {
+      "name_api": "Zverev, Alexander",
+      "id_api": 57163,
+      "stats": {
+        "player_id": "Z355",
+        "name": "Alexander Zverev",
+        "ReturnRecordStatsClay": {
+          "BreakPointsConvertedPercentage": 34,
+          "BreakPointsOpportunities": 254,
+          "FirstServeReturnPointsWonPercentage": 32,
+          "ReturnGamesPlayed": 325,
+          "ReturnGamesWonPercentage": 27,
+          "ReturnPointsWonPercentage": 40,
+          "SecondServeReturnPointsWonPercentage": 54,
+          "TotalPointsWonPercentage": 53
+        },
+        "ServiceRecordStatsClay": {
+          "Aces": 197,
+          "BreakPointsFaced": 114,
+          "BreakPointsSavedPercentage": 62,
+          "DoubleFaults": 57,
+          "FirstServePercentage": 72,
+          "FirstServePointsWonPercentage": 75,
+          "SecondServePointsWonPercentage": 51,
+          "ServiceGamesPlayed": 319,
+          "ServiceGamesWonPercentage": 87,
+          "ServicePointsWonPercentage": 68
+        },
+        "surface_summary": [
+          {
+            "year": 2025,
+            "surfaces": [
+              {
+                "courtId": 2,
+                "court": "Clay",
+                "courtWins": 18,
+                "courtLosses": 6
+              },
+              {
+                "courtId": 1,
+                "court": "Hard",
+                "courtWins": 11,
+                "courtLosses": 4
+              }
+            ]
+          },
+          {
+            "year": 2024,
+            "surfaces": [
+              {
+                "courtId": 5,
+                "court": "Grass",
+                "courtWins": 6,
+                "courtLosses": 2
+              },
+              {
+                "courtId": 3,
+                "court": "I.hard",
+                "courtWins": 11,
+                "courtLosses": 3
+              },
+              {
+                "courtId": 2,
+                "court": "Clay",
+                "courtWins": 23,
+                "courtLosses": 6
+              },
+              {
+                "courtId": 1,
+                "court": "Hard",
+                "courtWins": 29,
+                "courtLosses": 10
+              }
+            ]
+          },
+          {
+            "year": 2023,
+            "surfaces": [
+              {
+                "courtId": 2,
+                "court": "Clay",
+                "courtWins": 20,
+                "courtLosses": 7
+              },
+              {
+                "courtId": 5,
+                "court": "Grass",
+                "courtWins": 5,
+                "courtLosses": 2
+              },
+              {
+                "courtId": 3,
+                "court": "I.hard",
+                "courtWins": 8,
+                "courtLosses": 5
+              },
+              {
+                "courtId": 1,
+                "court": "Hard",
+                "courtWins": 22,
+                "courtLosses": 12
+              }
+            ]
+          }
+        ],
+        "past_matches": {
+          "data": [
+            {
+              "id": "5492140087",
+              "date": "2025-06-02T13:50:00.000Z",
+              "roundId": 7,
+              "player1Id": 24008,
+              "player2Id": 33860,
+              "tournamentId": 20340,
+              "match_winner": 24008,
+              "result": "6-4 3-0 ret.",
+              "player1": {
+                "id": 24008,
+                "name": "Alexander Zverev",
+                "countryAcr": "GER"
+              },
+              "player2": {
+                "id": 33860,
+                "name": "Tallon Griekspoor",
+                "countryAcr": "NED"
+              }
+            },
+            {
+              "id": "5471338432",
+              "date": "2025-05-31T15:14:00.000Z",
+              "roundId": 6,
+              "player1Id": 24008,
+              "player2Id": 67546,
+              "tournamentId": 20340,
+              "match_winner": 24008,
+              "result": "6-2 7-6(4) 6-1",
+              "player1": {
+                "id": 24008,
+                "name": "Alexander Zverev",
+                "countryAcr": "GER"
+              },
+              "player2": {
+                "id": 67546,
+                "name": "Flavio Cobolli",
+                "countryAcr": "ITA"
+              }
+            },
+            {
+              "id": "5406339715",
+              "date": "2025-05-29T13:40:00.000Z",
+              "roundId": 5,
+              "player1Id": 24008,
+              "player2Id": 59166,
+              "tournamentId": 20340,
+              "match_winner": 24008,
+              "result": "3-6 6-1 6-2 6-3",
+              "player1": {
+                "id": 24008,
+                "name": "Alexander Zverev",
+                "countryAcr": "GER"
+              },
+              "player2": {
+                "id": 59166,
+                "name": "Jesper De Jong",
+                "countryAcr": "NED"
+              }
+            },
+            {
+              "id": "5343979146",
+              "date": "2025-05-27T13:40:00.000Z",
+              "roundId": 4,
+              "player1Id": 24008,
+              "player2Id": 93452,
+              "tournamentId": 20340,
+              "match_winner": 24008,
+              "result": "6-3 6-3 6-4",
+              "player1": {
+                "id": 24008,
+                "name": "Alexander Zverev",
+                "countryAcr": "GER"
+              },
+              "player2": {
+                "id": 93452,
+                "name": "Learner Tien",
+                "countryAcr": "USA"
+              }
+            },
+            {
+              "id": "5157052241",
+              "date": "2025-05-21T17:00:00.000Z",
+              "roundId": 5,
+              "player1Id": 28108,
+              "player2Id": 24008,
+              "tournamentId": 20338,
+              "match_winner": 28108,
+              "result": "6-3 4-6 7-6(5)",
+              "player1": {
+                "id": 28108,
+                "name": "Alexandre Muller",
+                "countryAcr": "FRA"
+              },
+              "player2": {
+                "id": 24008,
+                "name": "Alexander Zverev",
+                "countryAcr": "GER"
+              }
+            },
+            {
+              "id": "5085717752",
+              "date": "2025-05-19T16:30:00.000Z",
+              "roundId": 4,
+              "player1Id": 24008,
+              "player2Id": 39152,
+              "tournamentId": 20338,
+              "match_winner": 24008,
+              "result": "6-1 7-6(5)",
+              "player1": {
+                "id": 24008,
+                "name": "Alexander Zverev",
+                "countryAcr": "GER"
+              },
+              "player2": {
+                "id": 39152,
+                "name": "Aleksandar Kovacevic",
+                "countryAcr": "USA"
+              }
+            },
+            {
+              "id": "4932719689",
+              "date": "2025-05-14T22:15:00.000Z",
+              "roundId": 9,
+              "player1Id": 63572,
+              "player2Id": 24008,
+              "tournamentId": 20337,
+              "match_winner": 63572,
+              "result": "7-6(1) 6-4",
+              "player1": {
+                "id": 63572,
+                "name": "Lorenzo Musetti",
+                "countryAcr": "ITA"
+              },
+              "player2": {
+                "id": 24008,
+                "name": "Alexander Zverev",
+                "countryAcr": "GER"
+              }
+            },
+            {
+              "id": "4899028185",
+              "date": "2025-05-13T20:40:00.000Z",
+              "roundId": 7,
+              "player1Id": 24008,
+              "player2Id": 83135,
+              "tournamentId": 20337,
+              "match_winner": 24008,
+              "result": "7-6(3) 6-1",
+              "player1": {
+                "id": 24008,
+                "name": "Alexander Zverev",
+                "countryAcr": "GER"
+              },
+              "player2": {
+                "id": 83135,
+                "name": "Arthur Fils",
+                "countryAcr": "FRA"
+              }
+            },
+            {
+              "id": "4830388418",
+              "date": "2025-05-11T16:20:00.000Z",
+              "roundId": 6,
+              "player1Id": 24008,
+              "player2Id": 79088,
+              "tournamentId": 20337,
+              "match_winner": 24008,
+              "result": "6-4 6-0",
+              "player1": {
+                "id": 24008,
+                "name": "Alexander Zverev",
+                "countryAcr": "GER"
+              },
+              "player2": {
+                "id": 79088,
+                "name": "Vilius Gaubas",
+                "countryAcr": "LTU"
+              }
+            },
+            {
+              "id": "4776005546",
+              "date": "2025-05-09T22:10:00.000Z",
+              "roundId": 5,
+              "player1Id": 24008,
+              "player2Id": 42229,
+              "tournamentId": 20337,
+              "match_winner": 24008,
+              "result": "6-2 6-1",
+              "player1": {
+                "id": 24008,
+                "name": "Alexander Zverev",
+                "countryAcr": "GER"
+              },
+              "player2": {
+                "id": 42229,
+                "name": "Camilo Ugo Carabelli",
+                "countryAcr": "ARG"
+              }
+            }
+          ],
+          "hasNextPage": true
+        }
+      }
+    },
+    "participant2": {
+      "name_api": "Djokovic, Novak",
+      "id_api": 14882,
+      "stats": {
+        "player_id": "D643",
+        "name": "Novak Djokovic",
+        "ReturnRecordStatsClay": {
+          "BreakPointsConvertedPercentage": 50,
+          "BreakPointsOpportunities": 124,
+          "FirstServeReturnPointsWonPercentage": 39,
+          "ReturnGamesPlayed": 164,
+          "ReturnGamesWonPercentage": 38,
+          "ReturnPointsWonPercentage": 44,
+          "SecondServeReturnPointsWonPercentage": 52,
+          "TotalPointsWonPercentage": 55
+        },
+        "ServiceRecordStatsClay": {
+          "Aces": 49,
+          "BreakPointsFaced": 92,
+          "BreakPointsSavedPercentage": 63,
+          "DoubleFaults": 22,
+          "FirstServePercentage": 65,
+          "FirstServePointsWonPercentage": 71,
+          "SecondServePointsWonPercentage": 54,
+          "ServiceGamesPlayed": 167,
+          "ServiceGamesWonPercentage": 80,
+          "ServicePointsWonPercentage": 65
+        },
+        "surface_summary": [
+          {
+            "year": 2025,
+            "surfaces": [
+              {
+                "courtId": 2,
+                "court": "Clay",
+                "courtWins": 8,
+                "courtLosses": 2
+              },
+              {
+                "courtId": 1,
+                "court": "Hard",
+                "courtWins": 12,
+                "courtLosses": 5
+              }
+            ]
+          },
+          {
+            "year": 2024,
+            "surfaces": [
+              {
+                "courtId": 1,
+                "court": "Hard",
+                "courtWins": 15,
+                "courtLosses": 5
+              },
+              {
+                "courtId": 5,
+                "court": "Grass",
+                "courtWins": 5,
+                "courtLosses": 1
+              },
+              {
+                "courtId": 3,
+                "court": "I.hard",
+                "courtWins": 1,
+                "courtLosses": 0
+              },
+              {
+                "courtId": 2,
+                "court": "Clay",
+                "courtWins": 16,
+                "courtLosses": 3
+              }
+            ]
+          },
+          {
+            "year": 2023,
+            "surfaces": [
+              {
+                "courtId": 2,
+                "court": "Clay",
+                "courtWins": 12,
+                "courtLosses": 3
+              },
+              {
+                "courtId": 5,
+                "court": "Grass",
+                "courtWins": 6,
+                "courtLosses": 1
+              },
+              {
+                "courtId": 3,
+                "court": "I.hard",
+                "courtWins": 11,
+                "courtLosses": 2
+              },
+              {
+                "courtId": 1,
+                "court": "Hard",
+                "courtWins": 27,
+                "courtLosses": 1
+              }
+            ]
+          }
+        ],
+        "past_matches": {
+          "data": [
+            {
+              "id": "5498640854",
+              "date": "2025-06-02T16:40:00.000Z",
+              "roundId": 7,
+              "player1Id": 5992,
+              "player2Id": 27851,
+              "tournamentId": 20340,
+              "match_winner": 5992,
+              "result": "6-2 6-3 6-2",
+              "player1": {
+                "id": 5992,
+                "name": "Novak Djokovic",
+                "countryAcr": "SRB"
+              },
+              "player2": {
+                "id": 27851,
+                "name": "Cameron Norrie",
+                "countryAcr": "GBR"
+              }
+            },
+            {
+              "id": "5479139588",
+              "date": "2025-05-31T21:15:00.000Z",
+              "roundId": 6,
+              "player1Id": 5992,
+              "player2Id": 51417,
+              "tournamentId": 20340,
+              "match_winner": 5992,
+              "result": "6-3 6-4 6-2",
+              "player1": {
+                "id": 5992,
+                "name": "Novak Djokovic",
+                "countryAcr": "SRB"
+              },
+              "player2": {
+                "id": 51417,
+                "name": "Filip Misolic",
+                "countryAcr": "AUT"
+              }
+            },
+            {
+              "id": "5412838363",
+              "date": "2025-05-29T18:30:00.000Z",
+              "roundId": 5,
+              "player1Id": 5992,
+              "player2Id": 36263,
+              "tournamentId": 20340,
+              "match_winner": 5992,
+              "result": "6-3 6-2 7-6(1)",
+              "player1": {
+                "id": 5992,
+                "name": "Novak Djokovic",
+                "countryAcr": "SRB"
+              },
+              "player2": {
+                "id": 36263,
+                "name": "Corentin Moutet",
+                "countryAcr": "FRA"
+              }
+            },
+            {
+              "id": "5347875190",
+              "date": "2025-05-27T16:00:00.000Z",
+              "roundId": 4,
+              "player1Id": 5992,
+              "player2Id": 18094,
+              "tournamentId": 20340,
+              "match_winner": 5992,
+              "result": "6-3 6-3 6-3",
+              "player1": {
+                "id": 5992,
+                "name": "Novak Djokovic",
+                "countryAcr": "SRB"
+              },
+              "player2": {
+                "id": 18094,
+                "name": "Mackenzie Mcdonald",
+                "countryAcr": "USA"
+              }
+            },
+            {
+              "id": "5251806325",
+              "date": "2025-05-24T16:15:00.000Z",
+              "roundId": 12,
+              "player1Id": 5992,
+              "player2Id": 26473,
+              "tournamentId": 20339,
+              "match_winner": 5992,
+              "result": "5-7 7-6(2) 7-6(2)",
+              "player1": {
+                "id": 5992,
+                "name": "Novak Djokovic",
+                "countryAcr": "SRB"
+              },
+              "player2": {
+                "id": 26473,
+                "name": "Hubert Hurkacz",
+                "countryAcr": "POL"
+              }
+            },
+            {
+              "id": "5220649019",
+              "date": "2025-05-23T17:00:00.000Z",
+              "roundId": 10,
+              "player1Id": 5992,
+              "player2Id": 27851,
+              "tournamentId": 20339,
+              "match_winner": 5992,
+              "result": "6-4 6-7(6) 6-1",
+              "player1": {
+                "id": 5992,
+                "name": "Novak Djokovic",
+                "countryAcr": "SRB"
+              },
+              "player2": {
+                "id": 27851,
+                "name": "Cameron Norrie",
+                "countryAcr": "GBR"
+              }
+            },
+            {
+              "id": "5193389530",
+              "date": "2025-05-22T20:20:00.000Z",
+              "roundId": 9,
+              "player1Id": 5992,
+              "player2Id": 73956,
+              "tournamentId": 20339,
+              "match_winner": 5992,
+              "result": "6-4 6-4",
+              "player1": {
+                "id": 5992,
+                "name": "Novak Djokovic",
+                "countryAcr": "SRB"
+              },
+              "player2": {
+                "id": 73956,
+                "name": "Matteo Arnaldi",
+                "countryAcr": "ITA"
+              }
+            },
+            {
+              "id": "5158349876",
+              "date": "2025-05-21T19:00:00.000Z",
+              "roundId": 5,
+              "player1Id": 5992,
+              "player2Id": 13674,
+              "tournamentId": 20339,
+              "match_winner": 5992,
+              "result": "6-2 6-3",
+              "player1": {
+                "id": 5992,
+                "name": "Novak Djokovic",
+                "countryAcr": "SRB"
+              },
+              "player2": {
+                "id": 13674,
+                "name": "Marton Fucsovics",
+                "countryAcr": "HUN"
+              }
+            },
+            {
+              "id": "4365931746",
+              "date": "2025-04-26T16:30:00.000Z",
+              "roundId": 5,
+              "player1Id": 73956,
+              "player2Id": 5992,
+              "tournamentId": 20336,
+              "match_winner": 73956,
+              "result": "6-3 6-4",
+              "player1": {
+                "id": 73956,
+                "name": "Matteo Arnaldi",
+                "countryAcr": "ITA"
+              },
+              "player2": {
+                "id": 5992,
+                "name": "Novak Djokovic",
+                "countryAcr": "SRB"
+              }
+            },
+            {
+              "id": "2225978913",
+              "date": "2025-04-09T17:10:00.000Z",
+              "roundId": 5,
+              "player1Id": 30087,
+              "player2Id": 5992,
+              "tournamentId": 20333,
+              "match_winner": 30087,
+              "result": "6-3 6-4",
+              "player1": {
+                "id": 30087,
+                "name": "Alejandro Tabilo",
+                "countryAcr": "CHI"
+              },
+              "player2": {
+                "id": 5992,
+                "name": "Novak Djokovic",
+                "countryAcr": "SRB"
+              }
+            }
+          ],
+          "hasNextPage": true
+        }
+      }
+    },
+    "bookmaker_count_event": 255,
+    "start_time_unix_event": 1749060900,
+    "odds_bet365": [
+      {
+        "market": "Winner",
+        "short": "Winner",
+        "handicap": "0",
+        "odds_type": "2Way",
+        "outcome": "1",
+        "odds": 1.9
+      },
+      {
+        "market": "Winner",
+        "short": "Winner",
+        "handicap": "0",
+        "odds_type": "2Way",
+        "outcome": "2",
+        "odds": 1.9
+      },
+      {
+        "market": "First Set Winner",
+        "short": "1st Set Winner",
+        "handicap": "0",
+        "odds_type": "2Way",
+        "outcome": "1",
+        "odds": 1.9
+      },
+      {
+        "market": "First Set Winner",
+        "short": "1st Set Winner",
+        "handicap": "0",
+        "odds_type": "2Way",
+        "outcome": "2",
+        "odds": 1.9
+      },
+      {
+        "market": "Total Games Over Under",
+        "short": "Total",
+        "handicap": "40.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 1.83
+      },
+      {
+        "market": "Total Games Over Under",
+        "short": "Total",
+        "handicap": "40.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.83
+      },
+      {
+        "market": "Game Handicap",
+        "short": "Spread",
+        "handicap": "0.50",
+        "odds_type": "Handicap",
+        "outcome": "1",
+        "odds": 1.8
+      },
+      {
+        "market": "Game Handicap",
+        "short": "Spread",
+        "handicap": "0.50",
+        "odds_type": "Handicap",
+        "outcome": "2",
+        "odds": 1.9
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "0.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 1.5
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "0.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 2.5
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "1.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 4.0
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "1.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.22
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "2.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 11.0
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "2.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.02
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "3.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 26.0
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "3.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.0
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "6.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 1.0
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "6.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 29.0
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "7.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 1.06
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "7.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 10.0
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "8.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 1.2
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "8.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 4.33
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "9.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 1.61
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "9.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 2.2
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "10.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 3.0
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "10.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.36
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "12.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 4.0
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "12.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.22
+      }
+    ]
+  },
+  {
+    "tournament_id": 2579,
+    "tournament_name": "French Open Men Singles",
+    "tournament_category": "ATP",
+    "event_id": "id1200257960690687",
+    "event_status": "pre-game",
+    "event_date": "2025-06-06",
+    "event_time": "12:30:00",
+    "participant1": {
+      "name_api": "Musetti, Lorenzo",
+      "id_api": 359602,
+      "stats": {
+        "player_id": "M0EJ",
+        "name": "Lorenzo Musetti",
+        "ReturnRecordStatsClay": {
+          "BreakPointsConvertedPercentage": 45,
+          "BreakPointsOpportunities": 106,
+          "FirstServeReturnPointsWonPercentage": 34,
+          "ReturnGamesPlayed": 170,
+          "ReturnGamesWonPercentage": 28,
+          "ReturnPointsWonPercentage": 40,
+          "SecondServeReturnPointsWonPercentage": 51,
+          "TotalPointsWonPercentage": 51
+        },
+        "ServiceRecordStatsClay": {
+          "Aces": 30,
+          "BreakPointsFaced": 73,
+          "BreakPointsSavedPercentage": 52,
+          "DoubleFaults": 17,
+          "FirstServePercentage": 63,
+          "FirstServePointsWonPercentage": 71,
+          "SecondServePointsWonPercentage": 51,
+          "ServiceGamesPlayed": 167,
+          "ServiceGamesWonPercentage": 79,
+          "ServicePointsWonPercentage": 63
+        },
+        "surface_summary": [
+          {
+            "year": 2025,
+            "surfaces": [
+              {
+                "courtId": 2,
+                "court": "Clay",
+                "courtWins": 19,
+                "courtLosses": 3
+              },
+              {
+                "courtId": 1,
+                "court": "Hard",
+                "courtWins": 6,
+                "courtLosses": 4
+              }
+            ]
+          },
+          {
+            "year": 2024,
+            "surfaces": [
+              {
+                "courtId": 1,
+                "court": "Hard",
+                "courtWins": 13,
+                "courtLosses": 12
+              },
+              {
+                "courtId": 5,
+                "court": "Grass",
+                "courtWins": 12,
+                "courtLosses": 3
+              },
+              {
+                "courtId": 3,
+                "court": "I.hard",
+                "courtWins": 3,
+                "courtLosses": 5
+              },
+              {
+                "courtId": 2,
+                "court": "Clay",
+                "courtWins": 18,
+                "courtLosses": 10
+              }
+            ]
+          },
+          {
+            "year": 2023,
+            "surfaces": [
+              {
+                "courtId": 2,
+                "court": "Clay",
+                "courtWins": 16,
+                "courtLosses": 11
+              },
+              {
+                "courtId": 5,
+                "court": "Grass",
+                "courtWins": 6,
+                "courtLosses": 3
+              },
+              {
+                "courtId": 3,
+                "court": "I.hard",
+                "courtWins": 0,
+                "courtLosses": 5
+              },
+              {
+                "courtId": 1,
+                "court": "Hard",
+                "courtWins": 10,
+                "courtLosses": 10
+              }
+            ]
+          }
+        ],
+        "past_matches": {
+          "data": [
+            {
+              "id": "5531149716",
+              "date": "2025-06-03T16:30:00.000Z",
+              "roundId": 9,
+              "player1Id": 63572,
+              "player2Id": 29939,
+              "tournamentId": 20340,
+              "match_winner": 63572,
+              "result": "6-2 4-6 7-5 6-2",
+              "player1": {
+                "id": 63572,
+                "name": "Lorenzo Musetti",
+                "countryAcr": "ITA"
+              },
+              "player2": {
+                "id": 29939,
+                "name": "Frances Tiafoe",
+                "countryAcr": "USA"
+              }
+            },
+            {
+              "id": "5483040058",
+              "date": "2025-06-01T21:20:00.000Z",
+              "roundId": 7,
+              "player1Id": 63572,
+              "player2Id": 69471,
+              "tournamentId": 20340,
+              "match_winner": 63572,
+              "result": "7-5 3-6 6-3 6-2",
+              "player1": {
+                "id": 63572,
+                "name": "Lorenzo Musetti",
+                "countryAcr": "ITA"
+              },
+              "player2": {
+                "id": 69471,
+                "name": "Holger Rune",
+                "countryAcr": "DEN"
+              }
+            },
+            {
+              "id": "5437535718",
+              "date": "2025-05-30T12:00:00.000Z",
+              "roundId": 6,
+              "player1Id": 63572,
+              "player2Id": 66828,
+              "tournamentId": 20340,
+              "match_winner": 63572,
+              "result": "4-6 6-4 6-3 6-2",
+              "player1": {
+                "id": 63572,
+                "name": "Lorenzo Musetti",
+                "countryAcr": "ITA"
+              },
+              "player2": {
+                "id": 66828,
+                "name": "Mariano Navone",
+                "countryAcr": "ARG"
+              }
+            },
+            {
+              "id": "5371255324",
+              "date": "2025-05-28T12:00:00.000Z",
+              "roundId": 5,
+              "player1Id": 63572,
+              "player2Id": 26845,
+              "tournamentId": 20340,
+              "match_winner": 63572,
+              "result": "6-4 6-0 6-4",
+              "player1": {
+                "id": 63572,
+                "name": "Lorenzo Musetti",
+                "countryAcr": "ITA"
+              },
+              "player2": {
+                "id": 26845,
+                "name": "Daniel Elahi Galan",
+                "countryAcr": "COL"
+              }
+            },
+            {
+              "id": "5281662415",
+              "date": "2025-05-25T16:26:00.000Z",
+              "roundId": 4,
+              "player1Id": 63572,
+              "player2Id": 14856,
+              "tournamentId": 20340,
+              "match_winner": 63572,
+              "result": "7-5 6-2 6-0",
+              "player1": {
+                "id": 63572,
+                "name": "Lorenzo Musetti",
+                "countryAcr": "ITA"
+              },
+              "player2": {
+                "id": 14856,
+                "name": "Yannick Hanfmann",
+                "countryAcr": "GER"
+              }
+            },
+            {
+              "id": "4987170647",
+              "date": "2025-05-16T16:30:00.000Z",
+              "roundId": 10,
+              "player1Id": 68074,
+              "player2Id": 63572,
+              "tournamentId": 20337,
+              "match_winner": 68074,
+              "result": "6-3 7-6(4)",
+              "player1": {
+                "id": 68074,
+                "name": "Carlos Alcaraz",
+                "countryAcr": "ESP"
+              },
+              "player2": {
+                "id": 63572,
+                "name": "Lorenzo Musetti",
+                "countryAcr": "ITA"
+              }
+            },
+            {
+              "id": "4932719689",
+              "date": "2025-05-14T22:15:00.000Z",
+              "roundId": 9,
+              "player1Id": 63572,
+              "player2Id": 24008,
+              "tournamentId": 20337,
+              "match_winner": 63572,
+              "result": "7-6(1) 6-4",
+              "player1": {
+                "id": 63572,
+                "name": "Lorenzo Musetti",
+                "countryAcr": "ITA"
+              },
+              "player2": {
+                "id": 24008,
+                "name": "Alexander Zverev",
+                "countryAcr": "GER"
+              }
+            },
+            {
+              "id": "4896436896",
+              "date": "2025-05-13T16:00:00.000Z",
+              "roundId": 7,
+              "player1Id": 63572,
+              "player2Id": 22807,
+              "tournamentId": 20337,
+              "match_winner": 63572,
+              "result": "7-5 6-4",
+              "player1": {
+                "id": 63572,
+                "name": "Lorenzo Musetti",
+                "countryAcr": "ITA"
+              },
+              "player2": {
+                "id": 22807,
+                "name": "Daniil Medvedev",
+                "countryAcr": "RUS"
+              }
+            },
+            {
+              "id": "4827798561",
+              "date": "2025-05-11T14:30:00.000Z",
+              "roundId": 6,
+              "player1Id": 63572,
+              "player2Id": 56846,
+              "tournamentId": 20337,
+              "match_winner": 63572,
+              "result": "6-4 6-3",
+              "player1": {
+                "id": 63572,
+                "name": "Lorenzo Musetti",
+                "countryAcr": "ITA"
+              },
+              "player2": {
+                "id": 56846,
+                "name": "Brandon Nakashima",
+                "countryAcr": "USA"
+              }
+            },
+            {
+              "id": "4768237049",
+              "date": "2025-05-09T15:40:00.000Z",
+              "roundId": 5,
+              "player1Id": 63572,
+              "player2Id": 55252,
+              "tournamentId": 20337,
+              "match_winner": 63572,
+              "result": "6-3 6-2",
+              "player1": {
+                "id": 63572,
+                "name": "Lorenzo Musetti",
+                "countryAcr": "ITA"
+              },
+              "player2": {
+                "id": 55252,
+                "name": "Otto Virtanen",
+                "countryAcr": "FIN"
+              }
+            }
+          ],
+          "hasNextPage": true
+        }
+      }
+    },
+    "participant2": {
+      "name_api": "Alcaraz, Carlos",
+      "id_api": 407573,
+      "stats": {
+        "player_id": "A0E2",
+        "name": "Carlos Alcaraz",
+        "ReturnRecordStatsClay": {
+          "BreakPointsConvertedPercentage": 46,
+          "BreakPointsOpportunities": 158,
+          "FirstServeReturnPointsWonPercentage": 36,
+          "ReturnGamesPlayed": 194,
+          "ReturnGamesWonPercentage": 37,
+          "ReturnPointsWonPercentage": 45,
+          "SecondServeReturnPointsWonPercentage": 59,
+          "TotalPointsWonPercentage": 54
+        },
+        "ServiceRecordStatsClay": {
+          "Aces": 34,
+          "BreakPointsFaced": 105,
+          "BreakPointsSavedPercentage": 64,
+          "DoubleFaults": 35,
+          "FirstServePercentage": 68,
+          "FirstServePointsWonPercentage": 68,
+          "SecondServePointsWonPercentage": 55,
+          "ServiceGamesPlayed": 194,
+          "ServiceGamesWonPercentage": 80,
+          "ServicePointsWonPercentage": 64
+        },
+        "surface_summary": [
+          {
+            "year": 2025,
+            "surfaces": [
+              {
+                "courtId": 1,
+                "court": "Hard",
+                "courtWins": 10,
+                "courtLosses": 4
+              },
+              {
+                "courtId": 3,
+                "court": "I.hard",
+                "courtWins": 5,
+                "courtLosses": 0
+              },
+              {
+                "courtId": 2,
+                "court": "Clay",
+                "courtWins": 20,
+                "courtLosses": 1
+              }
+            ]
+          },
+          {
+            "year": 2024,
+            "surfaces": [
+              {
+                "courtId": 1,
+                "court": "Hard",
+                "courtWins": 22,
+                "courtLosses": 5
+              },
+              {
+                "courtId": 5,
+                "court": "Grass",
+                "courtWins": 8,
+                "courtLosses": 1
+              },
+              {
+                "courtId": 3,
+                "court": "I.hard",
+                "courtWins": 7,
+                "courtLosses": 3
+              },
+              {
+                "courtId": 2,
+                "court": "Clay",
+                "courtWins": 17,
+                "courtLosses": 4
+              }
+            ]
+          },
+          {
+            "year": 2023,
+            "surfaces": [
+              {
+                "courtId": 1,
+                "court": "Hard",
+                "courtWins": 26,
+                "courtLosses": 6
+              },
+              {
+                "courtId": 5,
+                "court": "Grass",
+                "courtWins": 12,
+                "courtLosses": 0
+              },
+              {
+                "courtId": 3,
+                "court": "I.hard",
+                "courtWins": 2,
+                "courtLosses": 3
+              },
+              {
+                "courtId": 2,
+                "court": "Clay",
+                "courtWins": 27,
+                "courtLosses": 3
+              }
+            ]
+          }
+        ],
+        "past_matches": {
+          "data": [
+            {
+              "id": "5535051734",
+              "date": "2025-06-03T21:15:00.000Z",
+              "roundId": 9,
+              "player1Id": 68074,
+              "player2Id": 29935,
+              "tournamentId": 20340,
+              "match_winner": 68074,
+              "result": "6-0 6-1 6-4",
+              "player1": {
+                "id": 68074,
+                "name": "Carlos Alcaraz",
+                "countryAcr": "ESP"
+              },
+              "player2": {
+                "id": 29935,
+                "name": "Tommy Paul",
+                "countryAcr": "USA"
+              }
+            },
+            {
+              "id": "5483040099",
+              "date": "2025-06-01T17:40:00.000Z",
+              "roundId": 7,
+              "player1Id": 68074,
+              "player2Id": 87562,
+              "tournamentId": 20340,
+              "match_winner": 68074,
+              "result": "7-6(8) 6-3 4-6 6-4",
+              "player1": {
+                "id": 68074,
+                "name": "Carlos Alcaraz",
+                "countryAcr": "ESP"
+              },
+              "player2": {
+                "id": 87562,
+                "name": "Ben Shelton",
+                "countryAcr": "USA"
+              }
+            },
+            {
+              "id": "5449236092",
+              "date": "2025-05-30T21:15:00.000Z",
+              "roundId": 6,
+              "player1Id": 68074,
+              "player2Id": 13447,
+              "tournamentId": 20340,
+              "match_winner": 68074,
+              "result": "6-1 6-3 4-6 6-4",
+              "player1": {
+                "id": 68074,
+                "name": "Carlos Alcaraz",
+                "countryAcr": "ESP"
+              },
+              "player2": {
+                "id": 13447,
+                "name": "Damir Dzumhur",
+                "countryAcr": "BIH"
+              }
+            },
+            {
+              "id": "5375152778",
+              "date": "2025-05-28T14:40:00.000Z",
+              "roundId": 5,
+              "player1Id": 68074,
+              "player2Id": 52140,
+              "tournamentId": 20340,
+              "match_winner": 68074,
+              "result": "6-1 4-6 6-1 6-2",
+              "player1": {
+                "id": 68074,
+                "name": "Carlos Alcaraz",
+                "countryAcr": "ESP"
+              },
+              "player2": {
+                "id": 52140,
+                "name": "Fabian Marozsan",
+                "countryAcr": "HUN"
+              }
+            },
+            {
+              "id": "5310219332",
+              "date": "2025-05-26T13:30:00.000Z",
+              "roundId": 4,
+              "player1Id": 68074,
+              "player2Id": 57769,
+              "tournamentId": 20340,
+              "match_winner": 68074,
+              "result": "6-3 6-4 6-2",
+              "player1": {
+                "id": 68074,
+                "name": "Carlos Alcaraz",
+                "countryAcr": "ESP"
+              },
+              "player2": {
+                "id": 57769,
+                "name": "Giulio Zeppieri",
+                "countryAcr": "ITA"
+              }
+            },
+            {
+              "id": "5055899751",
+              "date": "2025-05-18T18:00:00.000Z",
+              "roundId": 12,
+              "player1Id": 68074,
+              "player2Id": 47275,
+              "tournamentId": 20337,
+              "match_winner": 68074,
+              "result": "7-6(5) 6-1",
+              "player1": {
+                "id": 68074,
+                "name": "Carlos Alcaraz",
+                "countryAcr": "ESP"
+              },
+              "player2": {
+                "id": 47275,
+                "name": "Jannik Sinner",
+                "countryAcr": "ITA"
+              }
+            },
+            {
+              "id": "4987170647",
+              "date": "2025-05-16T16:30:00.000Z",
+              "roundId": 10,
+              "player1Id": 68074,
+              "player2Id": 63572,
+              "tournamentId": 20337,
+              "match_winner": 68074,
+              "result": "6-3 7-6(4)",
+              "player1": {
+                "id": 68074,
+                "name": "Carlos Alcaraz",
+                "countryAcr": "ESP"
+              },
+              "player2": {
+                "id": 63572,
+                "name": "Lorenzo Musetti",
+                "countryAcr": "ITA"
+              }
+            },
+            {
+              "id": "4923646925",
+              "date": "2025-05-14T16:15:00.000Z",
+              "roundId": 9,
+              "player1Id": 68074,
+              "player2Id": 63017,
+              "tournamentId": 20337,
+              "match_winner": 68074,
+              "result": "6-4 6-4",
+              "player1": {
+                "id": 68074,
+                "name": "Carlos Alcaraz",
+                "countryAcr": "ESP"
+              },
+              "player2": {
+                "id": 63017,
+                "name": "Jack Draper",
+                "countryAcr": "GBR"
+              }
+            },
+            {
+              "id": "4888664024",
+              "date": "2025-05-13T12:00:00.000Z",
+              "roundId": 7,
+              "player1Id": 68074,
+              "player2Id": 25543,
+              "tournamentId": 20337,
+              "match_winner": 68074,
+              "result": "6-3 3-6 7-5",
+              "player1": {
+                "id": 68074,
+                "name": "Carlos Alcaraz",
+                "countryAcr": "ESP"
+              },
+              "player2": {
+                "id": 25543,
+                "name": "Karen Khachanov",
+                "countryAcr": "RUS"
+              }
+            },
+            {
+              "id": "4838157599",
+              "date": "2025-05-11T21:30:00.000Z",
+              "roundId": 6,
+              "player1Id": 68074,
+              "player2Id": 24084,
+              "tournamentId": 20337,
+              "match_winner": 68074,
+              "result": "7-6(2) 6-2",
+              "player1": {
+                "id": 68074,
+                "name": "Carlos Alcaraz",
+                "countryAcr": "ESP"
+              },
+              "player2": {
+                "id": 24084,
+                "name": "Laslo Djere",
+                "countryAcr": "SRB"
+              }
+            }
+          ],
+          "hasNextPage": true
+        }
+      }
+    },
+    "bookmaker_count_event": 257,
+    "start_time_unix_event": 1749213000,
+    "odds_bet365": [
+      {
+        "market": "Winner",
+        "short": "Winner",
+        "handicap": "0",
+        "odds_type": "2Way",
+        "outcome": "1",
+        "odds": 5.5
+      },
+      {
+        "market": "Winner",
+        "short": "Winner",
+        "handicap": "0",
+        "odds_type": "2Way",
+        "outcome": "2",
+        "odds": 1.14
+      },
+      {
+        "market": "First Set Winner",
+        "short": "1st Set Winner",
+        "handicap": "0",
+        "odds_type": "2Way",
+        "outcome": "1",
+        "odds": 3.5
+      },
+      {
+        "market": "First Set Winner",
+        "short": "1st Set Winner",
+        "handicap": "0",
+        "odds_type": "2Way",
+        "outcome": "2",
+        "odds": 1.3
+      },
+      {
+        "market": "Total Games Over Under",
+        "short": "Total",
+        "handicap": "33.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 1.8
+      },
+      {
+        "market": "Total Games Over Under",
+        "short": "Total",
+        "handicap": "33.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.9
+      },
+      {
+        "market": "Game Handicap",
+        "short": "Spread",
+        "handicap": "6.50",
+        "odds_type": "Handicap",
+        "outcome": "1",
+        "odds": 2.0
+      },
+      {
+        "market": "Game Handicap",
+        "short": "Spread",
+        "handicap": "6.50",
+        "odds_type": "Handicap",
+        "outcome": "2",
+        "odds": 1.72
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "0.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 2.25
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "0.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.57
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "1.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 8.5
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "1.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.05
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "2.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 21.0
+      },
+      {
+        "market": "Total Tie Breaks",
+        "short": "Total",
+        "handicap": "2.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.0
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "6.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 1.02
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "6.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 17.0
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "7.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 1.14
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "7.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 5.5
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "8.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 1.4
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "8.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 2.75
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "9.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 2.0
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "9.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.72
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "10.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 4.0
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "10.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.22
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "12.5",
+        "odds_type": "Over/Under",
+        "outcome": "Over",
+        "odds": 6.5
+      },
+      {
+        "market": "Total Games First Set",
+        "short": "Total",
+        "handicap": "12.5",
+        "odds_type": "Over/Under",
+        "outcome": "Under",
+        "odds": 1.11
+      }
+    ]
+  }
+]

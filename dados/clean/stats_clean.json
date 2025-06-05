@@ -1,0 +1,5292 @@
+{
+  "Alexander Zverev": {
+    "player_id": "Z355",
+    "name": "Alexander Zverev",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 34,
+      "BreakPointsOpportunities": 254,
+      "FirstServeReturnPointsWonPercentage": 32,
+      "ReturnGamesPlayed": 325,
+      "ReturnGamesWonPercentage": 27,
+      "ReturnPointsWonPercentage": 40,
+      "SecondServeReturnPointsWonPercentage": 54,
+      "TotalPointsWonPercentage": 53
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 197,
+      "BreakPointsFaced": 114,
+      "BreakPointsSavedPercentage": 62,
+      "DoubleFaults": 57,
+      "FirstServePercentage": 72,
+      "FirstServePointsWonPercentage": 75,
+      "SecondServePointsWonPercentage": 51,
+      "ServiceGamesPlayed": 319,
+      "ServiceGamesWonPercentage": 87,
+      "ServicePointsWonPercentage": 68
+    },
+    "surface_summary": [
+      {
+        "year": 2025,
+        "surfaces": [
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 18,
+            "courtLosses": 6
+          },
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 11,
+            "courtLosses": 4
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "surfaces": [
+          {
+            "courtId": 5,
+            "court": "Grass",
+            "courtWins": 6,
+            "courtLosses": 2
+          },
+          {
+            "courtId": 3,
+            "court": "I.hard",
+            "courtWins": 11,
+            "courtLosses": 3
+          },
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 23,
+            "courtLosses": 6
+          },
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 29,
+            "courtLosses": 10
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "surfaces": [
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 20,
+            "courtLosses": 7
+          },
+          {
+            "courtId": 5,
+            "court": "Grass",
+            "courtWins": 5,
+            "courtLosses": 2
+          },
+          {
+            "courtId": 3,
+            "court": "I.hard",
+            "courtWins": 8,
+            "courtLosses": 5
+          },
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 22,
+            "courtLosses": 12
+          }
+        ]
+      }
+    ],
+    "past_matches": {
+      "data": [
+        {
+          "id": "5492140087",
+          "date": "2025-06-02T13:50:00.000Z",
+          "roundId": 7,
+          "player1Id": 24008,
+          "player2Id": 33860,
+          "tournamentId": 20340,
+          "match_winner": 24008,
+          "result": "6-4 3-0 ret.",
+          "player1": {
+            "id": 24008,
+            "name": "Alexander Zverev",
+            "countryAcr": "GER"
+          },
+          "player2": {
+            "id": 33860,
+            "name": "Tallon Griekspoor",
+            "countryAcr": "NED"
+          }
+        },
+        {
+          "id": "5471338432",
+          "date": "2025-05-31T15:14:00.000Z",
+          "roundId": 6,
+          "player1Id": 24008,
+          "player2Id": 67546,
+          "tournamentId": 20340,
+          "match_winner": 24008,
+          "result": "6-2 7-6(4) 6-1",
+          "player1": {
+            "id": 24008,
+            "name": "Alexander Zverev",
+            "countryAcr": "GER"
+          },
+          "player2": {
+            "id": 67546,
+            "name": "Flavio Cobolli",
+            "countryAcr": "ITA"
+          }
+        },
+        {
+          "id": "5406339715",
+          "date": "2025-05-29T13:40:00.000Z",
+          "roundId": 5,
+          "player1Id": 24008,
+          "player2Id": 59166,
+          "tournamentId": 20340,
+          "match_winner": 24008,
+          "result": "3-6 6-1 6-2 6-3",
+          "player1": {
+            "id": 24008,
+            "name": "Alexander Zverev",
+            "countryAcr": "GER"
+          },
+          "player2": {
+            "id": 59166,
+            "name": "Jesper De Jong",
+            "countryAcr": "NED"
+          }
+        },
+        {
+          "id": "5343979146",
+          "date": "2025-05-27T13:40:00.000Z",
+          "roundId": 4,
+          "player1Id": 24008,
+          "player2Id": 93452,
+          "tournamentId": 20340,
+          "match_winner": 24008,
+          "result": "6-3 6-3 6-4",
+          "player1": {
+            "id": 24008,
+            "name": "Alexander Zverev",
+            "countryAcr": "GER"
+          },
+          "player2": {
+            "id": 93452,
+            "name": "Learner Tien",
+            "countryAcr": "USA"
+          }
+        },
+        {
+          "id": "5157052241",
+          "date": "2025-05-21T17:00:00.000Z",
+          "roundId": 5,
+          "player1Id": 28108,
+          "player2Id": 24008,
+          "tournamentId": 20338,
+          "match_winner": 28108,
+          "result": "6-3 4-6 7-6(5)",
+          "player1": {
+            "id": 28108,
+            "name": "Alexandre Muller",
+            "countryAcr": "FRA"
+          },
+          "player2": {
+            "id": 24008,
+            "name": "Alexander Zverev",
+            "countryAcr": "GER"
+          }
+        },
+        {
+          "id": "5085717752",
+          "date": "2025-05-19T16:30:00.000Z",
+          "roundId": 4,
+          "player1Id": 24008,
+          "player2Id": 39152,
+          "tournamentId": 20338,
+          "match_winner": 24008,
+          "result": "6-1 7-6(5)",
+          "player1": {
+            "id": 24008,
+            "name": "Alexander Zverev",
+            "countryAcr": "GER"
+          },
+          "player2": {
+            "id": 39152,
+            "name": "Aleksandar Kovacevic",
+            "countryAcr": "USA"
+          }
+        },
+        {
+          "id": "4932719689",
+          "date": "2025-05-14T22:15:00.000Z",
+          "roundId": 9,
+          "player1Id": 63572,
+          "player2Id": 24008,
+          "tournamentId": 20337,
+          "match_winner": 63572,
+          "result": "7-6(1) 6-4",
+          "player1": {
+            "id": 63572,
+            "name": "Lorenzo Musetti",
+            "countryAcr": "ITA"
+          },
+          "player2": {
+            "id": 24008,
+            "name": "Alexander Zverev",
+            "countryAcr": "GER"
+          }
+        },
+        {
+          "id": "4899028185",
+          "date": "2025-05-13T20:40:00.000Z",
+          "roundId": 7,
+          "player1Id": 24008,
+          "player2Id": 83135,
+          "tournamentId": 20337,
+          "match_winner": 24008,
+          "result": "7-6(3) 6-1",
+          "player1": {
+            "id": 24008,
+            "name": "Alexander Zverev",
+            "countryAcr": "GER"
+          },
+          "player2": {
+            "id": 83135,
+            "name": "Arthur Fils",
+            "countryAcr": "FRA"
+          }
+        },
+        {
+          "id": "4830388418",
+          "date": "2025-05-11T16:20:00.000Z",
+          "roundId": 6,
+          "player1Id": 24008,
+          "player2Id": 79088,
+          "tournamentId": 20337,
+          "match_winner": 24008,
+          "result": "6-4 6-0",
+          "player1": {
+            "id": 24008,
+            "name": "Alexander Zverev",
+            "countryAcr": "GER"
+          },
+          "player2": {
+            "id": 79088,
+            "name": "Vilius Gaubas",
+            "countryAcr": "LTU"
+          }
+        },
+        {
+          "id": "4776005546",
+          "date": "2025-05-09T22:10:00.000Z",
+          "roundId": 5,
+          "player1Id": 24008,
+          "player2Id": 42229,
+          "tournamentId": 20337,
+          "match_winner": 24008,
+          "result": "6-2 6-1",
+          "player1": {
+            "id": 24008,
+            "name": "Alexander Zverev",
+            "countryAcr": "GER"
+          },
+          "player2": {
+            "id": 42229,
+            "name": "Camilo Ugo Carabelli",
+            "countryAcr": "ARG"
+          }
+        }
+      ],
+      "hasNextPage": true
+    }
+  },
+  "Giovanni Mpetshi Perricard": {
+    "player_id": "M0GZ",
+    "name": "Giovanni Mpetshi Perricard",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 44,
+      "BreakPointsOpportunities": 34,
+      "FirstServeReturnPointsWonPercentage": 29,
+      "ReturnGamesPlayed": 72,
+      "ReturnGamesWonPercentage": 21,
+      "ReturnPointsWonPercentage": 36,
+      "SecondServeReturnPointsWonPercentage": 48,
+      "TotalPointsWonPercentage": 51
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 57,
+      "BreakPointsFaced": 43,
+      "BreakPointsSavedPercentage": 63,
+      "DoubleFaults": 15,
+      "FirstServePercentage": 67,
+      "FirstServePointsWonPercentage": 72,
+      "SecondServePointsWonPercentage": 51,
+      "ServiceGamesPlayed": 77,
+      "ServiceGamesWonPercentage": 79,
+      "ServicePointsWonPercentage": 65
+    }
+  },
+  "Matteo Berrettini": {
+    "player_id": "BK40",
+    "name": "Matteo Berrettini",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 39,
+      "BreakPointsOpportunities": 100,
+      "FirstServeReturnPointsWonPercentage": 32,
+      "ReturnGamesPlayed": 173,
+      "ReturnGamesWonPercentage": 23,
+      "ReturnPointsWonPercentage": 38,
+      "SecondServeReturnPointsWonPercentage": 48,
+      "TotalPointsWonPercentage": 54
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 106,
+      "BreakPointsFaced": 48,
+      "BreakPointsSavedPercentage": 73,
+      "DoubleFaults": 21,
+      "FirstServePercentage": 73,
+      "FirstServePointsWonPercentage": 80,
+      "SecondServePointsWonPercentage": 55,
+      "ServiceGamesPlayed": 171,
+      "ServiceGamesWonPercentage": 92,
+      "ServicePointsWonPercentage": 73
+    }
+  },
+  "Hubert Hurkacz": {
+    "player_id": "HB71",
+    "name": "Hubert Hurkacz",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 40,
+      "BreakPointsOpportunities": 125,
+      "FirstServeReturnPointsWonPercentage": 33,
+      "ReturnGamesPlayed": 237,
+      "ReturnGamesWonPercentage": 21,
+      "ReturnPointsWonPercentage": 38,
+      "SecondServeReturnPointsWonPercentage": 46,
+      "TotalPointsWonPercentage": 52
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 201,
+      "BreakPointsFaced": 107,
+      "BreakPointsSavedPercentage": 70,
+      "DoubleFaults": 19,
+      "FirstServePercentage": 63,
+      "FirstServePointsWonPercentage": 75,
+      "SecondServePointsWonPercentage": 53,
+      "ServiceGamesPlayed": 244,
+      "ServiceGamesWonPercentage": 87,
+      "ServicePointsWonPercentage": 67
+    }
+  },
+  "Jannik Sinner": {
+    "player_id": "S0AG",
+    "name": "Jannik Sinner",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 48,
+      "BreakPointsOpportunities": 120,
+      "FirstServeReturnPointsWonPercentage": 35,
+      "ReturnGamesPlayed": 175,
+      "ReturnGamesWonPercentage": 33,
+      "ReturnPointsWonPercentage": 43,
+      "SecondServeReturnPointsWonPercentage": 54,
+      "TotalPointsWonPercentage": 55
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 59,
+      "BreakPointsFaced": 68,
+      "BreakPointsSavedPercentage": 69,
+      "DoubleFaults": 29,
+      "FirstServePercentage": 62,
+      "FirstServePointsWonPercentage": 79,
+      "SecondServePointsWonPercentage": 54,
+      "ServiceGamesPlayed": 176,
+      "ServiceGamesWonPercentage": 88,
+      "ServicePointsWonPercentage": 69
+    },
+    "surface_summary": [
+      {
+        "year": 2025,
+        "surfaces": [
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 7,
+            "courtLosses": 0
+          },
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 9,
+            "courtLosses": 1
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "surfaces": [
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 40,
+            "courtLosses": 3
+          },
+          {
+            "courtId": 5,
+            "court": "Grass",
+            "courtWins": 9,
+            "courtLosses": 1
+          },
+          {
+            "courtId": 3,
+            "court": "I.hard",
+            "courtWins": 13,
+            "courtLosses": 0
+          },
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 11,
+            "courtLosses": 2
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "surfaces": [
+          {
+            "courtId": 5,
+            "court": "Grass",
+            "courtWins": 8,
+            "courtLosses": 3
+          },
+          {
+            "courtId": 3,
+            "court": "I.hard",
+            "courtWins": 20,
+            "courtLosses": 2
+          },
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 8,
+            "courtLosses": 3
+          },
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 28,
+            "courtLosses": 7
+          }
+        ]
+      }
+    ],
+    "past_matches": {
+      "data": [
+        {
+          "id": "5503841827",
+          "date": "2025-06-02T21:20:00.000Z",
+          "roundId": 7,
+          "player1Id": 47275,
+          "player2Id": 29372,
+          "tournamentId": 20340,
+          "match_winner": 47275,
+          "result": "6-1 6-3 6-4",
+          "player1": {
+            "id": 47275,
+            "name": "Jannik Sinner",
+            "countryAcr": "ITA"
+          },
+          "player2": {
+            "id": 29372,
+            "name": "Andrey Rublev",
+            "countryAcr": "RUS"
+          }
+        },
+        {
+          "id": "5468738077",
+          "date": "2025-05-31T13:45:00.000Z",
+          "roundId": 6,
+          "player1Id": 47275,
+          "player2Id": 61838,
+          "tournamentId": 20340,
+          "match_winner": 47275,
+          "result": "6-0 6-1 6-2",
+          "player1": {
+            "id": 47275,
+            "name": "Jannik Sinner",
+            "countryAcr": "ITA"
+          },
+          "player2": {
+            "id": 61838,
+            "name": "Jiri Lehecka",
+            "countryAcr": "CZE"
+          }
+        },
+        {
+          "id": "5407639256",
+          "date": "2025-05-29T15:20:00.000Z",
+          "roundId": 5,
+          "player1Id": 47275,
+          "player2Id": 674,
+          "tournamentId": 20340,
+          "match_winner": 47275,
+          "result": "6-3 6-0 6-4",
+          "player1": {
+            "id": 47275,
+            "name": "Jannik Sinner",
+            "countryAcr": "ITA"
+          },
+          "player2": {
+            "id": 674,
+            "name": "Richard Gasquet",
+            "countryAcr": "FRA"
+          }
+        },
+        {
+          "id": "5321904660",
+          "date": "2025-05-26T21:15:00.000Z",
+          "roundId": 4,
+          "player1Id": 47275,
+          "player2Id": 28170,
+          "tournamentId": 20340,
+          "match_winner": 47275,
+          "result": "6-4 6-3 7-5",
+          "player1": {
+            "id": 47275,
+            "name": "Jannik Sinner",
+            "countryAcr": "ITA"
+          },
+          "player2": {
+            "id": 28170,
+            "name": "Arthur Rinderknech",
+            "countryAcr": "FRA"
+          }
+        },
+        {
+          "id": "5055899751",
+          "date": "2025-05-18T18:00:00.000Z",
+          "roundId": 12,
+          "player1Id": 68074,
+          "player2Id": 47275,
+          "tournamentId": 20337,
+          "match_winner": 68074,
+          "result": "7-6(5) 6-1",
+          "player1": {
+            "id": 68074,
+            "name": "Carlos Alcaraz",
+            "countryAcr": "ESP"
+          },
+          "player2": {
+            "id": 47275,
+            "name": "Jannik Sinner",
+            "countryAcr": "ITA"
+          }
+        },
+        {
+          "id": "4993654449",
+          "date": "2025-05-16T21:30:00.000Z",
+          "roundId": 10,
+          "player1Id": 47275,
+          "player2Id": 29935,
+          "tournamentId": 20337,
+          "match_winner": 47275,
+          "result": "1-6 6-0 6-3",
+          "player1": {
+            "id": 47275,
+            "name": "Jannik Sinner",
+            "countryAcr": "ITA"
+          },
+          "player2": {
+            "id": 29935,
+            "name": "Tommy Paul",
+            "countryAcr": "USA"
+          }
+        },
+        {
+          "id": "4959941956",
+          "date": "2025-05-15T20:10:00.000Z",
+          "roundId": 9,
+          "player1Id": 47275,
+          "player2Id": 33648,
+          "tournamentId": 20337,
+          "match_winner": 47275,
+          "result": "6-0 6-1",
+          "player1": {
+            "id": 47275,
+            "name": "Jannik Sinner",
+            "countryAcr": "ITA"
+          },
+          "player2": {
+            "id": 33648,
+            "name": "Casper Ruud",
+            "countryAcr": "NOR"
+          }
+        },
+        {
+          "id": "4899028144",
+          "date": "2025-05-13T20:30:00.000Z",
+          "roundId": 7,
+          "player1Id": 47275,
+          "player2Id": 52279,
+          "tournamentId": 20337,
+          "match_winner": 47275,
+          "result": "7-6(2) 6-3",
+          "player1": {
+            "id": 47275,
+            "name": "Jannik Sinner",
+            "countryAcr": "ITA"
+          },
+          "player2": {
+            "id": 52279,
+            "name": "Francisco Cerundolo",
+            "countryAcr": "ARG"
+          }
+        },
+        {
+          "id": "4862759920",
+          "date": "2025-05-12T17:00:00.000Z",
+          "roundId": 6,
+          "player1Id": 47275,
+          "player2Id": 59166,
+          "tournamentId": 20337,
+          "match_winner": 47275,
+          "result": "6-4 6-2",
+          "player1": {
+            "id": 47275,
+            "name": "Jannik Sinner",
+            "countryAcr": "ITA"
+          },
+          "player2": {
+            "id": 59166,
+            "name": "Jesper De Jong",
+            "countryAcr": "NED"
+          }
+        },
+        {
+          "id": "4803196180",
+          "date": "2025-05-10T20:00:00.000Z",
+          "roundId": 5,
+          "player1Id": 47275,
+          "player2Id": 66828,
+          "tournamentId": 20337,
+          "match_winner": 47275,
+          "result": "6-3 6-4",
+          "player1": {
+            "id": 47275,
+            "name": "Jannik Sinner",
+            "countryAcr": "ITA"
+          },
+          "player2": {
+            "id": 66828,
+            "name": "Mariano Navone",
+            "countryAcr": "ARG"
+          }
+        }
+      ],
+      "hasNextPage": true
+    }
+  },
+  "Ben Shelton": {
+    "player_id": "S0S1",
+    "name": "Ben Shelton",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 32,
+      "BreakPointsOpportunities": 84,
+      "FirstServeReturnPointsWonPercentage": 29,
+      "ReturnGamesPlayed": 159,
+      "ReturnGamesWonPercentage": 17,
+      "ReturnPointsWonPercentage": 35,
+      "SecondServeReturnPointsWonPercentage": 45,
+      "TotalPointsWonPercentage": 51
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 74,
+      "BreakPointsFaced": 67,
+      "BreakPointsSavedPercentage": 66,
+      "DoubleFaults": 53,
+      "FirstServePercentage": 65,
+      "FirstServePointsWonPercentage": 75,
+      "SecondServePointsWonPercentage": 53,
+      "ServiceGamesPlayed": 163,
+      "ServiceGamesWonPercentage": 86,
+      "ServicePointsWonPercentage": 67
+    }
+  },
+  "Taylor Fritz": {
+    "player_id": "FB98",
+    "name": "Taylor Fritz",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 41,
+      "BreakPointsOpportunities": 131,
+      "FirstServeReturnPointsWonPercentage": 31,
+      "ReturnGamesPlayed": 236,
+      "ReturnGamesWonPercentage": 23,
+      "ReturnPointsWonPercentage": 37,
+      "SecondServeReturnPointsWonPercentage": 48,
+      "TotalPointsWonPercentage": 53
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 175,
+      "BreakPointsFaced": 107,
+      "BreakPointsSavedPercentage": 66,
+      "DoubleFaults": 28,
+      "FirstServePercentage": 62,
+      "FirstServePointsWonPercentage": 78,
+      "SecondServePointsWonPercentage": 51,
+      "ServiceGamesPlayed": 248,
+      "ServiceGamesWonPercentage": 85,
+      "ServicePointsWonPercentage": 68
+    },
+    "surface_summary": [
+      {
+        "year": 2025,
+        "surfaces": [
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 13,
+            "courtLosses": 5
+          },
+          {
+            "courtId": 3,
+            "court": "I.hard",
+            "courtWins": 1,
+            "courtLosses": 1
+          },
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 3,
+            "courtLosses": 4
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "surfaces": [
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 22,
+            "courtLosses": 10
+          },
+          {
+            "courtId": 5,
+            "court": "Grass",
+            "courtWins": 10,
+            "courtLosses": 2
+          },
+          {
+            "courtId": 3,
+            "court": "I.hard",
+            "courtWins": 6,
+            "courtLosses": 4
+          },
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 15,
+            "courtLosses": 7
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "surfaces": [
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 11,
+            "courtLosses": 5
+          },
+          {
+            "courtId": 5,
+            "court": "Grass",
+            "courtWins": 3,
+            "courtLosses": 4
+          },
+          {
+            "courtId": 3,
+            "court": "I.hard",
+            "courtWins": 5,
+            "courtLosses": 3
+          },
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 35,
+            "courtLosses": 11
+          }
+        ]
+      }
+    ],
+    "past_matches": {
+      "data": [
+        {
+          "id": "5312815860",
+          "date": "2025-05-26T14:25:00.000Z",
+          "roundId": 4,
+          "player1Id": 29732,
+          "player2Id": 29932,
+          "tournamentId": 20340,
+          "match_winner": 29732,
+          "result": "7-5 3-6 6-3 6-1",
+          "player1": {
+            "id": 29732,
+            "name": "Daniel Altmaier",
+            "countryAcr": "GER"
+          },
+          "player2": {
+            "id": 29932,
+            "name": "Taylor Fritz",
+            "countryAcr": "USA"
+          }
+        },
+        {
+          "id": "5190793481",
+          "date": "2025-05-22T18:55:00.000Z",
+          "roundId": 9,
+          "player1Id": 26473,
+          "player2Id": 29932,
+          "tournamentId": 20339,
+          "match_winner": 26473,
+          "result": "6-3 7-6(5)",
+          "player1": {
+            "id": 26473,
+            "name": "Hubert Hurkacz",
+            "countryAcr": "POL"
+          },
+          "player2": {
+            "id": 29932,
+            "name": "Taylor Fritz",
+            "countryAcr": "USA"
+          }
+        },
+        {
+          "id": "5147970128",
+          "date": "2025-05-21T12:30:00.000Z",
+          "roundId": 5,
+          "player1Id": 29932,
+          "player2Id": 25171,
+          "tournamentId": 20339,
+          "match_winner": 29932,
+          "result": "6-4 7-6(5)",
+          "player1": {
+            "id": 29932,
+            "name": "Taylor Fritz",
+            "countryAcr": "USA"
+          },
+          "player2": {
+            "id": 25171,
+            "name": "Quentin Halys",
+            "countryAcr": "FRA"
+          }
+        },
+        {
+          "id": "4796722068",
+          "date": "2025-05-10T14:15:00.000Z",
+          "roundId": 5,
+          "player1Id": 18736,
+          "player2Id": 29932,
+          "tournamentId": 20337,
+          "match_winner": 18736,
+          "result": "7-6(4) 7-6(3)",
+          "player1": {
+            "id": 18736,
+            "name": "Marcos Giron",
+            "countryAcr": "USA"
+          },
+          "player2": {
+            "id": 29932,
+            "name": "Taylor Fritz",
+            "countryAcr": "USA"
+          }
+        },
+        {
+          "id": "4470642835",
+          "date": "2025-04-29T22:30:00.000Z",
+          "roundId": 7,
+          "player1Id": 33648,
+          "player2Id": 29932,
+          "tournamentId": 20336,
+          "match_winner": 33648,
+          "result": "7-5 6-4",
+          "player1": {
+            "id": 33648,
+            "name": "Casper Ruud",
+            "countryAcr": "NOR"
+          },
+          "player2": {
+            "id": 29932,
+            "name": "Taylor Fritz",
+            "countryAcr": "USA"
+          }
+        },
+        {
+          "id": "4399543576",
+          "date": "2025-04-27T18:30:00.000Z",
+          "roundId": 6,
+          "player1Id": 29932,
+          "player2Id": 28899,
+          "tournamentId": 20336,
+          "match_winner": 29932,
+          "result": "4-6 7-5 ret.",
+          "player1": {
+            "id": 29932,
+            "name": "Taylor Fritz",
+            "countryAcr": "USA"
+          },
+          "player2": {
+            "id": 28899,
+            "name": "Benjamin Bonzi",
+            "countryAcr": "FRA"
+          }
+        },
+        {
+          "id": "4333614922",
+          "date": "2025-04-25T15:30:00.000Z",
+          "roundId": 5,
+          "player1Id": 29932,
+          "player2Id": 24721,
+          "tournamentId": 20336,
+          "match_winner": 29932,
+          "result": "6-1 6-4",
+          "player1": {
+            "id": 29932,
+            "name": "Taylor Fritz",
+            "countryAcr": "USA"
+          },
+          "player2": {
+            "id": 24721,
+            "name": "Christopher O'Connell",
+            "countryAcr": "AUS"
+          }
+        },
+        {
+          "id": "1302035006",
+          "date": "2025-03-29T02:15:00.000Z",
+          "roundId": 10,
+          "player1Id": 86691,
+          "player2Id": 29932,
+          "tournamentId": 20329,
+          "match_winner": 86691,
+          "result": "7-6(4) 4-6 7-6(4)",
+          "player1": {
+            "id": 86691,
+            "name": "Jakub Mensik",
+            "countryAcr": "CZE"
+          },
+          "player2": {
+            "id": 29932,
+            "name": "Taylor Fritz",
+            "countryAcr": "USA"
+          }
+        },
+        {
+          "id": "1271118881",
+          "date": "2025-03-28T02:00:00.000Z",
+          "roundId": 9,
+          "player1Id": 29932,
+          "player2Id": 29812,
+          "tournamentId": 20329,
+          "match_winner": 29932,
+          "result": "7-5 6-7(7) 7-5",
+          "player1": {
+            "id": 29932,
+            "name": "Taylor Fritz",
+            "countryAcr": "USA"
+          },
+          "player2": {
+            "id": 29812,
+            "name": "Matteo Berrettini",
+            "countryAcr": "ITA"
+          }
+        },
+        {
+          "id": "1208023855",
+          "date": "2025-03-26T02:30:00.000Z",
+          "roundId": 7,
+          "player1Id": 29932,
+          "player2Id": 47752,
+          "tournamentId": 20329,
+          "match_winner": 29932,
+          "result": "6-3 7-5",
+          "player1": {
+            "id": 29932,
+            "name": "Taylor Fritz",
+            "countryAcr": "USA"
+          },
+          "player2": {
+            "id": 47752,
+            "name": "Adam Walton",
+            "countryAcr": "AUS"
+          }
+        }
+      ],
+      "hasNextPage": true
+    }
+  },
+  "Brandon Nakashima": {
+    "player_id": "N0AE",
+    "name": "Brandon Nakashima",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 24,
+      "BreakPointsOpportunities": 75,
+      "FirstServeReturnPointsWonPercentage": 29,
+      "ReturnGamesPlayed": 122,
+      "ReturnGamesWonPercentage": 15,
+      "ReturnPointsWonPercentage": 34,
+      "SecondServeReturnPointsWonPercentage": 43,
+      "TotalPointsWonPercentage": 51
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 81,
+      "BreakPointsFaced": 54,
+      "BreakPointsSavedPercentage": 78,
+      "DoubleFaults": 12,
+      "FirstServePercentage": 64,
+      "FirstServePointsWonPercentage": 75,
+      "SecondServePointsWonPercentage": 58,
+      "ServiceGamesPlayed": 126,
+      "ServiceGamesWonPercentage": 90,
+      "ServicePointsWonPercentage": 69
+    }
+  },
+  "Grigor Dimitrov": {
+    "player_id": "D875",
+    "name": "Grigor Dimitrov",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 37,
+      "BreakPointsOpportunities": 94,
+      "FirstServeReturnPointsWonPercentage": 31,
+      "ReturnGamesPlayed": 164,
+      "ReturnGamesWonPercentage": 21,
+      "ReturnPointsWonPercentage": 37,
+      "SecondServeReturnPointsWonPercentage": 48,
+      "TotalPointsWonPercentage": 52
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 62,
+      "BreakPointsFaced": 68,
+      "BreakPointsSavedPercentage": 63,
+      "DoubleFaults": 51,
+      "FirstServePercentage": 59,
+      "FirstServePointsWonPercentage": 76,
+      "SecondServePointsWonPercentage": 53,
+      "ServiceGamesPlayed": 166,
+      "ServiceGamesWonPercentage": 85,
+      "ServicePointsWonPercentage": 67
+    }
+  },
+  "Novak Djokovic": {
+    "player_id": "D643",
+    "name": "Novak Djokovic",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 50,
+      "BreakPointsOpportunities": 124,
+      "FirstServeReturnPointsWonPercentage": 39,
+      "ReturnGamesPlayed": 164,
+      "ReturnGamesWonPercentage": 38,
+      "ReturnPointsWonPercentage": 44,
+      "SecondServeReturnPointsWonPercentage": 52,
+      "TotalPointsWonPercentage": 55
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 49,
+      "BreakPointsFaced": 92,
+      "BreakPointsSavedPercentage": 63,
+      "DoubleFaults": 22,
+      "FirstServePercentage": 65,
+      "FirstServePointsWonPercentage": 71,
+      "SecondServePointsWonPercentage": 54,
+      "ServiceGamesPlayed": 167,
+      "ServiceGamesWonPercentage": 80,
+      "ServicePointsWonPercentage": 65
+    },
+    "surface_summary": [
+      {
+        "year": 2025,
+        "surfaces": [
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 8,
+            "courtLosses": 2
+          },
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 12,
+            "courtLosses": 5
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "surfaces": [
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 15,
+            "courtLosses": 5
+          },
+          {
+            "courtId": 5,
+            "court": "Grass",
+            "courtWins": 5,
+            "courtLosses": 1
+          },
+          {
+            "courtId": 3,
+            "court": "I.hard",
+            "courtWins": 1,
+            "courtLosses": 0
+          },
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 16,
+            "courtLosses": 3
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "surfaces": [
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 12,
+            "courtLosses": 3
+          },
+          {
+            "courtId": 5,
+            "court": "Grass",
+            "courtWins": 6,
+            "courtLosses": 1
+          },
+          {
+            "courtId": 3,
+            "court": "I.hard",
+            "courtWins": 11,
+            "courtLosses": 2
+          },
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 27,
+            "courtLosses": 1
+          }
+        ]
+      }
+    ],
+    "past_matches": {
+      "data": [
+        {
+          "id": "5498640854",
+          "date": "2025-06-02T16:40:00.000Z",
+          "roundId": 7,
+          "player1Id": 5992,
+          "player2Id": 27851,
+          "tournamentId": 20340,
+          "match_winner": 5992,
+          "result": "6-2 6-3 6-2",
+          "player1": {
+            "id": 5992,
+            "name": "Novak Djokovic",
+            "countryAcr": "SRB"
+          },
+          "player2": {
+            "id": 27851,
+            "name": "Cameron Norrie",
+            "countryAcr": "GBR"
+          }
+        },
+        {
+          "id": "5479139588",
+          "date": "2025-05-31T21:15:00.000Z",
+          "roundId": 6,
+          "player1Id": 5992,
+          "player2Id": 51417,
+          "tournamentId": 20340,
+          "match_winner": 5992,
+          "result": "6-3 6-4 6-2",
+          "player1": {
+            "id": 5992,
+            "name": "Novak Djokovic",
+            "countryAcr": "SRB"
+          },
+          "player2": {
+            "id": 51417,
+            "name": "Filip Misolic",
+            "countryAcr": "AUT"
+          }
+        },
+        {
+          "id": "5412838363",
+          "date": "2025-05-29T18:30:00.000Z",
+          "roundId": 5,
+          "player1Id": 5992,
+          "player2Id": 36263,
+          "tournamentId": 20340,
+          "match_winner": 5992,
+          "result": "6-3 6-2 7-6(1)",
+          "player1": {
+            "id": 5992,
+            "name": "Novak Djokovic",
+            "countryAcr": "SRB"
+          },
+          "player2": {
+            "id": 36263,
+            "name": "Corentin Moutet",
+            "countryAcr": "FRA"
+          }
+        },
+        {
+          "id": "5347875190",
+          "date": "2025-05-27T16:00:00.000Z",
+          "roundId": 4,
+          "player1Id": 5992,
+          "player2Id": 18094,
+          "tournamentId": 20340,
+          "match_winner": 5992,
+          "result": "6-3 6-3 6-3",
+          "player1": {
+            "id": 5992,
+            "name": "Novak Djokovic",
+            "countryAcr": "SRB"
+          },
+          "player2": {
+            "id": 18094,
+            "name": "Mackenzie Mcdonald",
+            "countryAcr": "USA"
+          }
+        },
+        {
+          "id": "5251806325",
+          "date": "2025-05-24T16:15:00.000Z",
+          "roundId": 12,
+          "player1Id": 5992,
+          "player2Id": 26473,
+          "tournamentId": 20339,
+          "match_winner": 5992,
+          "result": "5-7 7-6(2) 7-6(2)",
+          "player1": {
+            "id": 5992,
+            "name": "Novak Djokovic",
+            "countryAcr": "SRB"
+          },
+          "player2": {
+            "id": 26473,
+            "name": "Hubert Hurkacz",
+            "countryAcr": "POL"
+          }
+        },
+        {
+          "id": "5220649019",
+          "date": "2025-05-23T17:00:00.000Z",
+          "roundId": 10,
+          "player1Id": 5992,
+          "player2Id": 27851,
+          "tournamentId": 20339,
+          "match_winner": 5992,
+          "result": "6-4 6-7(6) 6-1",
+          "player1": {
+            "id": 5992,
+            "name": "Novak Djokovic",
+            "countryAcr": "SRB"
+          },
+          "player2": {
+            "id": 27851,
+            "name": "Cameron Norrie",
+            "countryAcr": "GBR"
+          }
+        },
+        {
+          "id": "5193389530",
+          "date": "2025-05-22T20:20:00.000Z",
+          "roundId": 9,
+          "player1Id": 5992,
+          "player2Id": 73956,
+          "tournamentId": 20339,
+          "match_winner": 5992,
+          "result": "6-4 6-4",
+          "player1": {
+            "id": 5992,
+            "name": "Novak Djokovic",
+            "countryAcr": "SRB"
+          },
+          "player2": {
+            "id": 73956,
+            "name": "Matteo Arnaldi",
+            "countryAcr": "ITA"
+          }
+        },
+        {
+          "id": "5158349876",
+          "date": "2025-05-21T19:00:00.000Z",
+          "roundId": 5,
+          "player1Id": 5992,
+          "player2Id": 13674,
+          "tournamentId": 20339,
+          "match_winner": 5992,
+          "result": "6-2 6-3",
+          "player1": {
+            "id": 5992,
+            "name": "Novak Djokovic",
+            "countryAcr": "SRB"
+          },
+          "player2": {
+            "id": 13674,
+            "name": "Marton Fucsovics",
+            "countryAcr": "HUN"
+          }
+        },
+        {
+          "id": "4365931746",
+          "date": "2025-04-26T16:30:00.000Z",
+          "roundId": 5,
+          "player1Id": 73956,
+          "player2Id": 5992,
+          "tournamentId": 20336,
+          "match_winner": 73956,
+          "result": "6-3 6-4",
+          "player1": {
+            "id": 73956,
+            "name": "Matteo Arnaldi",
+            "countryAcr": "ITA"
+          },
+          "player2": {
+            "id": 5992,
+            "name": "Novak Djokovic",
+            "countryAcr": "SRB"
+          }
+        },
+        {
+          "id": "2225978913",
+          "date": "2025-04-09T17:10:00.000Z",
+          "roundId": 5,
+          "player1Id": 30087,
+          "player2Id": 5992,
+          "tournamentId": 20333,
+          "match_winner": 30087,
+          "result": "6-3 6-4",
+          "player1": {
+            "id": 30087,
+            "name": "Alejandro Tabilo",
+            "countryAcr": "CHI"
+          },
+          "player2": {
+            "id": 5992,
+            "name": "Novak Djokovic",
+            "countryAcr": "SRB"
+          }
+        }
+      ],
+      "hasNextPage": true
+    }
+  },
+  "Andrey Rublev": {
+    "player_id": "RE44",
+    "name": "Andrey Rublev",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 37,
+      "BreakPointsOpportunities": 139,
+      "FirstServeReturnPointsWonPercentage": 31,
+      "ReturnGamesPlayed": 221,
+      "ReturnGamesWonPercentage": 24,
+      "ReturnPointsWonPercentage": 39,
+      "SecondServeReturnPointsWonPercentage": 51,
+      "TotalPointsWonPercentage": 52
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 109,
+      "BreakPointsFaced": 107,
+      "BreakPointsSavedPercentage": 69,
+      "DoubleFaults": 59,
+      "FirstServePercentage": 60,
+      "FirstServePointsWonPercentage": 76,
+      "SecondServePointsWonPercentage": 53,
+      "ServiceGamesPlayed": 221,
+      "ServiceGamesWonPercentage": 85,
+      "ServicePointsWonPercentage": 67
+    }
+  },
+  "Carlos Alcaraz": {
+    "player_id": "A0E2",
+    "name": "Carlos Alcaraz",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 46,
+      "BreakPointsOpportunities": 158,
+      "FirstServeReturnPointsWonPercentage": 36,
+      "ReturnGamesPlayed": 194,
+      "ReturnGamesWonPercentage": 37,
+      "ReturnPointsWonPercentage": 45,
+      "SecondServeReturnPointsWonPercentage": 59,
+      "TotalPointsWonPercentage": 54
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 34,
+      "BreakPointsFaced": 105,
+      "BreakPointsSavedPercentage": 64,
+      "DoubleFaults": 35,
+      "FirstServePercentage": 68,
+      "FirstServePointsWonPercentage": 68,
+      "SecondServePointsWonPercentage": 55,
+      "ServiceGamesPlayed": 194,
+      "ServiceGamesWonPercentage": 80,
+      "ServicePointsWonPercentage": 64
+    },
+    "surface_summary": [
+      {
+        "year": 2025,
+        "surfaces": [
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 10,
+            "courtLosses": 4
+          },
+          {
+            "courtId": 3,
+            "court": "I.hard",
+            "courtWins": 5,
+            "courtLosses": 0
+          },
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 20,
+            "courtLosses": 1
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "surfaces": [
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 22,
+            "courtLosses": 5
+          },
+          {
+            "courtId": 5,
+            "court": "Grass",
+            "courtWins": 8,
+            "courtLosses": 1
+          },
+          {
+            "courtId": 3,
+            "court": "I.hard",
+            "courtWins": 7,
+            "courtLosses": 3
+          },
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 17,
+            "courtLosses": 4
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "surfaces": [
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 26,
+            "courtLosses": 6
+          },
+          {
+            "courtId": 5,
+            "court": "Grass",
+            "courtWins": 12,
+            "courtLosses": 0
+          },
+          {
+            "courtId": 3,
+            "court": "I.hard",
+            "courtWins": 2,
+            "courtLosses": 3
+          },
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 27,
+            "courtLosses": 3
+          }
+        ]
+      }
+    ],
+    "past_matches": {
+      "data": [
+        {
+          "id": "5535051734",
+          "date": "2025-06-03T21:15:00.000Z",
+          "roundId": 9,
+          "player1Id": 68074,
+          "player2Id": 29935,
+          "tournamentId": 20340,
+          "match_winner": 68074,
+          "result": "6-0 6-1 6-4",
+          "player1": {
+            "id": 68074,
+            "name": "Carlos Alcaraz",
+            "countryAcr": "ESP"
+          },
+          "player2": {
+            "id": 29935,
+            "name": "Tommy Paul",
+            "countryAcr": "USA"
+          }
+        },
+        {
+          "id": "5483040099",
+          "date": "2025-06-01T17:40:00.000Z",
+          "roundId": 7,
+          "player1Id": 68074,
+          "player2Id": 87562,
+          "tournamentId": 20340,
+          "match_winner": 68074,
+          "result": "7-6(8) 6-3 4-6 6-4",
+          "player1": {
+            "id": 68074,
+            "name": "Carlos Alcaraz",
+            "countryAcr": "ESP"
+          },
+          "player2": {
+            "id": 87562,
+            "name": "Ben Shelton",
+            "countryAcr": "USA"
+          }
+        },
+        {
+          "id": "5449236092",
+          "date": "2025-05-30T21:15:00.000Z",
+          "roundId": 6,
+          "player1Id": 68074,
+          "player2Id": 13447,
+          "tournamentId": 20340,
+          "match_winner": 68074,
+          "result": "6-1 6-3 4-6 6-4",
+          "player1": {
+            "id": 68074,
+            "name": "Carlos Alcaraz",
+            "countryAcr": "ESP"
+          },
+          "player2": {
+            "id": 13447,
+            "name": "Damir Dzumhur",
+            "countryAcr": "BIH"
+          }
+        },
+        {
+          "id": "5375152778",
+          "date": "2025-05-28T14:40:00.000Z",
+          "roundId": 5,
+          "player1Id": 68074,
+          "player2Id": 52140,
+          "tournamentId": 20340,
+          "match_winner": 68074,
+          "result": "6-1 4-6 6-1 6-2",
+          "player1": {
+            "id": 68074,
+            "name": "Carlos Alcaraz",
+            "countryAcr": "ESP"
+          },
+          "player2": {
+            "id": 52140,
+            "name": "Fabian Marozsan",
+            "countryAcr": "HUN"
+          }
+        },
+        {
+          "id": "5310219332",
+          "date": "2025-05-26T13:30:00.000Z",
+          "roundId": 4,
+          "player1Id": 68074,
+          "player2Id": 57769,
+          "tournamentId": 20340,
+          "match_winner": 68074,
+          "result": "6-3 6-4 6-2",
+          "player1": {
+            "id": 68074,
+            "name": "Carlos Alcaraz",
+            "countryAcr": "ESP"
+          },
+          "player2": {
+            "id": 57769,
+            "name": "Giulio Zeppieri",
+            "countryAcr": "ITA"
+          }
+        },
+        {
+          "id": "5055899751",
+          "date": "2025-05-18T18:00:00.000Z",
+          "roundId": 12,
+          "player1Id": 68074,
+          "player2Id": 47275,
+          "tournamentId": 20337,
+          "match_winner": 68074,
+          "result": "7-6(5) 6-1",
+          "player1": {
+            "id": 68074,
+            "name": "Carlos Alcaraz",
+            "countryAcr": "ESP"
+          },
+          "player2": {
+            "id": 47275,
+            "name": "Jannik Sinner",
+            "countryAcr": "ITA"
+          }
+        },
+        {
+          "id": "4987170647",
+          "date": "2025-05-16T16:30:00.000Z",
+          "roundId": 10,
+          "player1Id": 68074,
+          "player2Id": 63572,
+          "tournamentId": 20337,
+          "match_winner": 68074,
+          "result": "6-3 7-6(4)",
+          "player1": {
+            "id": 68074,
+            "name": "Carlos Alcaraz",
+            "countryAcr": "ESP"
+          },
+          "player2": {
+            "id": 63572,
+            "name": "Lorenzo Musetti",
+            "countryAcr": "ITA"
+          }
+        },
+        {
+          "id": "4923646925",
+          "date": "2025-05-14T16:15:00.000Z",
+          "roundId": 9,
+          "player1Id": 68074,
+          "player2Id": 63017,
+          "tournamentId": 20337,
+          "match_winner": 68074,
+          "result": "6-4 6-4",
+          "player1": {
+            "id": 68074,
+            "name": "Carlos Alcaraz",
+            "countryAcr": "ESP"
+          },
+          "player2": {
+            "id": 63017,
+            "name": "Jack Draper",
+            "countryAcr": "GBR"
+          }
+        },
+        {
+          "id": "4888664024",
+          "date": "2025-05-13T12:00:00.000Z",
+          "roundId": 7,
+          "player1Id": 68074,
+          "player2Id": 25543,
+          "tournamentId": 20337,
+          "match_winner": 68074,
+          "result": "6-3 3-6 7-5",
+          "player1": {
+            "id": 68074,
+            "name": "Carlos Alcaraz",
+            "countryAcr": "ESP"
+          },
+          "player2": {
+            "id": 25543,
+            "name": "Karen Khachanov",
+            "countryAcr": "RUS"
+          }
+        },
+        {
+          "id": "4838157599",
+          "date": "2025-05-11T21:30:00.000Z",
+          "roundId": 6,
+          "player1Id": 68074,
+          "player2Id": 24084,
+          "tournamentId": 20337,
+          "match_winner": 68074,
+          "result": "7-6(2) 6-2",
+          "player1": {
+            "id": 68074,
+            "name": "Carlos Alcaraz",
+            "countryAcr": "ESP"
+          },
+          "player2": {
+            "id": 24084,
+            "name": "Laslo Djere",
+            "countryAcr": "SRB"
+          }
+        }
+      ],
+      "hasNextPage": true
+    }
+  },
+  "Ugo Humbert": {
+    "player_id": "HH26",
+    "name": "Ugo Humbert",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 38,
+      "BreakPointsOpportunities": 69,
+      "FirstServeReturnPointsWonPercentage": 32,
+      "ReturnGamesPlayed": 124,
+      "ReturnGamesWonPercentage": 21,
+      "ReturnPointsWonPercentage": 37,
+      "SecondServeReturnPointsWonPercentage": 47,
+      "TotalPointsWonPercentage": 50
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 35,
+      "BreakPointsFaced": 61,
+      "BreakPointsSavedPercentage": 57,
+      "DoubleFaults": 21,
+      "FirstServePercentage": 64,
+      "FirstServePointsWonPercentage": 69,
+      "SecondServePointsWonPercentage": 51,
+      "ServiceGamesPlayed": 126,
+      "ServiceGamesWonPercentage": 79,
+      "ServicePointsWonPercentage": 63
+    }
+  },
+  "Lorenzo Sonego": {
+    "player_id": "SU87",
+    "name": "Lorenzo Sonego",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 35,
+      "BreakPointsOpportunities": 81,
+      "FirstServeReturnPointsWonPercentage": 26,
+      "ReturnGamesPlayed": 184,
+      "ReturnGamesWonPercentage": 15,
+      "ReturnPointsWonPercentage": 33,
+      "SecondServeReturnPointsWonPercentage": 45,
+      "TotalPointsWonPercentage": 49
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 59,
+      "BreakPointsFaced": 79,
+      "BreakPointsSavedPercentage": 62,
+      "DoubleFaults": 31,
+      "FirstServePercentage": 66,
+      "FirstServePointsWonPercentage": 72,
+      "SecondServePointsWonPercentage": 54,
+      "ServiceGamesPlayed": 177,
+      "ServiceGamesWonPercentage": 83,
+      "ServicePointsWonPercentage": 66
+    }
+  },
+  "Alexei Popyrin": {
+    "player_id": "P09Z",
+    "name": "Alexei Popyrin",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 34,
+      "BreakPointsOpportunities": 47,
+      "FirstServeReturnPointsWonPercentage": 25,
+      "ReturnGamesPlayed": 113,
+      "ReturnGamesWonPercentage": 14,
+      "ReturnPointsWonPercentage": 32,
+      "SecondServeReturnPointsWonPercentage": 42,
+      "TotalPointsWonPercentage": 47
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 58,
+      "BreakPointsFaced": 63,
+      "BreakPointsSavedPercentage": 56,
+      "DoubleFaults": 25,
+      "FirstServePercentage": 63,
+      "FirstServePointsWonPercentage": 68,
+      "SecondServePointsWonPercentage": 50,
+      "ServiceGamesPlayed": 112,
+      "ServiceGamesWonPercentage": 75,
+      "ServicePointsWonPercentage": 61
+    }
+  },
+  "Casper Ruud": {
+    "player_id": "RH16",
+    "name": "Casper Ruud",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 43,
+      "BreakPointsOpportunities": 235,
+      "FirstServeReturnPointsWonPercentage": 36,
+      "ReturnGamesPlayed": 322,
+      "ReturnGamesWonPercentage": 32,
+      "ReturnPointsWonPercentage": 42,
+      "SecondServeReturnPointsWonPercentage": 52,
+      "TotalPointsWonPercentage": 53
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 110,
+      "BreakPointsFaced": 167,
+      "BreakPointsSavedPercentage": 60,
+      "DoubleFaults": 50,
+      "FirstServePercentage": 65,
+      "FirstServePointsWonPercentage": 70,
+      "SecondServePointsWonPercentage": 54,
+      "ServiceGamesPlayed": 327,
+      "ServiceGamesWonPercentage": 80,
+      "ServicePointsWonPercentage": 64
+    },
+    "surface_summary": [
+      {
+        "year": 2025,
+        "surfaces": [
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 6,
+            "courtLosses": 3
+          },
+          {
+            "courtId": 3,
+            "court": "I.hard",
+            "courtWins": 6,
+            "courtLosses": 1
+          },
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 13,
+            "courtLosses": 4
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "surfaces": [
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 21,
+            "courtLosses": 9
+          },
+          {
+            "courtId": 5,
+            "court": "Grass",
+            "courtWins": 1,
+            "courtLosses": 1
+          },
+          {
+            "courtId": 3,
+            "court": "I.hard",
+            "courtWins": 5,
+            "courtLosses": 8
+          },
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 24,
+            "courtLosses": 7
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "surfaces": [
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 22,
+            "courtLosses": 8
+          },
+          {
+            "courtId": 5,
+            "court": "Grass",
+            "courtWins": 1,
+            "courtLosses": 1
+          },
+          {
+            "courtId": 3,
+            "court": "I.hard",
+            "courtWins": 2,
+            "courtLosses": 2
+          },
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 12,
+            "courtLosses": 12
+          }
+        ]
+      }
+    ],
+    "past_matches": {
+      "data": [
+        {
+          "id": "5375152744",
+          "date": "2025-05-28T14:05:00.000Z",
+          "roundId": 5,
+          "player1Id": 31446,
+          "player2Id": 33648,
+          "tournamentId": 20340,
+          "match_winner": 31446,
+          "result": "2-6 6-4 6-1 6-0",
+          "player1": {
+            "id": 31446,
+            "name": "Nuno Borges",
+            "countryAcr": "POR"
+          },
+          "player2": {
+            "id": 33648,
+            "name": "Casper Ruud",
+            "countryAcr": "NOR"
+          }
+        },
+        {
+          "id": "5308921015",
+          "date": "2025-05-26T12:00:00.000Z",
+          "roundId": 4,
+          "player1Id": 33648,
+          "player2Id": 6691,
+          "tournamentId": 20340,
+          "match_winner": 33648,
+          "result": "6-3 6-4 6-2",
+          "player1": {
+            "id": 33648,
+            "name": "Casper Ruud",
+            "countryAcr": "NOR"
+          },
+          "player2": {
+            "id": 6691,
+            "name": "Albert Ramos-Vinolas",
+            "countryAcr": "ESP"
+          }
+        },
+        {
+          "id": "4959941956",
+          "date": "2025-05-15T20:10:00.000Z",
+          "roundId": 9,
+          "player1Id": 47275,
+          "player2Id": 33648,
+          "tournamentId": 20337,
+          "match_winner": 47275,
+          "result": "6-0 6-1",
+          "player1": {
+            "id": 47275,
+            "name": "Jannik Sinner",
+            "countryAcr": "ITA"
+          },
+          "player2": {
+            "id": 33648,
+            "name": "Casper Ruud",
+            "countryAcr": "NOR"
+          }
+        },
+        {
+          "id": "4922350894",
+          "date": "2025-05-14T15:00:00.000Z",
+          "roundId": 7,
+          "player1Id": 33648,
+          "player2Id": 31358,
+          "tournamentId": 20337,
+          "match_winner": 33648,
+          "result": "6-3 6-4",
+          "player1": {
+            "id": 33648,
+            "name": "Casper Ruud",
+            "countryAcr": "NOR"
+          },
+          "player2": {
+            "id": 31358,
+            "name": "Jaume Antoni Munar Clar",
+            "countryAcr": "ESP"
+          }
+        },
+        {
+          "id": "4865350132",
+          "date": "2025-05-12T20:00:00.000Z",
+          "roundId": 6,
+          "player1Id": 33648,
+          "player2Id": 29812,
+          "tournamentId": 20337,
+          "match_winner": 33648,
+          "result": "7-5 2-0 ret.",
+          "player1": {
+            "id": 33648,
+            "name": "Casper Ruud",
+            "countryAcr": "NOR"
+          },
+          "player2": {
+            "id": 29812,
+            "name": "Matteo Berrettini",
+            "countryAcr": "ITA"
+          }
+        },
+        {
+          "id": "4796722050",
+          "date": "2025-05-10T14:45:00.000Z",
+          "roundId": 5,
+          "player1Id": 33648,
+          "player2Id": 24245,
+          "tournamentId": 20337,
+          "match_winner": 33648,
+          "result": "6-4 4-6 6-3",
+          "player1": {
+            "id": 33648,
+            "name": "Casper Ruud",
+            "countryAcr": "NOR"
+          },
+          "player2": {
+            "id": 24245,
+            "name": "Alexander Bublik",
+            "countryAcr": "KAZ"
+          }
+        },
+        {
+          "id": "4624591553",
+          "date": "2025-05-04T19:40:00.000Z",
+          "roundId": 12,
+          "player1Id": 33648,
+          "player2Id": 63017,
+          "tournamentId": 20336,
+          "match_winner": 33648,
+          "result": "7-5 3-6 6-4",
+          "player1": {
+            "id": 33648,
+            "name": "Casper Ruud",
+            "countryAcr": "NOR"
+          },
+          "player2": {
+            "id": 63017,
+            "name": "Jack Draper",
+            "countryAcr": "GBR"
+          }
+        },
+        {
+          "id": "4554719593",
+          "date": "2025-05-02T17:00:00.000Z",
+          "roundId": 10,
+          "player1Id": 33648,
+          "player2Id": 52279,
+          "tournamentId": 20336,
+          "match_winner": 33648,
+          "result": "6-4 7-5",
+          "player1": {
+            "id": 33648,
+            "name": "Casper Ruud",
+            "countryAcr": "NOR"
+          },
+          "player2": {
+            "id": 52279,
+            "name": "Francisco Cerundolo",
+            "countryAcr": "ARG"
+          }
+        },
+        {
+          "id": "4519788654",
+          "date": "2025-05-01T14:00:00.000Z",
+          "roundId": 9,
+          "player1Id": 33648,
+          "player2Id": 22807,
+          "tournamentId": 20336,
+          "match_winner": 33648,
+          "result": "6-3 7-5",
+          "player1": {
+            "id": 33648,
+            "name": "Casper Ruud",
+            "countryAcr": "NOR"
+          },
+          "player2": {
+            "id": 22807,
+            "name": "Daniil Medvedev",
+            "countryAcr": "RUS"
+          }
+        },
+        {
+          "id": "4470642835",
+          "date": "2025-04-29T22:30:00.000Z",
+          "roundId": 7,
+          "player1Id": 33648,
+          "player2Id": 29932,
+          "tournamentId": 20336,
+          "match_winner": 33648,
+          "result": "7-5 6-4",
+          "player1": {
+            "id": 33648,
+            "name": "Casper Ruud",
+            "countryAcr": "NOR"
+          },
+          "player2": {
+            "id": 29932,
+            "name": "Taylor Fritz",
+            "countryAcr": "USA"
+          }
+        }
+      ],
+      "hasNextPage": true
+    }
+  },
+  "Stefanos Tsitsipas": {
+    "player_id": "TE51",
+    "name": "Stefanos Tsitsipas",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 42,
+      "BreakPointsOpportunities": 189,
+      "FirstServeReturnPointsWonPercentage": 31,
+      "ReturnGamesPlayed": 289,
+      "ReturnGamesWonPercentage": 28,
+      "ReturnPointsWonPercentage": 38,
+      "SecondServeReturnPointsWonPercentage": 52,
+      "TotalPointsWonPercentage": 52
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 109,
+      "BreakPointsFaced": 120,
+      "BreakPointsSavedPercentage": 67,
+      "DoubleFaults": 73,
+      "FirstServePercentage": 63,
+      "FirstServePointsWonPercentage": 73,
+      "SecondServePointsWonPercentage": 57,
+      "ServiceGamesPlayed": 294,
+      "ServiceGamesWonPercentage": 86,
+      "ServicePointsWonPercentage": 67
+    }
+  },
+  "Karen Khachanov": {
+    "player_id": "KE29",
+    "name": "Karen Khachanov",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 44,
+      "BreakPointsOpportunities": 88,
+      "FirstServeReturnPointsWonPercentage": 34,
+      "ReturnGamesPlayed": 155,
+      "ReturnGamesWonPercentage": 25,
+      "ReturnPointsWonPercentage": 39,
+      "SecondServeReturnPointsWonPercentage": 49,
+      "TotalPointsWonPercentage": 52
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 71,
+      "BreakPointsFaced": 72,
+      "BreakPointsSavedPercentage": 61,
+      "DoubleFaults": 19,
+      "FirstServePercentage": 64,
+      "FirstServePointsWonPercentage": 72,
+      "SecondServePointsWonPercentage": 51,
+      "ServiceGamesPlayed": 156,
+      "ServiceGamesWonPercentage": 82,
+      "ServicePointsWonPercentage": 65
+    }
+  },
+  "Jiri Lehecka": {
+    "player_id": "L0BV",
+    "name": "Jiri Lehecka",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 33,
+      "BreakPointsOpportunities": 21,
+      "FirstServeReturnPointsWonPercentage": 30,
+      "ReturnGamesPlayed": 41,
+      "ReturnGamesWonPercentage": 17,
+      "ReturnPointsWonPercentage": 36,
+      "SecondServeReturnPointsWonPercentage": 48,
+      "TotalPointsWonPercentage": 55
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 25,
+      "BreakPointsFaced": 6,
+      "BreakPointsSavedPercentage": 83,
+      "DoubleFaults": 5,
+      "FirstServePercentage": 68,
+      "FirstServePointsWonPercentage": 86,
+      "SecondServePointsWonPercentage": 54,
+      "ServiceGamesPlayed": 41,
+      "ServiceGamesWonPercentage": 98,
+      "ServicePointsWonPercentage": 76
+    }
+  },
+  "Tallon Griekspoor": {
+    "player_id": "GJ37",
+    "name": "Tallon Griekspoor",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 41,
+      "BreakPointsOpportunities": 88,
+      "FirstServeReturnPointsWonPercentage": 29,
+      "ReturnGamesPlayed": 196,
+      "ReturnGamesWonPercentage": 18,
+      "ReturnPointsWonPercentage": 36,
+      "SecondServeReturnPointsWonPercentage": 48,
+      "TotalPointsWonPercentage": 50
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 93,
+      "BreakPointsFaced": 107,
+      "BreakPointsSavedPercentage": 62,
+      "DoubleFaults": 52,
+      "FirstServePercentage": 62,
+      "FirstServePointsWonPercentage": 71,
+      "SecondServePointsWonPercentage": 54,
+      "ServiceGamesPlayed": 202,
+      "ServiceGamesWonPercentage": 80,
+      "ServicePointsWonPercentage": 65
+    }
+  },
+  "Arthur Rinderknech": {
+    "player_id": "RC91",
+    "name": "Arthur Rinderknech",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 27,
+      "BreakPointsOpportunities": 67,
+      "FirstServeReturnPointsWonPercentage": 26,
+      "ReturnGamesPlayed": 129,
+      "ReturnGamesWonPercentage": 14,
+      "ReturnPointsWonPercentage": 34,
+      "SecondServeReturnPointsWonPercentage": 44,
+      "TotalPointsWonPercentage": 50
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 74,
+      "BreakPointsFaced": 53,
+      "BreakPointsSavedPercentage": 62,
+      "DoubleFaults": 22,
+      "FirstServePercentage": 60,
+      "FirstServePointsWonPercentage": 77,
+      "SecondServePointsWonPercentage": 51,
+      "ServiceGamesPlayed": 127,
+      "ServiceGamesWonPercentage": 84,
+      "ServicePointsWonPercentage": 67
+    }
+  },
+  "Holger Rune": {
+    "player_id": "R0DG",
+    "name": "Holger Rune",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 39,
+      "BreakPointsOpportunities": 114,
+      "FirstServeReturnPointsWonPercentage": 30,
+      "ReturnGamesPlayed": 232,
+      "ReturnGamesWonPercentage": 19,
+      "ReturnPointsWonPercentage": 36,
+      "SecondServeReturnPointsWonPercentage": 46,
+      "TotalPointsWonPercentage": 50
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 77,
+      "BreakPointsFaced": 127,
+      "BreakPointsSavedPercentage": 65,
+      "DoubleFaults": 49,
+      "FirstServePercentage": 60,
+      "FirstServePointsWonPercentage": 71,
+      "SecondServePointsWonPercentage": 53,
+      "ServiceGamesPlayed": 233,
+      "ServiceGamesWonPercentage": 81,
+      "ServicePointsWonPercentage": 64
+    },
+    "surface_summary": [
+      {
+        "year": 2025,
+        "surfaces": [
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 9,
+            "courtLosses": 5
+          },
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 9,
+            "courtLosses": 5
+          },
+          {
+            "courtId": 3,
+            "court": "I.hard",
+            "courtWins": 2,
+            "courtLosses": 2
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "surfaces": [
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 21,
+            "courtLosses": 11
+          },
+          {
+            "courtId": 5,
+            "court": "Grass",
+            "courtWins": 3,
+            "courtLosses": 2
+          },
+          {
+            "courtId": 3,
+            "court": "I.hard",
+            "courtWins": 10,
+            "courtLosses": 4
+          },
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 11,
+            "courtLosses": 6
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "surfaces": [
+          {
+            "courtId": 3,
+            "court": "I.hard",
+            "courtWins": 11,
+            "courtLosses": 8
+          },
+          {
+            "courtId": 5,
+            "court": "Grass",
+            "courtWins": 7,
+            "courtLosses": 2
+          },
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 16,
+            "courtLosses": 6
+          },
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 10,
+            "courtLosses": 10
+          }
+        ]
+      }
+    ],
+    "past_matches": {
+      "data": [
+        {
+          "id": "5483040058",
+          "date": "2025-06-01T21:20:00.000Z",
+          "roundId": 7,
+          "player1Id": 63572,
+          "player2Id": 69471,
+          "tournamentId": 20340,
+          "match_winner": 63572,
+          "result": "7-5 3-6 6-3 6-2",
+          "player1": {
+            "id": 63572,
+            "name": "Lorenzo Musetti",
+            "countryAcr": "ITA"
+          },
+          "player2": {
+            "id": 69471,
+            "name": "Holger Rune",
+            "countryAcr": "DEN"
+          }
+        },
+        {
+          "id": "5440135620",
+          "date": "2025-05-30T14:45:00.000Z",
+          "roundId": 6,
+          "player1Id": 69471,
+          "player2Id": 25171,
+          "tournamentId": 20340,
+          "match_winner": 69471,
+          "result": "4-6 6-2 5-7 7-5 6-2",
+          "player1": {
+            "id": 69471,
+            "name": "Holger Rune",
+            "countryAcr": "DEN"
+          },
+          "player2": {
+            "id": 25171,
+            "name": "Quentin Halys",
+            "countryAcr": "FRA"
+          }
+        },
+        {
+          "id": "5384248202",
+          "date": "2025-05-28T21:15:00.000Z",
+          "roundId": 5,
+          "player1Id": 69471,
+          "player2Id": 56197,
+          "tournamentId": 20340,
+          "match_winner": 69471,
+          "result": "6-3 7-6(5) 6-3",
+          "player1": {
+            "id": 69471,
+            "name": "Holger Rune",
+            "countryAcr": "DEN"
+          },
+          "player2": {
+            "id": 56197,
+            "name": "Emilio Nava",
+            "countryAcr": "USA"
+          }
+        },
+        {
+          "id": "5314114157",
+          "date": "2025-05-26T15:15:00.000Z",
+          "roundId": 4,
+          "player1Id": 69471,
+          "player2Id": 1837,
+          "tournamentId": 20340,
+          "match_winner": 69471,
+          "result": "6-7(4) 6-4 6-3 6-2",
+          "player1": {
+            "id": 69471,
+            "name": "Holger Rune",
+            "countryAcr": "DEN"
+          },
+          "player2": {
+            "id": 1837,
+            "name": "Roberto Bautista Agut",
+            "countryAcr": "ESP"
+          }
+        },
+        {
+          "id": "4830388407",
+          "date": "2025-05-11T14:00:00.000Z",
+          "roundId": 6,
+          "player1Id": 36263,
+          "player2Id": 69471,
+          "tournamentId": 20337,
+          "match_winner": 36263,
+          "result": "7-5 5-7 7-6(4)",
+          "player1": {
+            "id": 36263,
+            "name": "Corentin Moutet",
+            "countryAcr": "FRA"
+          },
+          "player2": {
+            "id": 69471,
+            "name": "Holger Rune",
+            "countryAcr": "DEN"
+          }
+        },
+        {
+          "id": "4773416040",
+          "date": "2025-05-09T18:30:00.000Z",
+          "roundId": 5,
+          "player1Id": 69471,
+          "player2Id": 61971,
+          "tournamentId": 20337,
+          "match_winner": 69471,
+          "result": "3-6 6-3 6-4",
+          "player1": {
+            "id": 69471,
+            "name": "Holger Rune",
+            "countryAcr": "DEN"
+          },
+          "player2": {
+            "id": 61971,
+            "name": "Francisco Comesana",
+            "countryAcr": "ARG"
+          }
+        },
+        {
+          "id": "4340078077",
+          "date": "2025-04-25T21:35:00.000Z",
+          "roundId": 5,
+          "player1Id": 67546,
+          "player2Id": 69471,
+          "tournamentId": 20336,
+          "match_winner": 67546,
+          "result": "6-2 ret.",
+          "player1": {
+            "id": 67546,
+            "name": "Flavio Cobolli",
+            "countryAcr": "ITA"
+          },
+          "player2": {
+            "id": 69471,
+            "name": "Holger Rune",
+            "countryAcr": "DEN"
+          }
+        },
+        {
+          "id": "4173435381",
+          "date": "2025-04-20T17:00:00.000Z",
+          "roundId": 12,
+          "player1Id": 69471,
+          "player2Id": 68074,
+          "tournamentId": 20334,
+          "match_winner": 69471,
+          "result": "7-6(6) 6-2",
+          "player1": {
+            "id": 69471,
+            "name": "Holger Rune",
+            "countryAcr": "DEN"
+          },
+          "player2": {
+            "id": 68074,
+            "name": "Carlos Alcaraz",
+            "countryAcr": "ESP"
+          }
+        },
+        {
+          "id": "4138570866",
+          "date": "2025-04-19T14:30:00.000Z",
+          "roundId": 10,
+          "player1Id": 69471,
+          "player2Id": 25543,
+          "tournamentId": 20334,
+          "match_winner": 69471,
+          "result": "6-3 6-2",
+          "player1": {
+            "id": 69471,
+            "name": "Holger Rune",
+            "countryAcr": "DEN"
+          },
+          "player2": {
+            "id": 25543,
+            "name": "Karen Khachanov",
+            "countryAcr": "RUS"
+          }
+        },
+        {
+          "id": "4119202997",
+          "date": "2025-04-18T14:15:00.000Z",
+          "roundId": 9,
+          "player1Id": 69471,
+          "player2Id": 33648,
+          "tournamentId": 20334,
+          "match_winner": 69471,
+          "result": "6-4 6-2",
+          "player1": {
+            "id": 69471,
+            "name": "Holger Rune",
+            "countryAcr": "DEN"
+          },
+          "player2": {
+            "id": 33648,
+            "name": "Casper Ruud",
+            "countryAcr": "NOR"
+          }
+        }
+      ],
+      "hasNextPage": true
+    }
+  },
+  "Jack Draper": {
+    "player_id": "D0CO",
+    "name": "Jack Draper",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 42,
+      "BreakPointsOpportunities": 74,
+      "FirstServeReturnPointsWonPercentage": 25,
+      "ReturnGamesPlayed": 139,
+      "ReturnGamesWonPercentage": 22,
+      "ReturnPointsWonPercentage": 35,
+      "SecondServeReturnPointsWonPercentage": 50,
+      "TotalPointsWonPercentage": 50
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 61,
+      "BreakPointsFaced": 49,
+      "BreakPointsSavedPercentage": 41,
+      "DoubleFaults": 29,
+      "FirstServePercentage": 59,
+      "FirstServePointsWonPercentage": 76,
+      "SecondServePointsWonPercentage": 50,
+      "ServiceGamesPlayed": 137,
+      "ServiceGamesWonPercentage": 79,
+      "ServicePointsWonPercentage": 65
+    },
+    "surface_summary": [
+      {
+        "year": 2025,
+        "surfaces": [
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 13,
+            "courtLosses": 3
+          },
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 12,
+            "courtLosses": 4
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "surfaces": [
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 19,
+            "courtLosses": 10
+          },
+          {
+            "courtId": 3,
+            "court": "I.hard",
+            "courtWins": 7,
+            "courtLosses": 3
+          },
+          {
+            "courtId": 5,
+            "court": "Grass",
+            "courtWins": 8,
+            "courtLosses": 2
+          },
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 5,
+            "courtLosses": 7
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "surfaces": [
+          {
+            "courtId": 3,
+            "court": "I.hard",
+            "courtWins": 16,
+            "courtLosses": 4
+          },
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 3,
+            "courtLosses": 3
+          },
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 14,
+            "courtLosses": 8
+          }
+        ]
+      }
+    ],
+    "past_matches": {
+      "data": [
+        {
+          "id": "5499941178",
+          "date": "2025-06-02T17:40:00.000Z",
+          "roundId": 7,
+          "player1Id": 24245,
+          "player2Id": 63017,
+          "tournamentId": 20340,
+          "match_winner": 24245,
+          "result": "5-7 6-3 6-2 6-4",
+          "player1": {
+            "id": 24245,
+            "name": "Alexander Bublik",
+            "countryAcr": "KAZ"
+          },
+          "player2": {
+            "id": 63017,
+            "name": "Jack Draper",
+            "countryAcr": "GBR"
+          }
+        },
+        {
+          "id": "5471338482",
+          "date": "2025-05-31T15:45:00.000Z",
+          "roundId": 6,
+          "player1Id": 63017,
+          "player2Id": 91521,
+          "tournamentId": 20340,
+          "match_winner": 63017,
+          "result": "6-2 6-4 6-2",
+          "player1": {
+            "id": 63017,
+            "name": "Jack Draper",
+            "countryAcr": "GBR"
+          },
+          "player2": {
+            "id": 91521,
+            "name": "Joao Fonseca",
+            "countryAcr": "BRA"
+          }
+        },
+        {
+          "id": "5416737699",
+          "date": "2025-05-29T21:15:00.000Z",
+          "roundId": 5,
+          "player1Id": 63017,
+          "player2Id": 5917,
+          "tournamentId": 20340,
+          "match_winner": 63017,
+          "result": "6-3 4-6 6-3 7-5",
+          "player1": {
+            "id": 63017,
+            "name": "Jack Draper",
+            "countryAcr": "GBR"
+          },
+          "player2": {
+            "id": 5917,
+            "name": "Gael Monfils",
+            "countryAcr": "FRA"
+          }
+        },
+        {
+          "id": "5350472908",
+          "date": "2025-05-27T17:40:00.000Z",
+          "roundId": 4,
+          "player1Id": 63017,
+          "player2Id": 72578,
+          "tournamentId": 20340,
+          "match_winner": 63017,
+          "result": "3-6 6-1 6-4 6-2",
+          "player1": {
+            "id": 63017,
+            "name": "Jack Draper",
+            "countryAcr": "GBR"
+          },
+          "player2": {
+            "id": 72578,
+            "name": "Mattia Bellucci",
+            "countryAcr": "ITA"
+          }
+        },
+        {
+          "id": "4923646925",
+          "date": "2025-05-14T16:15:00.000Z",
+          "roundId": 9,
+          "player1Id": 68074,
+          "player2Id": 63017,
+          "tournamentId": 20337,
+          "match_winner": 68074,
+          "result": "6-4 6-4",
+          "player1": {
+            "id": 68074,
+            "name": "Carlos Alcaraz",
+            "countryAcr": "ESP"
+          },
+          "player2": {
+            "id": 63017,
+            "name": "Jack Draper",
+            "countryAcr": "GBR"
+          }
+        },
+        {
+          "id": "4888664056",
+          "date": "2025-05-13T12:00:00.000Z",
+          "roundId": 7,
+          "player1Id": 63017,
+          "player2Id": 36263,
+          "tournamentId": 20337,
+          "match_winner": 63017,
+          "result": "1-6 6-4 6-3",
+          "player1": {
+            "id": 63017,
+            "name": "Jack Draper",
+            "countryAcr": "GBR"
+          },
+          "player2": {
+            "id": 36263,
+            "name": "Corentin Moutet",
+            "countryAcr": "FRA"
+          }
+        },
+        {
+          "id": "4831683369",
+          "date": "2025-05-11T16:40:00.000Z",
+          "roundId": 6,
+          "player1Id": 63017,
+          "player2Id": 42971,
+          "tournamentId": 20337,
+          "match_winner": 63017,
+          "result": "6-4 6-3",
+          "player1": {
+            "id": 63017,
+            "name": "Jack Draper",
+            "countryAcr": "GBR"
+          },
+          "player2": {
+            "id": 42971,
+            "name": "Vit Kopriva",
+            "countryAcr": "CZE"
+          }
+        },
+        {
+          "id": "4772121296",
+          "date": "2025-05-09T19:30:00.000Z",
+          "roundId": 5,
+          "player1Id": 63017,
+          "player2Id": 76127,
+          "tournamentId": 20337,
+          "match_winner": 63017,
+          "result": "6-1 6-4",
+          "player1": {
+            "id": 63017,
+            "name": "Jack Draper",
+            "countryAcr": "GBR"
+          },
+          "player2": {
+            "id": 76127,
+            "name": "Luciano Darderi",
+            "countryAcr": "ITA"
+          }
+        },
+        {
+          "id": "4624591553",
+          "date": "2025-05-04T19:40:00.000Z",
+          "roundId": 12,
+          "player1Id": 33648,
+          "player2Id": 63017,
+          "tournamentId": 20336,
+          "match_winner": 33648,
+          "result": "7-5 3-6 6-4",
+          "player1": {
+            "id": 33648,
+            "name": "Casper Ruud",
+            "countryAcr": "NOR"
+          },
+          "player2": {
+            "id": 63017,
+            "name": "Jack Draper",
+            "countryAcr": "GBR"
+          }
+        },
+        {
+          "id": "4559895150",
+          "date": "2025-05-02T21:00:00.000Z",
+          "roundId": 10,
+          "player1Id": 63017,
+          "player2Id": 63572,
+          "tournamentId": 20336,
+          "match_winner": 63017,
+          "result": "6-3 7-6(4)",
+          "player1": {
+            "id": 63017,
+            "name": "Jack Draper",
+            "countryAcr": "GBR"
+          },
+          "player2": {
+            "id": 63572,
+            "name": "Lorenzo Musetti",
+            "countryAcr": "ITA"
+          }
+        }
+      ],
+      "hasNextPage": true
+    }
+  },
+  "Frances Tiafoe": {
+    "player_id": "TD51",
+    "name": "Frances Tiafoe",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 25,
+      "BreakPointsOpportunities": 80,
+      "FirstServeReturnPointsWonPercentage": 24,
+      "ReturnGamesPlayed": 144,
+      "ReturnGamesWonPercentage": 14,
+      "ReturnPointsWonPercentage": 34,
+      "SecondServeReturnPointsWonPercentage": 50,
+      "TotalPointsWonPercentage": 50
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 69,
+      "BreakPointsFaced": 57,
+      "BreakPointsSavedPercentage": 65,
+      "DoubleFaults": 20,
+      "FirstServePercentage": 56,
+      "FirstServePointsWonPercentage": 74,
+      "SecondServePointsWonPercentage": 56,
+      "ServiceGamesPlayed": 144,
+      "ServiceGamesWonPercentage": 86,
+      "ServicePointsWonPercentage": 66
+    }
+  },
+  "Nicolas Jarry": {
+    "player_id": "J551",
+    "name": "Nicolas Jarry",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 33,
+      "BreakPointsOpportunities": 109,
+      "FirstServeReturnPointsWonPercentage": 28,
+      "ReturnGamesPlayed": 208,
+      "ReturnGamesWonPercentage": 17,
+      "ReturnPointsWonPercentage": 35,
+      "SecondServeReturnPointsWonPercentage": 46,
+      "TotalPointsWonPercentage": 49
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 122,
+      "BreakPointsFaced": 119,
+      "BreakPointsSavedPercentage": 69,
+      "DoubleFaults": 30,
+      "FirstServePercentage": 64,
+      "FirstServePointsWonPercentage": 71,
+      "SecondServePointsWonPercentage": 52,
+      "ServiceGamesPlayed": 208,
+      "ServiceGamesWonPercentage": 82,
+      "ServicePointsWonPercentage": 64
+    }
+  },
+  "Zhizhen Zhang": {
+    "player_id": "Z371",
+    "name": "Zhizhen Zhang",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 44,
+      "BreakPointsOpportunities": 84,
+      "FirstServeReturnPointsWonPercentage": 29,
+      "ReturnGamesPlayed": 169,
+      "ReturnGamesWonPercentage": 22,
+      "ReturnPointsWonPercentage": 37,
+      "SecondServeReturnPointsWonPercentage": 50,
+      "TotalPointsWonPercentage": 51
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 84,
+      "BreakPointsFaced": 78,
+      "BreakPointsSavedPercentage": 58,
+      "DoubleFaults": 26,
+      "FirstServePercentage": 60,
+      "FirstServePointsWonPercentage": 73,
+      "SecondServePointsWonPercentage": 52,
+      "ServiceGamesPlayed": 167,
+      "ServiceGamesWonPercentage": 80,
+      "ServicePointsWonPercentage": 64
+    }
+  },
+  "Alejandro Tabilo": {
+    "player_id": "TE30",
+    "name": "Alejandro Tabilo",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 40,
+      "BreakPointsOpportunities": 135,
+      "FirstServeReturnPointsWonPercentage": 30,
+      "ReturnGamesPlayed": 233,
+      "ReturnGamesWonPercentage": 23,
+      "ReturnPointsWonPercentage": 37,
+      "SecondServeReturnPointsWonPercentage": 53,
+      "TotalPointsWonPercentage": 51
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 105,
+      "BreakPointsFaced": 114,
+      "BreakPointsSavedPercentage": 61,
+      "DoubleFaults": 38,
+      "FirstServePercentage": 64,
+      "FirstServePointsWonPercentage": 73,
+      "SecondServePointsWonPercentage": 49,
+      "ServiceGamesPlayed": 239,
+      "ServiceGamesWonPercentage": 82,
+      "ServicePointsWonPercentage": 64
+    }
+  },
+  "Jan-Lennard Struff": {
+    "player_id": "SL28",
+    "name": "Jan-Lennard Struff",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 35,
+      "BreakPointsOpportunities": 168,
+      "FirstServeReturnPointsWonPercentage": 35,
+      "ReturnGamesPlayed": 227,
+      "ReturnGamesWonPercentage": 26,
+      "ReturnPointsWonPercentage": 41,
+      "SecondServeReturnPointsWonPercentage": 51,
+      "TotalPointsWonPercentage": 53
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 127,
+      "BreakPointsFaced": 94,
+      "BreakPointsSavedPercentage": 61,
+      "DoubleFaults": 71,
+      "FirstServePercentage": 56,
+      "FirstServePointsWonPercentage": 77,
+      "SecondServePointsWonPercentage": 53,
+      "ServiceGamesPlayed": 228,
+      "ServiceGamesWonPercentage": 84,
+      "ServicePointsWonPercentage": 66
+    }
+  },
+  "Felix Auger-Aliassime": {
+    "player_id": "AG37",
+    "name": "Felix Auger-Aliassime",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 44,
+      "BreakPointsOpportunities": 120,
+      "FirstServeReturnPointsWonPercentage": 34,
+      "ReturnGamesPlayed": 217,
+      "ReturnGamesWonPercentage": 24,
+      "ReturnPointsWonPercentage": 39,
+      "SecondServeReturnPointsWonPercentage": 47,
+      "TotalPointsWonPercentage": 53
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 109,
+      "BreakPointsFaced": 92,
+      "BreakPointsSavedPercentage": 66,
+      "DoubleFaults": 68,
+      "FirstServePercentage": 62,
+      "FirstServePointsWonPercentage": 76,
+      "SecondServePointsWonPercentage": 51,
+      "ServiceGamesPlayed": 220,
+      "ServiceGamesWonPercentage": 86,
+      "ServicePointsWonPercentage": 67
+    }
+  },
+  "Sebastian Korda": {
+    "player_id": "K0AH",
+    "name": "Sebastian Korda",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 37,
+      "BreakPointsOpportunities": 75,
+      "FirstServeReturnPointsWonPercentage": 33,
+      "ReturnGamesPlayed": 125,
+      "ReturnGamesWonPercentage": 22,
+      "ReturnPointsWonPercentage": 37,
+      "SecondServeReturnPointsWonPercentage": 45,
+      "TotalPointsWonPercentage": 49
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 58,
+      "BreakPointsFaced": 66,
+      "BreakPointsSavedPercentage": 58,
+      "DoubleFaults": 13,
+      "FirstServePercentage": 59,
+      "FirstServePointsWonPercentage": 68,
+      "SecondServePointsWonPercentage": 53,
+      "ServiceGamesPlayed": 124,
+      "ServiceGamesWonPercentage": 77,
+      "ServicePointsWonPercentage": 62
+    }
+  },
+  "Tomas Martin Etcheverry": {
+    "player_id": "EA24",
+    "name": "Tomas Martin Etcheverry",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 41,
+      "BreakPointsOpportunities": 214,
+      "FirstServeReturnPointsWonPercentage": 33,
+      "ReturnGamesPlayed": 307,
+      "ReturnGamesWonPercentage": 28,
+      "ReturnPointsWonPercentage": 40,
+      "SecondServeReturnPointsWonPercentage": 51,
+      "TotalPointsWonPercentage": 51
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 116,
+      "BreakPointsFaced": 172,
+      "BreakPointsSavedPercentage": 65,
+      "DoubleFaults": 38,
+      "FirstServePercentage": 65,
+      "FirstServePointsWonPercentage": 70,
+      "SecondServePointsWonPercentage": 51,
+      "ServiceGamesPlayed": 301,
+      "ServiceGamesWonPercentage": 80,
+      "ServicePointsWonPercentage": 63
+    }
+  },
+  "Cameron Norrie": {
+    "player_id": "N771",
+    "name": "Cameron Norrie",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 44,
+      "BreakPointsOpportunities": 106,
+      "FirstServeReturnPointsWonPercentage": 32,
+      "ReturnGamesPlayed": 180,
+      "ReturnGamesWonPercentage": 26,
+      "ReturnPointsWonPercentage": 39,
+      "SecondServeReturnPointsWonPercentage": 51,
+      "TotalPointsWonPercentage": 50
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 46,
+      "BreakPointsFaced": 122,
+      "BreakPointsSavedPercentage": 65,
+      "DoubleFaults": 38,
+      "FirstServePercentage": 61,
+      "FirstServePointsWonPercentage": 71,
+      "SecondServePointsWonPercentage": 46,
+      "ServiceGamesPlayed": 181,
+      "ServiceGamesWonPercentage": 76,
+      "ServicePointsWonPercentage": 61
+    }
+  },
+  "Denis Shapovalov": {
+    "player_id": "SU55",
+    "name": "Denis Shapovalov",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 44,
+      "BreakPointsOpportunities": 63,
+      "FirstServeReturnPointsWonPercentage": 28,
+      "ReturnGamesPlayed": 150,
+      "ReturnGamesWonPercentage": 19,
+      "ReturnPointsWonPercentage": 34,
+      "SecondServeReturnPointsWonPercentage": 44,
+      "TotalPointsWonPercentage": 49
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 75,
+      "BreakPointsFaced": 92,
+      "BreakPointsSavedPercentage": 70,
+      "DoubleFaults": 78,
+      "FirstServePercentage": 57,
+      "FirstServePointsWonPercentage": 75,
+      "SecondServePointsWonPercentage": 47,
+      "ServiceGamesPlayed": 150,
+      "ServiceGamesWonPercentage": 81,
+      "ServicePointsWonPercentage": 63
+    }
+  },
+  "Tommy Paul": {
+    "player_id": "PL56",
+    "name": "Tommy Paul",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 47,
+      "BreakPointsOpportunities": 96,
+      "FirstServeReturnPointsWonPercentage": 37,
+      "ReturnGamesPlayed": 125,
+      "ReturnGamesWonPercentage": 36,
+      "ReturnPointsWonPercentage": 45,
+      "SecondServeReturnPointsWonPercentage": 56,
+      "TotalPointsWonPercentage": 54
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 34,
+      "BreakPointsFaced": 86,
+      "BreakPointsSavedPercentage": 66,
+      "DoubleFaults": 16,
+      "FirstServePercentage": 61,
+      "FirstServePointsWonPercentage": 66,
+      "SecondServePointsWonPercentage": 57,
+      "ServiceGamesPlayed": 128,
+      "ServiceGamesWonPercentage": 77,
+      "ServicePointsWonPercentage": 63
+    }
+  },
+  "Aleksandar Kovacevic": {
+    "player_id": "K0AZ",
+    "name": "Aleksandar Kovacevic",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 30,
+      "BreakPointsOpportunities": 37,
+      "FirstServeReturnPointsWonPercentage": 25,
+      "ReturnGamesPlayed": 94,
+      "ReturnGamesWonPercentage": 12,
+      "ReturnPointsWonPercentage": 32,
+      "SecondServeReturnPointsWonPercentage": 44,
+      "TotalPointsWonPercentage": 48
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 53,
+      "BreakPointsFaced": 41,
+      "BreakPointsSavedPercentage": 63,
+      "DoubleFaults": 16,
+      "FirstServePercentage": 59,
+      "FirstServePointsWonPercentage": 77,
+      "SecondServePointsWonPercentage": 49,
+      "ServiceGamesPlayed": 92,
+      "ServiceGamesWonPercentage": 84,
+      "ServicePointsWonPercentage": 66
+    }
+  },
+  "Gael Monfils": {
+    "player_id": "MC65",
+    "name": "Gael Monfils",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 46,
+      "BreakPointsOpportunities": 50,
+      "FirstServeReturnPointsWonPercentage": 30,
+      "ReturnGamesPlayed": 103,
+      "ReturnGamesWonPercentage": 22,
+      "ReturnPointsWonPercentage": 35,
+      "SecondServeReturnPointsWonPercentage": 44,
+      "TotalPointsWonPercentage": 47
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 40,
+      "BreakPointsFaced": 54,
+      "BreakPointsSavedPercentage": 46,
+      "DoubleFaults": 23,
+      "FirstServePercentage": 62,
+      "FirstServePointsWonPercentage": 67,
+      "SecondServePointsWonPercentage": 48,
+      "ServiceGamesPlayed": 101,
+      "ServiceGamesWonPercentage": 71,
+      "ServicePointsWonPercentage": 60
+    }
+  },
+  "Jordan Thompson": {
+    "player_id": "TC61",
+    "name": "Jordan Thompson",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 27,
+      "BreakPointsOpportunities": 49,
+      "FirstServeReturnPointsWonPercentage": 29,
+      "ReturnGamesPlayed": 98,
+      "ReturnGamesWonPercentage": 13,
+      "ReturnPointsWonPercentage": 34,
+      "SecondServeReturnPointsWonPercentage": 43,
+      "TotalPointsWonPercentage": 47
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 31,
+      "BreakPointsFaced": 94,
+      "BreakPointsSavedPercentage": 71,
+      "DoubleFaults": 12,
+      "FirstServePercentage": 61,
+      "FirstServePointsWonPercentage": 64,
+      "SecondServePointsWonPercentage": 50,
+      "ServiceGamesPlayed": 96,
+      "ServiceGamesWonPercentage": 72,
+      "ServicePointsWonPercentage": 59
+    }
+  },
+  "Arthur Fils": {
+    "player_id": "F0F1",
+    "name": "Arthur Fils",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 51,
+      "BreakPointsOpportunities": 110,
+      "FirstServeReturnPointsWonPercentage": 36,
+      "ReturnGamesPlayed": 212,
+      "ReturnGamesWonPercentage": 26,
+      "ReturnPointsWonPercentage": 40,
+      "SecondServeReturnPointsWonPercentage": 46,
+      "TotalPointsWonPercentage": 51
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 78,
+      "BreakPointsFaced": 132,
+      "BreakPointsSavedPercentage": 60,
+      "DoubleFaults": 57,
+      "FirstServePercentage": 61,
+      "FirstServePointsWonPercentage": 69,
+      "SecondServePointsWonPercentage": 48,
+      "ServiceGamesPlayed": 210,
+      "ServiceGamesWonPercentage": 75,
+      "ServicePointsWonPercentage": 61
+    }
+  },
+  "Lorenzo Musetti": {
+    "player_id": "M0EJ",
+    "name": "Lorenzo Musetti",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 45,
+      "BreakPointsOpportunities": 106,
+      "FirstServeReturnPointsWonPercentage": 34,
+      "ReturnGamesPlayed": 170,
+      "ReturnGamesWonPercentage": 28,
+      "ReturnPointsWonPercentage": 40,
+      "SecondServeReturnPointsWonPercentage": 51,
+      "TotalPointsWonPercentage": 51
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 30,
+      "BreakPointsFaced": 73,
+      "BreakPointsSavedPercentage": 52,
+      "DoubleFaults": 17,
+      "FirstServePercentage": 63,
+      "FirstServePointsWonPercentage": 71,
+      "SecondServePointsWonPercentage": 51,
+      "ServiceGamesPlayed": 167,
+      "ServiceGamesWonPercentage": 79,
+      "ServicePointsWonPercentage": 63
+    },
+    "surface_summary": [
+      {
+        "year": 2025,
+        "surfaces": [
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 19,
+            "courtLosses": 3
+          },
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 6,
+            "courtLosses": 4
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "surfaces": [
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 13,
+            "courtLosses": 12
+          },
+          {
+            "courtId": 5,
+            "court": "Grass",
+            "courtWins": 12,
+            "courtLosses": 3
+          },
+          {
+            "courtId": 3,
+            "court": "I.hard",
+            "courtWins": 3,
+            "courtLosses": 5
+          },
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 18,
+            "courtLosses": 10
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "surfaces": [
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 16,
+            "courtLosses": 11
+          },
+          {
+            "courtId": 5,
+            "court": "Grass",
+            "courtWins": 6,
+            "courtLosses": 3
+          },
+          {
+            "courtId": 3,
+            "court": "I.hard",
+            "courtWins": 0,
+            "courtLosses": 5
+          },
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 10,
+            "courtLosses": 10
+          }
+        ]
+      }
+    ],
+    "past_matches": {
+      "data": [
+        {
+          "id": "5531149716",
+          "date": "2025-06-03T16:30:00.000Z",
+          "roundId": 9,
+          "player1Id": 63572,
+          "player2Id": 29939,
+          "tournamentId": 20340,
+          "match_winner": 63572,
+          "result": "6-2 4-6 7-5 6-2",
+          "player1": {
+            "id": 63572,
+            "name": "Lorenzo Musetti",
+            "countryAcr": "ITA"
+          },
+          "player2": {
+            "id": 29939,
+            "name": "Frances Tiafoe",
+            "countryAcr": "USA"
+          }
+        },
+        {
+          "id": "5483040058",
+          "date": "2025-06-01T21:20:00.000Z",
+          "roundId": 7,
+          "player1Id": 63572,
+          "player2Id": 69471,
+          "tournamentId": 20340,
+          "match_winner": 63572,
+          "result": "7-5 3-6 6-3 6-2",
+          "player1": {
+            "id": 63572,
+            "name": "Lorenzo Musetti",
+            "countryAcr": "ITA"
+          },
+          "player2": {
+            "id": 69471,
+            "name": "Holger Rune",
+            "countryAcr": "DEN"
+          }
+        },
+        {
+          "id": "5437535718",
+          "date": "2025-05-30T12:00:00.000Z",
+          "roundId": 6,
+          "player1Id": 63572,
+          "player2Id": 66828,
+          "tournamentId": 20340,
+          "match_winner": 63572,
+          "result": "4-6 6-4 6-3 6-2",
+          "player1": {
+            "id": 63572,
+            "name": "Lorenzo Musetti",
+            "countryAcr": "ITA"
+          },
+          "player2": {
+            "id": 66828,
+            "name": "Mariano Navone",
+            "countryAcr": "ARG"
+          }
+        },
+        {
+          "id": "5371255324",
+          "date": "2025-05-28T12:00:00.000Z",
+          "roundId": 5,
+          "player1Id": 63572,
+          "player2Id": 26845,
+          "tournamentId": 20340,
+          "match_winner": 63572,
+          "result": "6-4 6-0 6-4",
+          "player1": {
+            "id": 63572,
+            "name": "Lorenzo Musetti",
+            "countryAcr": "ITA"
+          },
+          "player2": {
+            "id": 26845,
+            "name": "Daniel Elahi Galan",
+            "countryAcr": "COL"
+          }
+        },
+        {
+          "id": "5281662415",
+          "date": "2025-05-25T16:26:00.000Z",
+          "roundId": 4,
+          "player1Id": 63572,
+          "player2Id": 14856,
+          "tournamentId": 20340,
+          "match_winner": 63572,
+          "result": "7-5 6-2 6-0",
+          "player1": {
+            "id": 63572,
+            "name": "Lorenzo Musetti",
+            "countryAcr": "ITA"
+          },
+          "player2": {
+            "id": 14856,
+            "name": "Yannick Hanfmann",
+            "countryAcr": "GER"
+          }
+        },
+        {
+          "id": "4987170647",
+          "date": "2025-05-16T16:30:00.000Z",
+          "roundId": 10,
+          "player1Id": 68074,
+          "player2Id": 63572,
+          "tournamentId": 20337,
+          "match_winner": 68074,
+          "result": "6-3 7-6(4)",
+          "player1": {
+            "id": 68074,
+            "name": "Carlos Alcaraz",
+            "countryAcr": "ESP"
+          },
+          "player2": {
+            "id": 63572,
+            "name": "Lorenzo Musetti",
+            "countryAcr": "ITA"
+          }
+        },
+        {
+          "id": "4932719689",
+          "date": "2025-05-14T22:15:00.000Z",
+          "roundId": 9,
+          "player1Id": 63572,
+          "player2Id": 24008,
+          "tournamentId": 20337,
+          "match_winner": 63572,
+          "result": "7-6(1) 6-4",
+          "player1": {
+            "id": 63572,
+            "name": "Lorenzo Musetti",
+            "countryAcr": "ITA"
+          },
+          "player2": {
+            "id": 24008,
+            "name": "Alexander Zverev",
+            "countryAcr": "GER"
+          }
+        },
+        {
+          "id": "4896436896",
+          "date": "2025-05-13T16:00:00.000Z",
+          "roundId": 7,
+          "player1Id": 63572,
+          "player2Id": 22807,
+          "tournamentId": 20337,
+          "match_winner": 63572,
+          "result": "7-5 6-4",
+          "player1": {
+            "id": 63572,
+            "name": "Lorenzo Musetti",
+            "countryAcr": "ITA"
+          },
+          "player2": {
+            "id": 22807,
+            "name": "Daniil Medvedev",
+            "countryAcr": "RUS"
+          }
+        },
+        {
+          "id": "4827798561",
+          "date": "2025-05-11T14:30:00.000Z",
+          "roundId": 6,
+          "player1Id": 63572,
+          "player2Id": 56846,
+          "tournamentId": 20337,
+          "match_winner": 63572,
+          "result": "6-4 6-3",
+          "player1": {
+            "id": 63572,
+            "name": "Lorenzo Musetti",
+            "countryAcr": "ITA"
+          },
+          "player2": {
+            "id": 56846,
+            "name": "Brandon Nakashima",
+            "countryAcr": "USA"
+          }
+        },
+        {
+          "id": "4768237049",
+          "date": "2025-05-09T15:40:00.000Z",
+          "roundId": 5,
+          "player1Id": 63572,
+          "player2Id": 55252,
+          "tournamentId": 20337,
+          "match_winner": 63572,
+          "result": "6-3 6-2",
+          "player1": {
+            "id": 63572,
+            "name": "Lorenzo Musetti",
+            "countryAcr": "ITA"
+          },
+          "player2": {
+            "id": 55252,
+            "name": "Otto Virtanen",
+            "countryAcr": "FIN"
+          }
+        }
+      ],
+      "hasNextPage": true
+    }
+  },
+  "Alex Michelsen": {
+    "player_id": "M0QI",
+    "name": "Alex Michelsen",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 42,
+      "BreakPointsOpportunities": 48,
+      "FirstServeReturnPointsWonPercentage": 31,
+      "ReturnGamesPlayed": 111,
+      "ReturnGamesWonPercentage": 18,
+      "ReturnPointsWonPercentage": 36,
+      "SecondServeReturnPointsWonPercentage": 43,
+      "TotalPointsWonPercentage": 47
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 25,
+      "BreakPointsFaced": 86,
+      "BreakPointsSavedPercentage": 52,
+      "DoubleFaults": 22,
+      "FirstServePercentage": 72,
+      "FirstServePointsWonPercentage": 60,
+      "SecondServePointsWonPercentage": 50,
+      "ServiceGamesPlayed": 111,
+      "ServiceGamesWonPercentage": 63,
+      "ServicePointsWonPercentage": 57
+    }
+  },
+  "Borna Coric": {
+    "player_id": "CG80",
+    "name": "Borna Coric",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 41,
+      "BreakPointsOpportunities": 32,
+      "FirstServeReturnPointsWonPercentage": 21,
+      "ReturnGamesPlayed": 78,
+      "ReturnGamesWonPercentage": 17,
+      "ReturnPointsWonPercentage": 33,
+      "SecondServeReturnPointsWonPercentage": 50,
+      "TotalPointsWonPercentage": 47
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 28,
+      "BreakPointsFaced": 55,
+      "BreakPointsSavedPercentage": 65,
+      "DoubleFaults": 17,
+      "FirstServePercentage": 60,
+      "FirstServePointsWonPercentage": 71,
+      "SecondServePointsWonPercentage": 45,
+      "ServiceGamesPlayed": 78,
+      "ServiceGamesWonPercentage": 76,
+      "ServicePointsWonPercentage": 61
+    }
+  },
+  "Aleksandar Vukic": {
+    "player_id": "V832",
+    "name": "Aleksandar Vukic",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 36,
+      "BreakPointsOpportunities": 55,
+      "FirstServeReturnPointsWonPercentage": 26,
+      "ReturnGamesPlayed": 128,
+      "ReturnGamesWonPercentage": 16,
+      "ReturnPointsWonPercentage": 35,
+      "SecondServeReturnPointsWonPercentage": 50,
+      "TotalPointsWonPercentage": 48
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 74,
+      "BreakPointsFaced": 90,
+      "BreakPointsSavedPercentage": 61,
+      "DoubleFaults": 18,
+      "FirstServePercentage": 59,
+      "FirstServePointsWonPercentage": 71,
+      "SecondServePointsWonPercentage": 46,
+      "ServiceGamesPlayed": 127,
+      "ServiceGamesWonPercentage": 72,
+      "ServicePointsWonPercentage": 61
+    }
+  },
+  "Marcos Giron": {
+    "player_id": "GC88",
+    "name": "Marcos Giron",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 35,
+      "BreakPointsOpportunities": 77,
+      "FirstServeReturnPointsWonPercentage": 31,
+      "ReturnGamesPlayed": 118,
+      "ReturnGamesWonPercentage": 23,
+      "ReturnPointsWonPercentage": 38,
+      "SecondServeReturnPointsWonPercentage": 47,
+      "TotalPointsWonPercentage": 49
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 48,
+      "BreakPointsFaced": 75,
+      "BreakPointsSavedPercentage": 61,
+      "DoubleFaults": 12,
+      "FirstServePercentage": 58,
+      "FirstServePointsWonPercentage": 68,
+      "SecondServePointsWonPercentage": 50,
+      "ServiceGamesPlayed": 119,
+      "ServiceGamesWonPercentage": 76,
+      "ServicePointsWonPercentage": 60
+    }
+  },
+  "Christopher O'Connell": {
+    "player_id": "O483",
+    "name": "Christopher O'Connell",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 20,
+      "BreakPointsOpportunities": 15,
+      "FirstServeReturnPointsWonPercentage": 32,
+      "ReturnGamesPlayed": 38,
+      "ReturnGamesWonPercentage": 8,
+      "ReturnPointsWonPercentage": 33,
+      "SecondServeReturnPointsWonPercentage": 35,
+      "TotalPointsWonPercentage": 44
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 11,
+      "BreakPointsFaced": 21,
+      "BreakPointsSavedPercentage": 43,
+      "DoubleFaults": 10,
+      "FirstServePercentage": 64,
+      "FirstServePointsWonPercentage": 63,
+      "SecondServePointsWonPercentage": 44,
+      "ServiceGamesPlayed": 34,
+      "ServiceGamesWonPercentage": 65,
+      "ServicePointsWonPercentage": 56
+    }
+  },
+  "Alejandro Davidovich Fokina": {
+    "player_id": "DH50",
+    "name": "Alejandro Davidovich Fokina",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 38,
+      "BreakPointsOpportunities": 63,
+      "FirstServeReturnPointsWonPercentage": 34,
+      "ReturnGamesPlayed": 96,
+      "ReturnGamesWonPercentage": 25,
+      "ReturnPointsWonPercentage": 39,
+      "SecondServeReturnPointsWonPercentage": 49,
+      "TotalPointsWonPercentage": 49
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 22,
+      "BreakPointsFaced": 61,
+      "BreakPointsSavedPercentage": 57,
+      "DoubleFaults": 16,
+      "FirstServePercentage": 71,
+      "FirstServePointsWonPercentage": 63,
+      "SecondServePointsWonPercentage": 54,
+      "ServiceGamesPlayed": 97,
+      "ServiceGamesWonPercentage": 73,
+      "ServicePointsWonPercentage": 60
+    }
+  },
+  "Dusan Lajovic": {
+    "player_id": "L987",
+    "name": "Dusan Lajovic",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 43,
+      "BreakPointsOpportunities": 173,
+      "FirstServeReturnPointsWonPercentage": 32,
+      "ReturnGamesPlayed": 281,
+      "ReturnGamesWonPercentage": 26,
+      "ReturnPointsWonPercentage": 39,
+      "SecondServeReturnPointsWonPercentage": 51,
+      "TotalPointsWonPercentage": 50
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 46,
+      "BreakPointsFaced": 168,
+      "BreakPointsSavedPercentage": 63,
+      "DoubleFaults": 26,
+      "FirstServePercentage": 70,
+      "FirstServePointsWonPercentage": 67,
+      "SecondServePointsWonPercentage": 51,
+      "ServiceGamesPlayed": 280,
+      "ServiceGamesWonPercentage": 78,
+      "ServicePointsWonPercentage": 62
+    }
+  },
+  "Yannick Hanfmann": {
+    "player_id": "H997",
+    "name": "Yannick Hanfmann",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 31,
+      "BreakPointsOpportunities": 153,
+      "FirstServeReturnPointsWonPercentage": 30,
+      "ReturnGamesPlayed": 246,
+      "ReturnGamesWonPercentage": 20,
+      "ReturnPointsWonPercentage": 37,
+      "SecondServeReturnPointsWonPercentage": 48,
+      "TotalPointsWonPercentage": 49
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 65,
+      "BreakPointsFaced": 140,
+      "BreakPointsSavedPercentage": 55,
+      "DoubleFaults": 39,
+      "FirstServePercentage": 67,
+      "FirstServePointsWonPercentage": 66,
+      "SecondServePointsWonPercentage": 50,
+      "ServiceGamesPlayed": 247,
+      "ServiceGamesWonPercentage": 74,
+      "ServicePointsWonPercentage": 61
+    }
+  },
+  "Roberto Bautista Agut": {
+    "player_id": "BD06",
+    "name": "Roberto Bautista Agut",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 46,
+      "BreakPointsOpportunities": 65,
+      "FirstServeReturnPointsWonPercentage": 33,
+      "ReturnGamesPlayed": 120,
+      "ReturnGamesWonPercentage": 25,
+      "ReturnPointsWonPercentage": 39,
+      "SecondServeReturnPointsWonPercentage": 50,
+      "TotalPointsWonPercentage": 50
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 19,
+      "BreakPointsFaced": 65,
+      "BreakPointsSavedPercentage": 54,
+      "DoubleFaults": 14,
+      "FirstServePercentage": 68,
+      "FirstServePointsWonPercentage": 65,
+      "SecondServePointsWonPercentage": 55,
+      "ServiceGamesPlayed": 122,
+      "ServiceGamesWonPercentage": 75,
+      "ServicePointsWonPercentage": 62
+    }
+  },
+  "Zizou Bergs": {
+    "player_id": "BU13",
+    "name": "Zizou Bergs",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 37,
+      "BreakPointsOpportunities": 73,
+      "FirstServeReturnPointsWonPercentage": 30,
+      "ReturnGamesPlayed": 121,
+      "ReturnGamesWonPercentage": 22,
+      "ReturnPointsWonPercentage": 39,
+      "SecondServeReturnPointsWonPercentage": 54,
+      "TotalPointsWonPercentage": 51
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 68,
+      "BreakPointsFaced": 77,
+      "BreakPointsSavedPercentage": 65,
+      "DoubleFaults": 28,
+      "FirstServePercentage": 66,
+      "FirstServePointsWonPercentage": 70,
+      "SecondServePointsWonPercentage": 52,
+      "ServiceGamesPlayed": 119,
+      "ServiceGamesWonPercentage": 77,
+      "ServicePointsWonPercentage": 63
+    }
+  },
+  "Jakub Mensik": {
+    "player_id": "M0NI",
+    "name": "Jakub Mensik",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 56,
+      "BreakPointsOpportunities": 36,
+      "FirstServeReturnPointsWonPercentage": 31,
+      "ReturnGamesPlayed": 70,
+      "ReturnGamesWonPercentage": 29,
+      "ReturnPointsWonPercentage": 39,
+      "SecondServeReturnPointsWonPercentage": 54,
+      "TotalPointsWonPercentage": 50
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 44,
+      "BreakPointsFaced": 51,
+      "BreakPointsSavedPercentage": 65,
+      "DoubleFaults": 26,
+      "FirstServePercentage": 55,
+      "FirstServePointsWonPercentage": 69,
+      "SecondServePointsWonPercentage": 47,
+      "ServiceGamesPlayed": 75,
+      "ServiceGamesWonPercentage": 76,
+      "ServicePointsWonPercentage": 59
+    }
+  },
+  "Juncheng Shang": {
+    "player_id": "S0RE",
+    "name": "Juncheng Shang",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 27,
+      "BreakPointsOpportunities": 33,
+      "FirstServeReturnPointsWonPercentage": 31,
+      "ReturnGamesPlayed": 50,
+      "ReturnGamesWonPercentage": 18,
+      "ReturnPointsWonPercentage": 37,
+      "SecondServeReturnPointsWonPercentage": 46,
+      "TotalPointsWonPercentage": 48
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 3,
+      "BreakPointsFaced": 36,
+      "BreakPointsSavedPercentage": 56,
+      "DoubleFaults": 8,
+      "FirstServePercentage": 65,
+      "FirstServePointsWonPercentage": 63,
+      "SecondServePointsWonPercentage": 51,
+      "ServiceGamesPlayed": 48,
+      "ServiceGamesWonPercentage": 67,
+      "ServicePointsWonPercentage": 59
+    }
+  },
+  "Roman Safiullin": {
+    "player_id": "SX50",
+    "name": "Roman Safiullin",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 42,
+      "BreakPointsOpportunities": 48,
+      "FirstServeReturnPointsWonPercentage": 32,
+      "ReturnGamesPlayed": 94,
+      "ReturnGamesWonPercentage": 21,
+      "ReturnPointsWonPercentage": 35,
+      "SecondServeReturnPointsWonPercentage": 42,
+      "TotalPointsWonPercentage": 47
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 31,
+      "BreakPointsFaced": 76,
+      "BreakPointsSavedPercentage": 62,
+      "DoubleFaults": 24,
+      "FirstServePercentage": 60,
+      "FirstServePointsWonPercentage": 66,
+      "SecondServePointsWonPercentage": 46,
+      "ServiceGamesPlayed": 97,
+      "ServiceGamesWonPercentage": 70,
+      "ServicePointsWonPercentage": 58
+    }
+  },
+  "Miomir Kecmanovic": {
+    "player_id": "KI95",
+    "name": "Miomir Kecmanovic",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 39,
+      "BreakPointsOpportunities": 82,
+      "FirstServeReturnPointsWonPercentage": 30,
+      "ReturnGamesPlayed": 136,
+      "ReturnGamesWonPercentage": 24,
+      "ReturnPointsWonPercentage": 38,
+      "SecondServeReturnPointsWonPercentage": 51,
+      "TotalPointsWonPercentage": 50
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 50,
+      "BreakPointsFaced": 76,
+      "BreakPointsSavedPercentage": 57,
+      "DoubleFaults": 17,
+      "FirstServePercentage": 64,
+      "FirstServePointsWonPercentage": 70,
+      "SecondServePointsWonPercentage": 49,
+      "ServiceGamesPlayed": 135,
+      "ServiceGamesWonPercentage": 76,
+      "ServicePointsWonPercentage": 62
+    }
+  },
+  "Max Purcell": {
+    "player_id": "PH71",
+    "name": "Max Purcell",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 34,
+      "BreakPointsOpportunities": 32,
+      "FirstServeReturnPointsWonPercentage": 26,
+      "ReturnGamesPlayed": 75,
+      "ReturnGamesWonPercentage": 15,
+      "ReturnPointsWonPercentage": 32,
+      "SecondServeReturnPointsWonPercentage": 43,
+      "TotalPointsWonPercentage": 48
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 29,
+      "BreakPointsFaced": 37,
+      "BreakPointsSavedPercentage": 54,
+      "DoubleFaults": 12,
+      "FirstServePercentage": 51,
+      "FirstServePointsWonPercentage": 69,
+      "SecondServePointsWonPercentage": 56,
+      "ServiceGamesPlayed": 76,
+      "ServiceGamesWonPercentage": 78,
+      "ServicePointsWonPercentage": 63
+    }
+  },
+  "Yoshihito Nishioka": {
+    "player_id": "N732",
+    "name": "Yoshihito Nishioka",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 42,
+      "BreakPointsOpportunities": 24,
+      "FirstServeReturnPointsWonPercentage": 22,
+      "ReturnGamesPlayed": 68,
+      "ReturnGamesWonPercentage": 15,
+      "ReturnPointsWonPercentage": 30,
+      "SecondServeReturnPointsWonPercentage": 42,
+      "TotalPointsWonPercentage": 46
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 8,
+      "BreakPointsFaced": 48,
+      "BreakPointsSavedPercentage": 65,
+      "DoubleFaults": 11,
+      "FirstServePercentage": 63,
+      "FirstServePointsWonPercentage": 62,
+      "SecondServePointsWonPercentage": 55,
+      "ServiceGamesPlayed": 67,
+      "ServiceGamesWonPercentage": 75,
+      "ServicePointsWonPercentage": 59
+    }
+  },
+  "Daniil Medvedev": {
+    "player_id": "MM58",
+    "name": "Daniil Medvedev",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 47,
+      "BreakPointsOpportunities": 92,
+      "FirstServeReturnPointsWonPercentage": 34,
+      "ReturnGamesPlayed": 166,
+      "ReturnGamesWonPercentage": 26,
+      "ReturnPointsWonPercentage": 40,
+      "SecondServeReturnPointsWonPercentage": 50,
+      "TotalPointsWonPercentage": 51
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 55,
+      "BreakPointsFaced": 96,
+      "BreakPointsSavedPercentage": 57,
+      "DoubleFaults": 50,
+      "FirstServePercentage": 61,
+      "FirstServePointsWonPercentage": 71,
+      "SecondServePointsWonPercentage": 47,
+      "ServiceGamesPlayed": 164,
+      "ServiceGamesWonPercentage": 75,
+      "ServicePointsWonPercentage": 62
+    },
+    "surface_summary": [
+      {
+        "year": 2025,
+        "surfaces": [
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 9,
+            "courtLosses": 5
+          },
+          {
+            "courtId": 3,
+            "court": "I.hard",
+            "courtWins": 3,
+            "courtLosses": 2
+          },
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 6,
+            "courtLosses": 4
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "surfaces": [
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 28,
+            "courtLosses": 9
+          },
+          {
+            "courtId": 5,
+            "court": "Grass",
+            "courtWins": 6,
+            "courtLosses": 2
+          },
+          {
+            "courtId": 3,
+            "court": "I.hard",
+            "courtWins": 1,
+            "courtLosses": 5
+          },
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 11,
+            "courtLosses": 5
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "surfaces": [
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 10,
+            "courtLosses": 3
+          },
+          {
+            "courtId": 5,
+            "court": "Grass",
+            "courtWins": 7,
+            "courtLosses": 3
+          },
+          {
+            "courtId": 3,
+            "court": "I.hard",
+            "courtWins": 11,
+            "courtLosses": 4
+          },
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 38,
+            "courtLosses": 8
+          }
+        ]
+      }
+    ],
+    "past_matches": {
+      "data": [
+        {
+          "id": "5343979019",
+          "date": "2025-05-27T12:00:00.000Z",
+          "roundId": 4,
+          "player1Id": 27851,
+          "player2Id": 22807,
+          "tournamentId": 20340,
+          "match_winner": 27851,
+          "result": "7-5 6-3 4-6 1-6 7-5",
+          "player1": {
+            "id": 27851,
+            "name": "Cameron Norrie",
+            "countryAcr": "GBR"
+          },
+          "player2": {
+            "id": 22807,
+            "name": "Daniil Medvedev",
+            "countryAcr": "RUS"
+          }
+        },
+        {
+          "id": "4896436896",
+          "date": "2025-05-13T16:00:00.000Z",
+          "roundId": 7,
+          "player1Id": 63572,
+          "player2Id": 22807,
+          "tournamentId": 20337,
+          "match_winner": 63572,
+          "result": "7-5 6-4",
+          "player1": {
+            "id": 63572,
+            "name": "Lorenzo Musetti",
+            "countryAcr": "ITA"
+          },
+          "player2": {
+            "id": 22807,
+            "name": "Daniil Medvedev",
+            "countryAcr": "RUS"
+          }
+        },
+        {
+          "id": "4825208553",
+          "date": "2025-05-11T12:00:00.000Z",
+          "roundId": 6,
+          "player1Id": 22807,
+          "player2Id": 34233,
+          "tournamentId": 20337,
+          "match_winner": 22807,
+          "result": "6-4 6-1",
+          "player1": {
+            "id": 22807,
+            "name": "Daniil Medvedev",
+            "countryAcr": "RUS"
+          },
+          "player2": {
+            "id": 34233,
+            "name": "Alexei Popyrin",
+            "countryAcr": "AUS"
+          }
+        },
+        {
+          "id": "4768237022",
+          "date": "2025-05-09T16:00:00.000Z",
+          "roundId": 5,
+          "player1Id": 22807,
+          "player2Id": 27851,
+          "tournamentId": 20337,
+          "match_winner": 22807,
+          "result": "6-4 6-2",
+          "player1": {
+            "id": 22807,
+            "name": "Daniil Medvedev",
+            "countryAcr": "RUS"
+          },
+          "player2": {
+            "id": 27851,
+            "name": "Cameron Norrie",
+            "countryAcr": "GBR"
+          }
+        },
+        {
+          "id": "4519788654",
+          "date": "2025-05-01T14:00:00.000Z",
+          "roundId": 9,
+          "player1Id": 33648,
+          "player2Id": 22807,
+          "tournamentId": 20336,
+          "match_winner": 33648,
+          "result": "6-3 7-5",
+          "player1": {
+            "id": 33648,
+            "name": "Casper Ruud",
+            "countryAcr": "NOR"
+          },
+          "player2": {
+            "id": 22807,
+            "name": "Daniil Medvedev",
+            "countryAcr": "RUS"
+          }
+        },
+        {
+          "id": "4466763598",
+          "date": "2025-04-29T20:00:00.000Z",
+          "roundId": 7,
+          "player1Id": 22807,
+          "player2Id": 56846,
+          "tournamentId": 20336,
+          "match_winner": 22807,
+          "result": "3-6 6-1 6-4",
+          "player1": {
+            "id": 22807,
+            "name": "Daniil Medvedev",
+            "countryAcr": "RUS"
+          },
+          "player2": {
+            "id": 56846,
+            "name": "Brandon Nakashima",
+            "countryAcr": "USA"
+          }
+        },
+        {
+          "id": "4398250928",
+          "date": "2025-04-27T17:35:00.000Z",
+          "roundId": 6,
+          "player1Id": 22807,
+          "player2Id": 52934,
+          "tournamentId": 20336,
+          "match_winner": 22807,
+          "result": "6-2 6-2",
+          "player1": {
+            "id": 22807,
+            "name": "Daniil Medvedev",
+            "countryAcr": "RUS"
+          },
+          "player2": {
+            "id": 52934,
+            "name": "Juan Manuel Cerundolo",
+            "countryAcr": "ARG"
+          }
+        },
+        {
+          "id": "2258224029",
+          "date": "2025-04-10T16:55:00.000Z",
+          "roundId": 6,
+          "player1Id": 39309,
+          "player2Id": 22807,
+          "tournamentId": 20333,
+          "match_winner": 39309,
+          "result": "6-2 6-2",
+          "player1": {
+            "id": 39309,
+            "name": "Alex De Minaur",
+            "countryAcr": "AUS"
+          },
+          "player2": {
+            "id": 22807,
+            "name": "Daniil Medvedev",
+            "countryAcr": "RUS"
+          }
+        },
+        {
+          "id": "2229848146",
+          "date": "2025-04-09T18:55:00.000Z",
+          "roundId": 5,
+          "player1Id": 22807,
+          "player2Id": 28108,
+          "tournamentId": 20333,
+          "match_winner": 22807,
+          "result": "7-6(6) 5-7 6-2",
+          "player1": {
+            "id": 22807,
+            "name": "Daniil Medvedev",
+            "countryAcr": "RUS"
+          },
+          "player2": {
+            "id": 28108,
+            "name": "Alexandre Muller",
+            "countryAcr": "FRA"
+          }
+        },
+        {
+          "id": "2165374841",
+          "date": "2025-04-07T17:40:00.000Z",
+          "roundId": 4,
+          "player1Id": 22807,
+          "player2Id": 25543,
+          "tournamentId": 20333,
+          "match_winner": 22807,
+          "result": "7-5 4-6 6-4",
+          "player1": {
+            "id": 22807,
+            "name": "Daniil Medvedev",
+            "countryAcr": "RUS"
+          },
+          "player2": {
+            "id": 25543,
+            "name": "Karen Khachanov",
+            "countryAcr": "RUS"
+          }
+        }
+      ],
+      "hasNextPage": true
+    }
+  },
+  "Tomas Machac": {
+    "player_id": "M0FH",
+    "name": "Tomas Machac",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 50,
+      "BreakPointsOpportunities": 94,
+      "FirstServeReturnPointsWonPercentage": 34,
+      "ReturnGamesPlayed": 155,
+      "ReturnGamesWonPercentage": 30,
+      "ReturnPointsWonPercentage": 42,
+      "SecondServeReturnPointsWonPercentage": 56,
+      "TotalPointsWonPercentage": 51
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 49,
+      "BreakPointsFaced": 87,
+      "BreakPointsSavedPercentage": 55,
+      "DoubleFaults": 36,
+      "FirstServePercentage": 63,
+      "FirstServePointsWonPercentage": 67,
+      "SecondServePointsWonPercentage": 50,
+      "ServiceGamesPlayed": 154,
+      "ServiceGamesWonPercentage": 75,
+      "ServicePointsWonPercentage": 61
+    }
+  },
+  "Alex de Minaur": {
+    "player_id": "DH58",
+    "name": "Alex de Minaur",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 50,
+      "BreakPointsOpportunities": 138,
+      "FirstServeReturnPointsWonPercentage": 38,
+      "ReturnGamesPlayed": 182,
+      "ReturnGamesWonPercentage": 38,
+      "ReturnPointsWonPercentage": 44,
+      "SecondServeReturnPointsWonPercentage": 54,
+      "TotalPointsWonPercentage": 53
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 39,
+      "BreakPointsFaced": 91,
+      "BreakPointsSavedPercentage": 54,
+      "DoubleFaults": 43,
+      "FirstServePercentage": 54,
+      "FirstServePointsWonPercentage": 69,
+      "SecondServePointsWonPercentage": 56,
+      "ServiceGamesPlayed": 177,
+      "ServiceGamesWonPercentage": 76,
+      "ServicePointsWonPercentage": 63
+    },
+    "surface_summary": [
+      {
+        "year": 2025,
+        "surfaces": [
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 10,
+            "courtLosses": 5
+          },
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 12,
+            "courtLosses": 5
+          },
+          {
+            "courtId": 3,
+            "court": "I.hard",
+            "courtWins": 5,
+            "courtLosses": 1
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "surfaces": [
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 19,
+            "courtLosses": 6
+          },
+          {
+            "courtId": 5,
+            "court": "Grass",
+            "courtWins": 7,
+            "courtLosses": 1
+          },
+          {
+            "courtId": 3,
+            "court": "I.hard",
+            "courtWins": 11,
+            "courtLosses": 9
+          },
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 10,
+            "courtLosses": 5
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "surfaces": [
+          {
+            "courtId": 2,
+            "court": "Clay",
+            "courtWins": 4,
+            "courtLosses": 5
+          },
+          {
+            "courtId": 5,
+            "court": "Grass",
+            "courtWins": 6,
+            "courtLosses": 3
+          },
+          {
+            "courtId": 3,
+            "court": "I.hard",
+            "courtWins": 10,
+            "courtLosses": 6
+          },
+          {
+            "courtId": 1,
+            "court": "Hard",
+            "courtWins": 26,
+            "courtLosses": 12
+          }
+        ]
+      }
+    ],
+    "past_matches": {
+      "data": [
+        {
+          "id": "5403740386",
+          "date": "2025-05-29T12:00:00.000Z",
+          "roundId": 5,
+          "player1Id": 24245,
+          "player2Id": 39309,
+          "tournamentId": 20340,
+          "match_winner": 24245,
+          "result": "2-6 2-6 6-4 6-3 6-2",
+          "player1": {
+            "id": 24245,
+            "name": "Alexander Bublik",
+            "countryAcr": "KAZ"
+          },
+          "player2": {
+            "id": 39309,
+            "name": "Alex De Minaur",
+            "countryAcr": "AUS"
+          }
+        },
+        {
+          "id": "5342680377",
+          "date": "2025-05-27T12:00:00.000Z",
+          "roundId": 4,
+          "player1Id": 39309,
+          "player2Id": 24084,
+          "tournamentId": 20340,
+          "match_winner": 39309,
+          "result": "6-3 6-4 7-6(6)",
+          "player1": {
+            "id": 39309,
+            "name": "Alex De Minaur",
+            "countryAcr": "AUS"
+          },
+          "player2": {
+            "id": 24084,
+            "name": "Laslo Djere",
+            "countryAcr": "SRB"
+          }
+        },
+        {
+          "id": "4901619384",
+          "date": "2025-05-13T23:00:00.000Z",
+          "roundId": 7,
+          "player1Id": 29935,
+          "player2Id": 39309,
+          "tournamentId": 20337,
+          "match_winner": 29935,
+          "result": "7-5 6-3",
+          "player1": {
+            "id": 29935,
+            "name": "Tommy Paul",
+            "countryAcr": "USA"
+          },
+          "player2": {
+            "id": 39309,
+            "name": "Alex De Minaur",
+            "countryAcr": "AUS"
+          }
+        },
+        {
+          "id": "4857579848",
+          "date": "2025-05-12T12:00:00.000Z",
+          "roundId": 6,
+          "player1Id": 39309,
+          "player2Id": 18477,
+          "tournamentId": 20337,
+          "match_winner": 39309,
+          "result": "6-4 6-4",
+          "player1": {
+            "id": 39309,
+            "name": "Alex De Minaur",
+            "countryAcr": "AUS"
+          },
+          "player2": {
+            "id": 18477,
+            "name": "Hugo Dellien",
+            "countryAcr": "BOL"
+          }
+        },
+        {
+          "id": "4805785845",
+          "date": "2025-05-10T20:30:00.000Z",
+          "roundId": 5,
+          "player1Id": 39309,
+          "player2Id": 71221,
+          "tournamentId": 20337,
+          "match_winner": 39309,
+          "result": "6-4 7-5",
+          "player1": {
+            "id": 39309,
+            "name": "Alex De Minaur",
+            "countryAcr": "AUS"
+          },
+          "player2": {
+            "id": 71221,
+            "name": "Luca Nardi",
+            "countryAcr": "ITA"
+          }
+        },
+        {
+          "id": "4502973561",
+          "date": "2025-05-01T00:00:00.000Z",
+          "roundId": 7,
+          "player1Id": 63572,
+          "player2Id": 39309,
+          "tournamentId": 20336,
+          "match_winner": 63572,
+          "result": "6-4 6-2",
+          "player1": {
+            "id": 63572,
+            "name": "Lorenzo Musetti",
+            "countryAcr": "ITA"
+          },
+          "player2": {
+            "id": 39309,
+            "name": "Alex De Minaur",
+            "countryAcr": "AUS"
+          }
+        },
+        {
+          "id": "4457712596",
+          "date": "2025-04-29T13:15:00.000Z",
+          "roundId": 6,
+          "player1Id": 39309,
+          "player2Id": 33502,
+          "tournamentId": 20336,
+          "match_winner": 39309,
+          "result": "6-3 7-6(3)",
+          "player1": {
+            "id": 39309,
+            "name": "Alex De Minaur",
+            "countryAcr": "AUS"
+          },
+          "player2": {
+            "id": 33502,
+            "name": "Denis Shapovalov",
+            "countryAcr": "CAN"
+          }
+        },
+        {
+          "id": "4362053592",
+          "date": "2025-04-26T14:15:00.000Z",
+          "roundId": 5,
+          "player1Id": 39309,
+          "player2Id": 31392,
+          "tournamentId": 20336,
+          "match_winner": 39309,
+          "result": "6-2 6-3",
+          "player1": {
+            "id": 39309,
+            "name": "Alex De Minaur",
+            "countryAcr": "AUS"
+          },
+          "player2": {
+            "id": 31392,
+            "name": "Lorenzo Sonego",
+            "countryAcr": "ITA"
+          }
+        },
+        {
+          "id": "4123076395",
+          "date": "2025-04-18T17:00:00.000Z",
+          "roundId": 9,
+          "player1Id": 68074,
+          "player2Id": 39309,
+          "tournamentId": 20334,
+          "match_winner": 68074,
+          "result": "7-5 6-3",
+          "player1": {
+            "id": 68074,
+            "name": "Carlos Alcaraz",
+            "countryAcr": "ESP"
+          },
+          "player2": {
+            "id": 39309,
+            "name": "Alex De Minaur",
+            "countryAcr": "AUS"
+          }
+        },
+        {
+          "id": "3854540442",
+          "date": "2025-04-17T18:30:00.000Z",
+          "roundId": 5,
+          "player1Id": 39309,
+          "player2Id": 68090,
+          "tournamentId": 20334,
+          "match_winner": 39309,
+          "result": "6-1 6-2",
+          "player1": {
+            "id": 39309,
+            "name": "Alex De Minaur",
+            "countryAcr": "AUS"
+          },
+          "player2": {
+            "id": 68090,
+            "name": "Jacob Fearnley",
+            "countryAcr": "GBR"
+          }
+        }
+      ],
+      "hasNextPage": true
+    }
+  },
+  "Sebastian Ofner": {
+    "player_id": "O513",
+    "name": "Sebastian Ofner",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 44,
+      "BreakPointsOpportunities": 125,
+      "FirstServeReturnPointsWonPercentage": 32,
+      "ReturnGamesPlayed": 236,
+      "ReturnGamesWonPercentage": 23,
+      "ReturnPointsWonPercentage": 37,
+      "SecondServeReturnPointsWonPercentage": 47,
+      "TotalPointsWonPercentage": 49
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 94,
+      "BreakPointsFaced": 165,
+      "BreakPointsSavedPercentage": 57,
+      "DoubleFaults": 34,
+      "FirstServePercentage": 56,
+      "FirstServePointsWonPercentage": 69,
+      "SecondServePointsWonPercentage": 49,
+      "ServiceGamesPlayed": 235,
+      "ServiceGamesWonPercentage": 70,
+      "ServicePointsWonPercentage": 60
+    }
+  },
+  "Pavel Kotov": {
+    "player_id": "K09F",
+    "name": "Pavel Kotov",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 44,
+      "BreakPointsOpportunities": 134,
+      "FirstServeReturnPointsWonPercentage": 30,
+      "ReturnGamesPlayed": 243,
+      "ReturnGamesWonPercentage": 24,
+      "ReturnPointsWonPercentage": 37,
+      "SecondServeReturnPointsWonPercentage": 49,
+      "TotalPointsWonPercentage": 51
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 66,
+      "BreakPointsFaced": 131,
+      "BreakPointsSavedPercentage": 63,
+      "DoubleFaults": 44,
+      "FirstServePercentage": 66,
+      "FirstServePointsWonPercentage": 70,
+      "SecondServePointsWonPercentage": 51,
+      "ServiceGamesPlayed": 246,
+      "ServiceGamesWonPercentage": 80,
+      "ServicePointsWonPercentage": 63
+    }
+  },
+  "Alexander Bublik": {
+    "player_id": "BK92",
+    "name": "Alexander Bublik",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 53,
+      "BreakPointsOpportunities": 53,
+      "FirstServeReturnPointsWonPercentage": 31,
+      "ReturnGamesPlayed": 119,
+      "ReturnGamesWonPercentage": 24,
+      "ReturnPointsWonPercentage": 36,
+      "SecondServeReturnPointsWonPercentage": 44,
+      "TotalPointsWonPercentage": 48
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 76,
+      "BreakPointsFaced": 97,
+      "BreakPointsSavedPercentage": 64,
+      "DoubleFaults": 72,
+      "FirstServePercentage": 59,
+      "FirstServePointsWonPercentage": 69,
+      "SecondServePointsWonPercentage": 44,
+      "ServiceGamesPlayed": 120,
+      "ServiceGamesWonPercentage": 71,
+      "ServicePointsWonPercentage": 59
+    }
+  },
+  "Nuno Borges": {
+    "player_id": "BT72",
+    "name": "Nuno Borges",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 44,
+      "BreakPointsOpportunities": 112,
+      "FirstServeReturnPointsWonPercentage": 33,
+      "ReturnGamesPlayed": 191,
+      "ReturnGamesWonPercentage": 26,
+      "ReturnPointsWonPercentage": 40,
+      "SecondServeReturnPointsWonPercentage": 52,
+      "TotalPointsWonPercentage": 51
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 52,
+      "BreakPointsFaced": 119,
+      "BreakPointsSavedPercentage": 60,
+      "DoubleFaults": 39,
+      "FirstServePercentage": 64,
+      "FirstServePointsWonPercentage": 68,
+      "SecondServePointsWonPercentage": 51,
+      "ServiceGamesPlayed": 193,
+      "ServiceGamesWonPercentage": 75,
+      "ServicePointsWonPercentage": 62
+    }
+  },
+  "Daniel Altmaier": {
+    "player_id": "AE14",
+    "name": "Daniel Altmaier",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 40,
+      "BreakPointsOpportunities": 93,
+      "FirstServeReturnPointsWonPercentage": 30,
+      "ReturnGamesPlayed": 197,
+      "ReturnGamesWonPercentage": 19,
+      "ReturnPointsWonPercentage": 36,
+      "SecondServeReturnPointsWonPercentage": 46,
+      "TotalPointsWonPercentage": 49
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 68,
+      "BreakPointsFaced": 111,
+      "BreakPointsSavedPercentage": 55,
+      "DoubleFaults": 37,
+      "FirstServePercentage": 64,
+      "FirstServePointsWonPercentage": 67,
+      "SecondServePointsWonPercentage": 50,
+      "ServiceGamesPlayed": 198,
+      "ServiceGamesWonPercentage": 75,
+      "ServicePointsWonPercentage": 61
+    }
+  },
+  "Flavio Cobolli": {
+    "player_id": "C0E9",
+    "name": "Flavio Cobolli",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 39,
+      "BreakPointsOpportunities": 142,
+      "FirstServeReturnPointsWonPercentage": 30,
+      "ReturnGamesPlayed": 227,
+      "ReturnGamesWonPercentage": 24,
+      "ReturnPointsWonPercentage": 39,
+      "SecondServeReturnPointsWonPercentage": 52,
+      "TotalPointsWonPercentage": 51
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 104,
+      "BreakPointsFaced": 115,
+      "BreakPointsSavedPercentage": 65,
+      "DoubleFaults": 51,
+      "FirstServePercentage": 58,
+      "FirstServePointsWonPercentage": 74,
+      "SecondServePointsWonPercentage": 51,
+      "ServiceGamesPlayed": 230,
+      "ServiceGamesWonPercentage": 83,
+      "ServicePointsWonPercentage": 64
+    }
+  },
+  "Thiago Seyboth Wild": {
+    "player_id": "SX91",
+    "name": "Thiago Seyboth Wild",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 42,
+      "BreakPointsOpportunities": 132,
+      "FirstServeReturnPointsWonPercentage": 30,
+      "ReturnGamesPlayed": 236,
+      "ReturnGamesWonPercentage": 23,
+      "ReturnPointsWonPercentage": 37,
+      "SecondServeReturnPointsWonPercentage": 50,
+      "TotalPointsWonPercentage": 49
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 79,
+      "BreakPointsFaced": 168,
+      "BreakPointsSavedPercentage": 64,
+      "DoubleFaults": 64,
+      "FirstServePercentage": 62,
+      "FirstServePointsWonPercentage": 67,
+      "SecondServePointsWonPercentage": 48,
+      "ServiceGamesPlayed": 238,
+      "ServiceGamesWonPercentage": 74,
+      "ServicePointsWonPercentage": 60
+    }
+  },
+  "Luciano Darderi": {
+    "player_id": "D0FJ",
+    "name": "Luciano Darderi",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 44,
+      "BreakPointsOpportunities": 209,
+      "FirstServeReturnPointsWonPercentage": 32,
+      "ReturnGamesPlayed": 332,
+      "ReturnGamesWonPercentage": 28,
+      "ReturnPointsWonPercentage": 40,
+      "SecondServeReturnPointsWonPercentage": 54,
+      "TotalPointsWonPercentage": 52
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 138,
+      "BreakPointsFaced": 185,
+      "BreakPointsSavedPercentage": 61,
+      "DoubleFaults": 53,
+      "FirstServePercentage": 59,
+      "FirstServePointsWonPercentage": 70,
+      "SecondServePointsWonPercentage": 54,
+      "ServiceGamesPlayed": 341,
+      "ServiceGamesWonPercentage": 79,
+      "ServicePointsWonPercentage": 63
+    }
+  },
+  "Roberto Carballes Baena": {
+    "player_id": "CF59",
+    "name": "Roberto Carballes Baena",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 38,
+      "BreakPointsOpportunities": 196,
+      "FirstServeReturnPointsWonPercentage": 33,
+      "ReturnGamesPlayed": 303,
+      "ReturnGamesWonPercentage": 25,
+      "ReturnPointsWonPercentage": 39,
+      "SecondServeReturnPointsWonPercentage": 50,
+      "TotalPointsWonPercentage": 50
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 36,
+      "BreakPointsFaced": 190,
+      "BreakPointsSavedPercentage": 59,
+      "DoubleFaults": 46,
+      "FirstServePercentage": 68,
+      "FirstServePointsWonPercentage": 65,
+      "SecondServePointsWonPercentage": 53,
+      "ServiceGamesPlayed": 302,
+      "ServiceGamesWonPercentage": 74,
+      "ServicePointsWonPercentage": 61
+    }
+  },
+  "Sebastian Baez": {
+    "player_id": "B0BI",
+    "name": "Sebastian Baez",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 44,
+      "BreakPointsOpportunities": 307,
+      "FirstServeReturnPointsWonPercentage": 37,
+      "ReturnGamesPlayed": 407,
+      "ReturnGamesWonPercentage": 33,
+      "ReturnPointsWonPercentage": 43,
+      "SecondServeReturnPointsWonPercentage": 53,
+      "TotalPointsWonPercentage": 52
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 77,
+      "BreakPointsFaced": 253,
+      "BreakPointsSavedPercentage": 63,
+      "DoubleFaults": 62,
+      "FirstServePercentage": 72,
+      "FirstServePointsWonPercentage": 65,
+      "SecondServePointsWonPercentage": 53,
+      "ServiceGamesPlayed": 405,
+      "ServiceGamesWonPercentage": 77,
+      "ServicePointsWonPercentage": 62
+    }
+  },
+  "Fabian Marozsan": {
+    "player_id": "M0CI",
+    "name": "Fabian Marozsan",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 41,
+      "BreakPointsOpportunities": 68,
+      "FirstServeReturnPointsWonPercentage": 29,
+      "ReturnGamesPlayed": 134,
+      "ReturnGamesWonPercentage": 21,
+      "ReturnPointsWonPercentage": 37,
+      "SecondServeReturnPointsWonPercentage": 50,
+      "TotalPointsWonPercentage": 49
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 31,
+      "BreakPointsFaced": 74,
+      "BreakPointsSavedPercentage": 50,
+      "DoubleFaults": 23,
+      "FirstServePercentage": 63,
+      "FirstServePointsWonPercentage": 68,
+      "SecondServePointsWonPercentage": 50,
+      "ServiceGamesPlayed": 136,
+      "ServiceGamesWonPercentage": 73,
+      "ServicePointsWonPercentage": 61
+    }
+  },
+  "Francisco Cerundolo": {
+    "player_id": "C0AU",
+    "name": "Francisco Cerundolo",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 44,
+      "BreakPointsOpportunities": 250,
+      "FirstServeReturnPointsWonPercentage": 37,
+      "ReturnGamesPlayed": 353,
+      "ReturnGamesWonPercentage": 31,
+      "ReturnPointsWonPercentage": 42,
+      "SecondServeReturnPointsWonPercentage": 51,
+      "TotalPointsWonPercentage": 52
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 64,
+      "BreakPointsFaced": 204,
+      "BreakPointsSavedPercentage": 58,
+      "DoubleFaults": 77,
+      "FirstServePercentage": 68,
+      "FirstServePointsWonPercentage": 66,
+      "SecondServePointsWonPercentage": 52,
+      "ServiceGamesPlayed": 355,
+      "ServiceGamesWonPercentage": 76,
+      "ServicePointsWonPercentage": 61
+    }
+  },
+  "Alexandre Muller": {
+    "player_id": "MP20",
+    "name": "Alexandre Muller",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 33,
+      "BreakPointsOpportunities": 117,
+      "FirstServeReturnPointsWonPercentage": 28,
+      "ReturnGamesPlayed": 157,
+      "ReturnGamesWonPercentage": 25,
+      "ReturnPointsWonPercentage": 39,
+      "SecondServeReturnPointsWonPercentage": 55,
+      "TotalPointsWonPercentage": 49
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 30,
+      "BreakPointsFaced": 91,
+      "BreakPointsSavedPercentage": 55,
+      "DoubleFaults": 26,
+      "FirstServePercentage": 62,
+      "FirstServePointsWonPercentage": 67,
+      "SecondServePointsWonPercentage": 51,
+      "ServiceGamesPlayed": 155,
+      "ServiceGamesWonPercentage": 74,
+      "ServicePointsWonPercentage": 61
+    }
+  },
+  "Dominik Koepfer": {
+    "player_id": "KE73",
+    "name": "Dominik Koepfer",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 34,
+      "BreakPointsOpportunities": 85,
+      "FirstServeReturnPointsWonPercentage": 28,
+      "ReturnGamesPlayed": 145,
+      "ReturnGamesWonPercentage": 20,
+      "ReturnPointsWonPercentage": 36,
+      "SecondServeReturnPointsWonPercentage": 50,
+      "TotalPointsWonPercentage": 47
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 32,
+      "BreakPointsFaced": 94,
+      "BreakPointsSavedPercentage": 59,
+      "DoubleFaults": 38,
+      "FirstServePercentage": 60,
+      "FirstServePointsWonPercentage": 65,
+      "SecondServePointsWonPercentage": 50,
+      "ServiceGamesPlayed": 143,
+      "ServiceGamesWonPercentage": 73,
+      "ServicePointsWonPercentage": 59
+    }
+  },
+  "Facundo Diaz Acosta": {
+    "player_id": "D0CG",
+    "name": "Facundo Diaz Acosta",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 43,
+      "BreakPointsOpportunities": 183,
+      "FirstServeReturnPointsWonPercentage": 34,
+      "ReturnGamesPlayed": 272,
+      "ReturnGamesWonPercentage": 29,
+      "ReturnPointsWonPercentage": 41,
+      "SecondServeReturnPointsWonPercentage": 53,
+      "TotalPointsWonPercentage": 52
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 60,
+      "BreakPointsFaced": 154,
+      "BreakPointsSavedPercentage": 63,
+      "DoubleFaults": 60,
+      "FirstServePercentage": 64,
+      "FirstServePointsWonPercentage": 68,
+      "SecondServePointsWonPercentage": 54,
+      "ServiceGamesPlayed": 276,
+      "ServiceGamesWonPercentage": 79,
+      "ServicePointsWonPercentage": 63
+    }
+  },
+  "Matteo Arnaldi": {
+    "player_id": "A0FC",
+    "name": "Matteo Arnaldi",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 44,
+      "BreakPointsOpportunities": 131,
+      "FirstServeReturnPointsWonPercentage": 36,
+      "ReturnGamesPlayed": 185,
+      "ReturnGamesWonPercentage": 31,
+      "ReturnPointsWonPercentage": 41,
+      "SecondServeReturnPointsWonPercentage": 50,
+      "TotalPointsWonPercentage": 51
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 101,
+      "BreakPointsFaced": 139,
+      "BreakPointsSavedPercentage": 64,
+      "DoubleFaults": 51,
+      "FirstServePercentage": 56,
+      "FirstServePointsWonPercentage": 69,
+      "SecondServePointsWonPercentage": 48,
+      "ServiceGamesPlayed": 188,
+      "ServiceGamesWonPercentage": 73,
+      "ServicePointsWonPercentage": 60
+    }
+  },
+  "Adrian Mannarino": {
+    "player_id": "ME82",
+    "name": "Adrian Mannarino",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 36,
+      "BreakPointsOpportunities": 14,
+      "FirstServeReturnPointsWonPercentage": 26,
+      "ReturnGamesPlayed": 44,
+      "ReturnGamesWonPercentage": 11,
+      "ReturnPointsWonPercentage": 30,
+      "SecondServeReturnPointsWonPercentage": 38,
+      "TotalPointsWonPercentage": 42
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 11,
+      "BreakPointsFaced": 36,
+      "BreakPointsSavedPercentage": 47,
+      "DoubleFaults": 4,
+      "FirstServePercentage": 52,
+      "FirstServePointsWonPercentage": 60,
+      "SecondServePointsWonPercentage": 46,
+      "ServiceGamesPlayed": 42,
+      "ServiceGamesWonPercentage": 55,
+      "ServicePointsWonPercentage": 53
+    }
+  },
+  "Alexander Shevchenko": {
+    "player_id": "S0H2",
+    "name": "Alexander Shevchenko",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 47,
+      "BreakPointsOpportunities": 86,
+      "FirstServeReturnPointsWonPercentage": 31,
+      "ReturnGamesPlayed": 169,
+      "ReturnGamesWonPercentage": 24,
+      "ReturnPointsWonPercentage": 39,
+      "SecondServeReturnPointsWonPercentage": 51,
+      "TotalPointsWonPercentage": 49
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 55,
+      "BreakPointsFaced": 106,
+      "BreakPointsSavedPercentage": 53,
+      "DoubleFaults": 27,
+      "FirstServePercentage": 59,
+      "FirstServePointsWonPercentage": 65,
+      "SecondServePointsWonPercentage": 50,
+      "ServiceGamesPlayed": 169,
+      "ServiceGamesWonPercentage": 70,
+      "ServicePointsWonPercentage": 59
+    }
+  },
+  "Taro Daniel": {
+    "player_id": "DA81",
+    "name": "Taro Daniel",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 36,
+      "BreakPointsOpportunities": 45,
+      "FirstServeReturnPointsWonPercentage": 26,
+      "ReturnGamesPlayed": 94,
+      "ReturnGamesWonPercentage": 17,
+      "ReturnPointsWonPercentage": 36,
+      "SecondServeReturnPointsWonPercentage": 51,
+      "TotalPointsWonPercentage": 48
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 36,
+      "BreakPointsFaced": 57,
+      "BreakPointsSavedPercentage": 61,
+      "DoubleFaults": 13,
+      "FirstServePercentage": 63,
+      "FirstServePointsWonPercentage": 68,
+      "SecondServePointsWonPercentage": 48,
+      "ServiceGamesPlayed": 95,
+      "ServiceGamesWonPercentage": 77,
+      "ServicePointsWonPercentage": 60
+    }
+  },
+  "Jaume Munar": {
+    "player_id": "MU94",
+    "name": "Jaume Munar",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 38,
+      "BreakPointsOpportunities": 198,
+      "FirstServeReturnPointsWonPercentage": 38,
+      "ReturnGamesPlayed": 246,
+      "ReturnGamesWonPercentage": 31,
+      "ReturnPointsWonPercentage": 43,
+      "SecondServeReturnPointsWonPercentage": 51,
+      "TotalPointsWonPercentage": 51
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 56,
+      "BreakPointsFaced": 175,
+      "BreakPointsSavedPercentage": 60,
+      "DoubleFaults": 71,
+      "FirstServePercentage": 66,
+      "FirstServePointsWonPercentage": 66,
+      "SecondServePointsWonPercentage": 49,
+      "ServiceGamesPlayed": 244,
+      "ServiceGamesWonPercentage": 71,
+      "ServicePointsWonPercentage": 60
+    }
+  },
+  "David Goffin": {
+    "player_id": "GB88",
+    "name": "David Goffin",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 34,
+      "BreakPointsOpportunities": 38,
+      "FirstServeReturnPointsWonPercentage": 29,
+      "ReturnGamesPlayed": 82,
+      "ReturnGamesWonPercentage": 16,
+      "ReturnPointsWonPercentage": 35,
+      "SecondServeReturnPointsWonPercentage": 47,
+      "TotalPointsWonPercentage": 49
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 26,
+      "BreakPointsFaced": 34,
+      "BreakPointsSavedPercentage": 47,
+      "DoubleFaults": 19,
+      "FirstServePercentage": 54,
+      "FirstServePointsWonPercentage": 75,
+      "SecondServePointsWonPercentage": 50,
+      "ServiceGamesPlayed": 78,
+      "ServiceGamesWonPercentage": 77,
+      "ServicePointsWonPercentage": 63
+    }
+  },
+  "Pedro Martinez": {
+    "player_id": "MO44",
+    "name": "Pedro Martinez",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 39,
+      "BreakPointsOpportunities": 185,
+      "FirstServeReturnPointsWonPercentage": 32,
+      "ReturnGamesPlayed": 280,
+      "ReturnGamesWonPercentage": 26,
+      "ReturnPointsWonPercentage": 40,
+      "SecondServeReturnPointsWonPercentage": 52,
+      "TotalPointsWonPercentage": 50
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 34,
+      "BreakPointsFaced": 185,
+      "BreakPointsSavedPercentage": 62,
+      "DoubleFaults": 76,
+      "FirstServePercentage": 71,
+      "FirstServePointsWonPercentage": 66,
+      "SecondServePointsWonPercentage": 48,
+      "ServiceGamesPlayed": 283,
+      "ServiceGamesWonPercentage": 75,
+      "ServicePointsWonPercentage": 61
+    }
+  },
+  "Botic van de Zandschulp": {
+    "player_id": "V812",
+    "name": "Botic van de Zandschulp",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 36,
+      "BreakPointsOpportunities": 86,
+      "FirstServeReturnPointsWonPercentage": 33,
+      "ReturnGamesPlayed": 126,
+      "ReturnGamesWonPercentage": 25,
+      "ReturnPointsWonPercentage": 41,
+      "SecondServeReturnPointsWonPercentage": 51,
+      "TotalPointsWonPercentage": 49
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 37,
+      "BreakPointsFaced": 95,
+      "BreakPointsSavedPercentage": 59,
+      "DoubleFaults": 40,
+      "FirstServePercentage": 60,
+      "FirstServePointsWonPercentage": 67,
+      "SecondServePointsWonPercentage": 45,
+      "ServiceGamesPlayed": 125,
+      "ServiceGamesWonPercentage": 69,
+      "ServicePointsWonPercentage": 58
+    }
+  },
+  "Rinky Hijikata": {
+    "player_id": "H0BH",
+    "name": "Rinky Hijikata",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 47,
+      "BreakPointsOpportunities": 19,
+      "FirstServeReturnPointsWonPercentage": 22,
+      "ReturnGamesPlayed": 62,
+      "ReturnGamesWonPercentage": 15,
+      "ReturnPointsWonPercentage": 30,
+      "SecondServeReturnPointsWonPercentage": 44,
+      "TotalPointsWonPercentage": 45
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 10,
+      "BreakPointsFaced": 50,
+      "BreakPointsSavedPercentage": 64,
+      "DoubleFaults": 16,
+      "FirstServePercentage": 61,
+      "FirstServePointsWonPercentage": 66,
+      "SecondServePointsWonPercentage": 46,
+      "ServiceGamesPlayed": 58,
+      "ServiceGamesWonPercentage": 69,
+      "ServicePointsWonPercentage": 58
+    }
+  },
+  "Mariano Navone": {
+    "player_id": "N0BS",
+    "name": "Mariano Navone",
+    "ReturnRecordStatsClay": {
+      "BreakPointsConvertedPercentage": 46,
+      "BreakPointsOpportunities": 239,
+      "FirstServeReturnPointsWonPercentage": 38,
+      "ReturnGamesPlayed": 286,
+      "ReturnGamesWonPercentage": 38,
+      "ReturnPointsWonPercentage": 45,
+      "SecondServeReturnPointsWonPercentage": 55,
+      "TotalPointsWonPercentage": 51
+    },
+    "ServiceRecordStatsClay": {
+      "Aces": 33,
+      "BreakPointsFaced": 218,
+      "BreakPointsSavedPercentage": 55,
+      "DoubleFaults": 47,
+      "FirstServePercentage": 70,
+      "FirstServePointsWonPercentage": 61,
+      "SecondServePointsWonPercentage": 47,
+      "ServiceGamesPlayed": 283,
+      "ServiceGamesWonPercentage": 65,
+      "ServicePointsWonPercentage": 57
+    }
+  }
+}
