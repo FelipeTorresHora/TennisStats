@@ -25,7 +25,7 @@ else:
 def load_player_stats_from_clean():
     """Carrega estatísticas dos jogadores do arquivo stats_clean.json"""
     try:
-        with open('dados/clean/stats_clean.json', 'r', encoding='utf-8') as f:
+        with open('dados/clean/stats_clean_grass.json', 'r', encoding='utf-8') as f:
             stats_clean = json.load(f)
         
         # Criar mapeamento nome normalizado -> dados do jogador
