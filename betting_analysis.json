@@ -1,0 +1,1014 @@
+[
+  {
+    "event_id": "id1200257960690679",
+    "tournament": "French Open Men Singles",
+    "match": "Sinner, Jannik vs Bublik, Alexander",
+    "recommended_bet": "Bublik, Alexander to win",
+    "odds": 17.0,
+    "implied_probability": 5.88,
+    "statistical_probability": 50.0,
+    "edge": 44.12,
+    "expected_value": 750.0,
+    "confidence_score": 0.0,
+    "reasoning": "Marginal statistical advantage based on overall performance metrics",
+    "risk_level": "HIGH",
+    "event_date": "2025-06-04",
+    "event_time": "11:20:00",
+    "player_metrics": {
+      "recommended_player": {
+        "service_dominance": 0.1,
+        "serve_efficiency": 0.0,
+        "overall_rating": 0.04000000000000001,
+        "raw_stats": {
+          "player_id": "BK92",
+          "name": "Alexander Bublik",
+          "ReturnRecordStatsClay": {
+            "BreakPointsConvertedPercentage": 53,
+            "BreakPointsOpportunities": 53,
+            "FirstServeReturnPointsWonPercentage": 31,
+            "ReturnGamesPlayed": 119,
+            "ReturnGamesWonPercentage": 24,
+            "ReturnPointsWonPercentage": 36,
+            "SecondServeReturnPointsWonPercentage": 44,
+            "TotalPointsWonPercentage": 48
+          },
+          "ServiceRecordStatsClay": {
+            "Aces": 76,
+            "BreakPointsFaced": 97,
+            "BreakPointsSavedPercentage": 64,
+            "DoubleFaults": 72,
+            "FirstServePercentage": 59,
+            "FirstServePointsWonPercentage": 69,
+            "SecondServePointsWonPercentage": 44,
+            "ServiceGamesPlayed": 120,
+            "ServiceGamesWonPercentage": 71,
+            "ServicePointsWonPercentage": 59
+          }
+        }
+      },
+      "opponent": {
+        "service_dominance": 0.1,
+        "serve_efficiency": 0.0,
+        "overall_rating": 0.04000000000000001,
+        "raw_stats": {
+          "player_id": "S0AG",
+          "name": "Jannik Sinner",
+          "ReturnRecordStatsClay": {
+            "BreakPointsConvertedPercentage": 48,
+            "BreakPointsOpportunities": 120,
+            "FirstServeReturnPointsWonPercentage": 35,
+            "ReturnGamesPlayed": 175,
+            "ReturnGamesWonPercentage": 33,
+            "ReturnPointsWonPercentage": 43,
+            "SecondServeReturnPointsWonPercentage": 54,
+            "TotalPointsWonPercentage": 55
+          },
+          "ServiceRecordStatsClay": {
+            "Aces": 59,
+            "BreakPointsFaced": 68,
+            "BreakPointsSavedPercentage": 69,
+            "DoubleFaults": 29,
+            "FirstServePercentage": 62,
+            "FirstServePointsWonPercentage": 79,
+            "SecondServePointsWonPercentage": 54,
+            "ServiceGamesPlayed": 176,
+            "ServiceGamesWonPercentage": 88,
+            "ServicePointsWonPercentage": 69
+          },
+          "surface_summary": [
+            {
+              "year": 2025,
+              "surfaces": [
+                {
+                  "courtId": 1,
+                  "court": "Hard",
+                  "courtWins": 7,
+                  "courtLosses": 0
+                },
+                {
+                  "courtId": 2,
+                  "court": "Clay",
+                  "courtWins": 9,
+                  "courtLosses": 1
+                }
+              ]
+            },
+            {
+              "year": 2024,
+              "surfaces": [
+                {
+                  "courtId": 1,
+                  "court": "Hard",
+                  "courtWins": 40,
+                  "courtLosses": 3
+                },
+                {
+                  "courtId": 5,
+                  "court": "Grass",
+                  "courtWins": 9,
+                  "courtLosses": 1
+                },
+                {
+                  "courtId": 3,
+                  "court": "I.hard",
+                  "courtWins": 13,
+                  "courtLosses": 0
+                },
+                {
+                  "courtId": 2,
+                  "court": "Clay",
+                  "courtWins": 11,
+                  "courtLosses": 2
+                }
+              ]
+            },
+            {
+              "year": 2023,
+              "surfaces": [
+                {
+                  "courtId": 5,
+                  "court": "Grass",
+                  "courtWins": 8,
+                  "courtLosses": 3
+                },
+                {
+                  "courtId": 3,
+                  "court": "I.hard",
+                  "courtWins": 20,
+                  "courtLosses": 2
+                },
+                {
+                  "courtId": 2,
+                  "court": "Clay",
+                  "courtWins": 8,
+                  "courtLosses": 3
+                },
+                {
+                  "courtId": 1,
+                  "court": "Hard",
+                  "courtWins": 28,
+                  "courtLosses": 7
+                }
+              ]
+            }
+          ],
+          "past_matches": {
+            "data": [
+              {
+                "id": "5503841827",
+                "date": "2025-06-02T21:20:00.000Z",
+                "roundId": 7,
+                "player1Id": 47275,
+                "player2Id": 29372,
+                "tournamentId": 20340,
+                "match_winner": 47275,
+                "result": "6-1 6-3 6-4",
+                "player1": {
+                  "id": 47275,
+                  "name": "Jannik Sinner",
+                  "countryAcr": "ITA"
+                },
+                "player2": {
+                  "id": 29372,
+                  "name": "Andrey Rublev",
+                  "countryAcr": "RUS"
+                }
+              },
+              {
+                "id": "5468738077",
+                "date": "2025-05-31T13:45:00.000Z",
+                "roundId": 6,
+                "player1Id": 47275,
+                "player2Id": 61838,
+                "tournamentId": 20340,
+                "match_winner": 47275,
+                "result": "6-0 6-1 6-2",
+                "player1": {
+                  "id": 47275,
+                  "name": "Jannik Sinner",
+                  "countryAcr": "ITA"
+                },
+                "player2": {
+                  "id": 61838,
+                  "name": "Jiri Lehecka",
+                  "countryAcr": "CZE"
+                }
+              },
+              {
+                "id": "5407639256",
+                "date": "2025-05-29T15:20:00.000Z",
+                "roundId": 5,
+                "player1Id": 47275,
+                "player2Id": 674,
+                "tournamentId": 20340,
+                "match_winner": 47275,
+                "result": "6-3 6-0 6-4",
+                "player1": {
+                  "id": 47275,
+                  "name": "Jannik Sinner",
+                  "countryAcr": "ITA"
+                },
+                "player2": {
+                  "id": 674,
+                  "name": "Richard Gasquet",
+                  "countryAcr": "FRA"
+                }
+              },
+              {
+                "id": "5321904660",
+                "date": "2025-05-26T21:15:00.000Z",
+                "roundId": 4,
+                "player1Id": 47275,
+                "player2Id": 28170,
+                "tournamentId": 20340,
+                "match_winner": 47275,
+                "result": "6-4 6-3 7-5",
+                "player1": {
+                  "id": 47275,
+                  "name": "Jannik Sinner",
+                  "countryAcr": "ITA"
+                },
+                "player2": {
+                  "id": 28170,
+                  "name": "Arthur Rinderknech",
+                  "countryAcr": "FRA"
+                }
+              },
+              {
+                "id": "5055899751",
+                "date": "2025-05-18T18:00:00.000Z",
+                "roundId": 12,
+                "player1Id": 68074,
+                "player2Id": 47275,
+                "tournamentId": 20337,
+                "match_winner": 68074,
+                "result": "7-6(5) 6-1",
+                "player1": {
+                  "id": 68074,
+                  "name": "Carlos Alcaraz",
+                  "countryAcr": "ESP"
+                },
+                "player2": {
+                  "id": 47275,
+                  "name": "Jannik Sinner",
+                  "countryAcr": "ITA"
+                }
+              },
+              {
+                "id": "4993654449",
+                "date": "2025-05-16T21:30:00.000Z",
+                "roundId": 10,
+                "player1Id": 47275,
+                "player2Id": 29935,
+                "tournamentId": 20337,
+                "match_winner": 47275,
+                "result": "1-6 6-0 6-3",
+                "player1": {
+                  "id": 47275,
+                  "name": "Jannik Sinner",
+                  "countryAcr": "ITA"
+                },
+                "player2": {
+                  "id": 29935,
+                  "name": "Tommy Paul",
+                  "countryAcr": "USA"
+                }
+              },
+              {
+                "id": "4959941956",
+                "date": "2025-05-15T20:10:00.000Z",
+                "roundId": 9,
+                "player1Id": 47275,
+                "player2Id": 33648,
+                "tournamentId": 20337,
+                "match_winner": 47275,
+                "result": "6-0 6-1",
+                "player1": {
+                  "id": 47275,
+                  "name": "Jannik Sinner",
+                  "countryAcr": "ITA"
+                },
+                "player2": {
+                  "id": 33648,
+                  "name": "Casper Ruud",
+                  "countryAcr": "NOR"
+                }
+              },
+              {
+                "id": "4899028144",
+                "date": "2025-05-13T20:30:00.000Z",
+                "roundId": 7,
+                "player1Id": 47275,
+                "player2Id": 52279,
+                "tournamentId": 20337,
+                "match_winner": 47275,
+                "result": "7-6(2) 6-3",
+                "player1": {
+                  "id": 47275,
+                  "name": "Jannik Sinner",
+                  "countryAcr": "ITA"
+                },
+                "player2": {
+                  "id": 52279,
+                  "name": "Francisco Cerundolo",
+                  "countryAcr": "ARG"
+                }
+              },
+              {
+                "id": "4862759920",
+                "date": "2025-05-12T17:00:00.000Z",
+                "roundId": 6,
+                "player1Id": 47275,
+                "player2Id": 59166,
+                "tournamentId": 20337,
+                "match_winner": 47275,
+                "result": "6-4 6-2",
+                "player1": {
+                  "id": 47275,
+                  "name": "Jannik Sinner",
+                  "countryAcr": "ITA"
+                },
+                "player2": {
+                  "id": 59166,
+                  "name": "Jesper De Jong",
+                  "countryAcr": "NED"
+                }
+              },
+              {
+                "id": "4803196180",
+                "date": "2025-05-10T20:00:00.000Z",
+                "roundId": 5,
+                "player1Id": 47275,
+                "player2Id": 66828,
+                "tournamentId": 20337,
+                "match_winner": 47275,
+                "result": "6-3 6-4",
+                "player1": {
+                  "id": 47275,
+                  "name": "Jannik Sinner",
+                  "countryAcr": "ITA"
+                },
+                "player2": {
+                  "id": 66828,
+                  "name": "Mariano Navone",
+                  "countryAcr": "ARG"
+                }
+              }
+            ],
+            "hasNextPage": true
+          }
+        }
+      }
+    }
+  },
+  {
+    "event_id": "id1200257960690687",
+    "tournament": "French Open Men Singles",
+    "match": "Musetti, Lorenzo vs Alcaraz, Carlos",
+    "recommended_bet": "Musetti, Lorenzo to win",
+    "odds": 5.5,
+    "implied_probability": 18.18,
+    "statistical_probability": 50.0,
+    "edge": 31.82,
+    "expected_value": 175.0,
+    "confidence_score": 0.0,
+    "reasoning": "Marginal statistical advantage based on overall performance metrics",
+    "risk_level": "HIGH",
+    "event_date": "2025-06-06",
+    "event_time": "12:30:00",
+    "player_metrics": {
+      "recommended_player": {
+        "service_dominance": 0.1,
+        "serve_efficiency": 0.0,
+        "overall_rating": 0.04000000000000001,
+        "raw_stats": {
+          "player_id": "M0EJ",
+          "name": "Lorenzo Musetti",
+          "ReturnRecordStatsClay": {
+            "BreakPointsConvertedPercentage": 45,
+            "BreakPointsOpportunities": 106,
+            "FirstServeReturnPointsWonPercentage": 34,
+            "ReturnGamesPlayed": 170,
+            "ReturnGamesWonPercentage": 28,
+            "ReturnPointsWonPercentage": 40,
+            "SecondServeReturnPointsWonPercentage": 51,
+            "TotalPointsWonPercentage": 51
+          },
+          "ServiceRecordStatsClay": {
+            "Aces": 30,
+            "BreakPointsFaced": 73,
+            "BreakPointsSavedPercentage": 52,
+            "DoubleFaults": 17,
+            "FirstServePercentage": 63,
+            "FirstServePointsWonPercentage": 71,
+            "SecondServePointsWonPercentage": 51,
+            "ServiceGamesPlayed": 167,
+            "ServiceGamesWonPercentage": 79,
+            "ServicePointsWonPercentage": 63
+          },
+          "surface_summary": [
+            {
+              "year": 2025,
+              "surfaces": [
+                {
+                  "courtId": 2,
+                  "court": "Clay",
+                  "courtWins": 19,
+                  "courtLosses": 3
+                },
+                {
+                  "courtId": 1,
+                  "court": "Hard",
+                  "courtWins": 6,
+                  "courtLosses": 4
+                }
+              ]
+            },
+            {
+              "year": 2024,
+              "surfaces": [
+                {
+                  "courtId": 1,
+                  "court": "Hard",
+                  "courtWins": 13,
+                  "courtLosses": 12
+                },
+                {
+                  "courtId": 5,
+                  "court": "Grass",
+                  "courtWins": 12,
+                  "courtLosses": 3
+                },
+                {
+                  "courtId": 3,
+                  "court": "I.hard",
+                  "courtWins": 3,
+                  "courtLosses": 5
+                },
+                {
+                  "courtId": 2,
+                  "court": "Clay",
+                  "courtWins": 18,
+                  "courtLosses": 10
+                }
+              ]
+            },
+            {
+              "year": 2023,
+              "surfaces": [
+                {
+                  "courtId": 2,
+                  "court": "Clay",
+                  "courtWins": 16,
+                  "courtLosses": 11
+                },
+                {
+                  "courtId": 5,
+                  "court": "Grass",
+                  "courtWins": 6,
+                  "courtLosses": 3
+                },
+                {
+                  "courtId": 3,
+                  "court": "I.hard",
+                  "courtWins": 0,
+                  "courtLosses": 5
+                },
+                {
+                  "courtId": 1,
+                  "court": "Hard",
+                  "courtWins": 10,
+                  "courtLosses": 10
+                }
+              ]
+            }
+          ],
+          "past_matches": {
+            "data": [
+              {
+                "id": "5531149716",
+                "date": "2025-06-03T16:30:00.000Z",
+                "roundId": 9,
+                "player1Id": 63572,
+                "player2Id": 29939,
+                "tournamentId": 20340,
+                "match_winner": 63572,
+                "result": "6-2 4-6 7-5 6-2",
+                "player1": {
+                  "id": 63572,
+                  "name": "Lorenzo Musetti",
+                  "countryAcr": "ITA"
+                },
+                "player2": {
+                  "id": 29939,
+                  "name": "Frances Tiafoe",
+                  "countryAcr": "USA"
+                }
+              },
+              {
+                "id": "5483040058",
+                "date": "2025-06-01T21:20:00.000Z",
+                "roundId": 7,
+                "player1Id": 63572,
+                "player2Id": 69471,
+                "tournamentId": 20340,
+                "match_winner": 63572,
+                "result": "7-5 3-6 6-3 6-2",
+                "player1": {
+                  "id": 63572,
+                  "name": "Lorenzo Musetti",
+                  "countryAcr": "ITA"
+                },
+                "player2": {
+                  "id": 69471,
+                  "name": "Holger Rune",
+                  "countryAcr": "DEN"
+                }
+              },
+              {
+                "id": "5437535718",
+                "date": "2025-05-30T12:00:00.000Z",
+                "roundId": 6,
+                "player1Id": 63572,
+                "player2Id": 66828,
+                "tournamentId": 20340,
+                "match_winner": 63572,
+                "result": "4-6 6-4 6-3 6-2",
+                "player1": {
+                  "id": 63572,
+                  "name": "Lorenzo Musetti",
+                  "countryAcr": "ITA"
+                },
+                "player2": {
+                  "id": 66828,
+                  "name": "Mariano Navone",
+                  "countryAcr": "ARG"
+                }
+              },
+              {
+                "id": "5371255324",
+                "date": "2025-05-28T12:00:00.000Z",
+                "roundId": 5,
+                "player1Id": 63572,
+                "player2Id": 26845,
+                "tournamentId": 20340,
+                "match_winner": 63572,
+                "result": "6-4 6-0 6-4",
+                "player1": {
+                  "id": 63572,
+                  "name": "Lorenzo Musetti",
+                  "countryAcr": "ITA"
+                },
+                "player2": {
+                  "id": 26845,
+                  "name": "Daniel Elahi Galan",
+                  "countryAcr": "COL"
+                }
+              },
+              {
+                "id": "5281662415",
+                "date": "2025-05-25T16:26:00.000Z",
+                "roundId": 4,
+                "player1Id": 63572,
+                "player2Id": 14856,
+                "tournamentId": 20340,
+                "match_winner": 63572,
+                "result": "7-5 6-2 6-0",
+                "player1": {
+                  "id": 63572,
+                  "name": "Lorenzo Musetti",
+                  "countryAcr": "ITA"
+                },
+                "player2": {
+                  "id": 14856,
+                  "name": "Yannick Hanfmann",
+                  "countryAcr": "GER"
+                }
+              },
+              {
+                "id": "4987170647",
+                "date": "2025-05-16T16:30:00.000Z",
+                "roundId": 10,
+                "player1Id": 68074,
+                "player2Id": 63572,
+                "tournamentId": 20337,
+                "match_winner": 68074,
+                "result": "6-3 7-6(4)",
+                "player1": {
+                  "id": 68074,
+                  "name": "Carlos Alcaraz",
+                  "countryAcr": "ESP"
+                },
+                "player2": {
+                  "id": 63572,
+                  "name": "Lorenzo Musetti",
+                  "countryAcr": "ITA"
+                }
+              },
+              {
+                "id": "4932719689",
+                "date": "2025-05-14T22:15:00.000Z",
+                "roundId": 9,
+                "player1Id": 63572,
+                "player2Id": 24008,
+                "tournamentId": 20337,
+                "match_winner": 63572,
+                "result": "7-6(1) 6-4",
+                "player1": {
+                  "id": 63572,
+                  "name": "Lorenzo Musetti",
+                  "countryAcr": "ITA"
+                },
+                "player2": {
+                  "id": 24008,
+                  "name": "Alexander Zverev",
+                  "countryAcr": "GER"
+                }
+              },
+              {
+                "id": "4896436896",
+                "date": "2025-05-13T16:00:00.000Z",
+                "roundId": 7,
+                "player1Id": 63572,
+                "player2Id": 22807,
+                "tournamentId": 20337,
+                "match_winner": 63572,
+                "result": "7-5 6-4",
+                "player1": {
+                  "id": 63572,
+                  "name": "Lorenzo Musetti",
+                  "countryAcr": "ITA"
+                },
+                "player2": {
+                  "id": 22807,
+                  "name": "Daniil Medvedev",
+                  "countryAcr": "RUS"
+                }
+              },
+              {
+                "id": "4827798561",
+                "date": "2025-05-11T14:30:00.000Z",
+                "roundId": 6,
+                "player1Id": 63572,
+                "player2Id": 56846,
+                "tournamentId": 20337,
+                "match_winner": 63572,
+                "result": "6-4 6-3",
+                "player1": {
+                  "id": 63572,
+                  "name": "Lorenzo Musetti",
+                  "countryAcr": "ITA"
+                },
+                "player2": {
+                  "id": 56846,
+                  "name": "Brandon Nakashima",
+                  "countryAcr": "USA"
+                }
+              },
+              {
+                "id": "4768237049",
+                "date": "2025-05-09T15:40:00.000Z",
+                "roundId": 5,
+                "player1Id": 63572,
+                "player2Id": 55252,
+                "tournamentId": 20337,
+                "match_winner": 63572,
+                "result": "6-3 6-2",
+                "player1": {
+                  "id": 63572,
+                  "name": "Lorenzo Musetti",
+                  "countryAcr": "ITA"
+                },
+                "player2": {
+                  "id": 55252,
+                  "name": "Otto Virtanen",
+                  "countryAcr": "FIN"
+                }
+              }
+            ],
+            "hasNextPage": true
+          }
+        }
+      },
+      "opponent": {
+        "service_dominance": 0.1,
+        "serve_efficiency": 0.0,
+        "overall_rating": 0.04000000000000001,
+        "raw_stats": {
+          "player_id": "A0E2",
+          "name": "Carlos Alcaraz",
+          "ReturnRecordStatsClay": {
+            "BreakPointsConvertedPercentage": 46,
+            "BreakPointsOpportunities": 158,
+            "FirstServeReturnPointsWonPercentage": 36,
+            "ReturnGamesPlayed": 194,
+            "ReturnGamesWonPercentage": 37,
+            "ReturnPointsWonPercentage": 45,
+            "SecondServeReturnPointsWonPercentage": 59,
+            "TotalPointsWonPercentage": 54
+          },
+          "ServiceRecordStatsClay": {
+            "Aces": 34,
+            "BreakPointsFaced": 105,
+            "BreakPointsSavedPercentage": 64,
+            "DoubleFaults": 35,
+            "FirstServePercentage": 68,
+            "FirstServePointsWonPercentage": 68,
+            "SecondServePointsWonPercentage": 55,
+            "ServiceGamesPlayed": 194,
+            "ServiceGamesWonPercentage": 80,
+            "ServicePointsWonPercentage": 64
+          },
+          "surface_summary": [
+            {
+              "year": 2025,
+              "surfaces": [
+                {
+                  "courtId": 1,
+                  "court": "Hard",
+                  "courtWins": 10,
+                  "courtLosses": 4
+                },
+                {
+                  "courtId": 3,
+                  "court": "I.hard",
+                  "courtWins": 5,
+                  "courtLosses": 0
+                },
+                {
+                  "courtId": 2,
+                  "court": "Clay",
+                  "courtWins": 20,
+                  "courtLosses": 1
+                }
+              ]
+            },
+            {
+              "year": 2024,
+              "surfaces": [
+                {
+                  "courtId": 1,
+                  "court": "Hard",
+                  "courtWins": 22,
+                  "courtLosses": 5
+                },
+                {
+                  "courtId": 5,
+                  "court": "Grass",
+                  "courtWins": 8,
+                  "courtLosses": 1
+                },
+                {
+                  "courtId": 3,
+                  "court": "I.hard",
+                  "courtWins": 7,
+                  "courtLosses": 3
+                },
+                {
+                  "courtId": 2,
+                  "court": "Clay",
+                  "courtWins": 17,
+                  "courtLosses": 4
+                }
+              ]
+            },
+            {
+              "year": 2023,
+              "surfaces": [
+                {
+                  "courtId": 1,
+                  "court": "Hard",
+                  "courtWins": 26,
+                  "courtLosses": 6
+                },
+                {
+                  "courtId": 5,
+                  "court": "Grass",
+                  "courtWins": 12,
+                  "courtLosses": 0
+                },
+                {
+                  "courtId": 3,
+                  "court": "I.hard",
+                  "courtWins": 2,
+                  "courtLosses": 3
+                },
+                {
+                  "courtId": 2,
+                  "court": "Clay",
+                  "courtWins": 27,
+                  "courtLosses": 3
+                }
+              ]
+            }
+          ],
+          "past_matches": {
+            "data": [
+              {
+                "id": "5535051734",
+                "date": "2025-06-03T21:15:00.000Z",
+                "roundId": 9,
+                "player1Id": 68074,
+                "player2Id": 29935,
+                "tournamentId": 20340,
+                "match_winner": 68074,
+                "result": "6-0 6-1 6-4",
+                "player1": {
+                  "id": 68074,
+                  "name": "Carlos Alcaraz",
+                  "countryAcr": "ESP"
+                },
+                "player2": {
+                  "id": 29935,
+                  "name": "Tommy Paul",
+                  "countryAcr": "USA"
+                }
+              },
+              {
+                "id": "5483040099",
+                "date": "2025-06-01T17:40:00.000Z",
+                "roundId": 7,
+                "player1Id": 68074,
+                "player2Id": 87562,
+                "tournamentId": 20340,
+                "match_winner": 68074,
+                "result": "7-6(8) 6-3 4-6 6-4",
+                "player1": {
+                  "id": 68074,
+                  "name": "Carlos Alcaraz",
+                  "countryAcr": "ESP"
+                },
+                "player2": {
+                  "id": 87562,
+                  "name": "Ben Shelton",
+                  "countryAcr": "USA"
+                }
+              },
+              {
+                "id": "5449236092",
+                "date": "2025-05-30T21:15:00.000Z",
+                "roundId": 6,
+                "player1Id": 68074,
+                "player2Id": 13447,
+                "tournamentId": 20340,
+                "match_winner": 68074,
+                "result": "6-1 6-3 4-6 6-4",
+                "player1": {
+                  "id": 68074,
+                  "name": "Carlos Alcaraz",
+                  "countryAcr": "ESP"
+                },
+                "player2": {
+                  "id": 13447,
+                  "name": "Damir Dzumhur",
+                  "countryAcr": "BIH"
+                }
+              },
+              {
+                "id": "5375152778",
+                "date": "2025-05-28T14:40:00.000Z",
+                "roundId": 5,
+                "player1Id": 68074,
+                "player2Id": 52140,
+                "tournamentId": 20340,
+                "match_winner": 68074,
+                "result": "6-1 4-6 6-1 6-2",
+                "player1": {
+                  "id": 68074,
+                  "name": "Carlos Alcaraz",
+                  "countryAcr": "ESP"
+                },
+                "player2": {
+                  "id": 52140,
+                  "name": "Fabian Marozsan",
+                  "countryAcr": "HUN"
+                }
+              },
+              {
+                "id": "5310219332",
+                "date": "2025-05-26T13:30:00.000Z",
+                "roundId": 4,
+                "player1Id": 68074,
+                "player2Id": 57769,
+                "tournamentId": 20340,
+                "match_winner": 68074,
+                "result": "6-3 6-4 6-2",
+                "player1": {
+                  "id": 68074,
+                  "name": "Carlos Alcaraz",
+                  "countryAcr": "ESP"
+                },
+                "player2": {
+                  "id": 57769,
+                  "name": "Giulio Zeppieri",
+                  "countryAcr": "ITA"
+                }
+              },
+              {
+                "id": "5055899751",
+                "date": "2025-05-18T18:00:00.000Z",
+                "roundId": 12,
+                "player1Id": 68074,
+                "player2Id": 47275,
+                "tournamentId": 20337,
+                "match_winner": 68074,
+                "result": "7-6(5) 6-1",
+                "player1": {
+                  "id": 68074,
+                  "name": "Carlos Alcaraz",
+                  "countryAcr": "ESP"
+                },
+                "player2": {
+                  "id": 47275,
+                  "name": "Jannik Sinner",
+                  "countryAcr": "ITA"
+                }
+              },
+              {
+                "id": "4987170647",
+                "date": "2025-05-16T16:30:00.000Z",
+                "roundId": 10,
+                "player1Id": 68074,
+                "player2Id": 63572,
+                "tournamentId": 20337,
+                "match_winner": 68074,
+                "result": "6-3 7-6(4)",
+                "player1": {
+                  "id": 68074,
+                  "name": "Carlos Alcaraz",
+                  "countryAcr": "ESP"
+                },
+                "player2": {
+                  "id": 63572,
+                  "name": "Lorenzo Musetti",
+                  "countryAcr": "ITA"
+                }
+              },
+              {
+                "id": "4923646925",
+                "date": "2025-05-14T16:15:00.000Z",
+                "roundId": 9,
+                "player1Id": 68074,
+                "player2Id": 63017,
+                "tournamentId": 20337,
+                "match_winner": 68074,
+                "result": "6-4 6-4",
+                "player1": {
+                  "id": 68074,
+                  "name": "Carlos Alcaraz",
+                  "countryAcr": "ESP"
+                },
+                "player2": {
+                  "id": 63017,
+                  "name": "Jack Draper",
+                  "countryAcr": "GBR"
+                }
+              },
+              {
+                "id": "4888664024",
+                "date": "2025-05-13T12:00:00.000Z",
+                "roundId": 7,
+                "player1Id": 68074,
+                "player2Id": 25543,
+                "tournamentId": 20337,
+                "match_winner": 68074,
+                "result": "6-3 3-6 7-5",
+                "player1": {
+                  "id": 68074,
+                  "name": "Carlos Alcaraz",
+                  "countryAcr": "ESP"
+                },
+                "player2": {
+                  "id": 25543,
+                  "name": "Karen Khachanov",
+                  "countryAcr": "RUS"
+                }
+              },
+              {
+                "id": "4838157599",
+                "date": "2025-05-11T21:30:00.000Z",
+                "roundId": 6,
+                "player1Id": 68074,
+                "player2Id": 24084,
+                "tournamentId": 20337,
+                "match_winner": 68074,
+                "result": "7-6(2) 6-2",
+                "player1": {
+                  "id": 68074,
+                  "name": "Carlos Alcaraz",
+                  "countryAcr": "ESP"
+                },
+                "player2": {
+                  "id": 24084,
+                  "name": "Laslo Djere",
+                  "countryAcr": "SRB"
+                }
+              }
+            ],
+            "hasNextPage": true
+          }
+        }
+      }
+    }
+  }
+]
