@@ -1,0 +1,2741 @@
+{
+  "Z355": {
+    "player_id": "Z355",
+    "collected_at": "2025-07-07 08:36:04",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "Z355",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 39,
+        "BreakPointsOpportunities": 375,
+        "FirstServeReturnPointsWonPercentage": 29,
+        "ReturnGamesPlayed": 695,
+        "ReturnGamesWonPercentage": 21,
+        "ReturnPointsWonPercentage": 37,
+        "SecondServeReturnPointsWonPercentage": 51,
+        "TotalPointsWonPercentage": 53
+      },
+      "ServiceRecordStats": {
+        "Aces": 488,
+        "BreakPointsFaced": 242,
+        "BreakPointsSavedPercentage": 73,
+        "DoubleFaults": 113,
+        "FirstServePercentage": 71,
+        "FirstServePointsWonPercentage": 76,
+        "SecondServePointsWonPercentage": 56,
+        "ServiceGamesPlayed": 701,
+        "ServiceGamesWonPercentage": 91,
+        "ServicePointsWonPercentage": 70
+      },
+      "Surface": "Hard"
+    }
+  },
+  "M0GZ": {
+    "player_id": "M0GZ",
+    "collected_at": "2025-07-07 08:36:06",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "M0GZ",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 35,
+        "BreakPointsOpportunities": 37,
+        "FirstServeReturnPointsWonPercentage": 20,
+        "ReturnGamesPlayed": 198,
+        "ReturnGamesWonPercentage": 7,
+        "ReturnPointsWonPercentage": 25,
+        "SecondServeReturnPointsWonPercentage": 33,
+        "TotalPointsWonPercentage": 49
+      },
+      "ServiceRecordStats": {
+        "Aces": 308,
+        "BreakPointsFaced": 57,
+        "BreakPointsSavedPercentage": 65,
+        "DoubleFaults": 100,
+        "FirstServePercentage": 61,
+        "FirstServePointsWonPercentage": 82,
+        "SecondServePointsWonPercentage": 54,
+        "ServiceGamesPlayed": 202,
+        "ServiceGamesWonPercentage": 90,
+        "ServicePointsWonPercentage": 71
+      },
+      "Surface": "Hard"
+    }
+  },
+  "BK40": {
+    "player_id": "BK40",
+    "collected_at": "2025-07-07 08:36:07",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "BK40",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 40,
+        "BreakPointsOpportunities": 68,
+        "FirstServeReturnPointsWonPercentage": 28,
+        "ReturnGamesPlayed": 166,
+        "ReturnGamesWonPercentage": 16,
+        "ReturnPointsWonPercentage": 33,
+        "SecondServeReturnPointsWonPercentage": 41,
+        "TotalPointsWonPercentage": 50
+      },
+      "ServiceRecordStats": {
+        "Aces": 132,
+        "BreakPointsFaced": 89,
+        "BreakPointsSavedPercentage": 71,
+        "DoubleFaults": 21,
+        "FirstServePercentage": 63,
+        "FirstServePointsWonPercentage": 75,
+        "SecondServePointsWonPercentage": 50,
+        "ServiceGamesPlayed": 163,
+        "ServiceGamesWonPercentage": 84,
+        "ServicePointsWonPercentage": 66
+      },
+      "Surface": "Hard"
+    }
+  },
+  "HB71": {
+    "player_id": "HB71",
+    "collected_at": "2025-07-07 08:36:09",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "HB71",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 34,
+        "BreakPointsOpportunities": 184,
+        "FirstServeReturnPointsWonPercentage": 25,
+        "ReturnGamesPlayed": 440,
+        "ReturnGamesWonPercentage": 14,
+        "ReturnPointsWonPercentage": 33,
+        "SecondServeReturnPointsWonPercentage": 48,
+        "TotalPointsWonPercentage": 51
+      },
+      "ServiceRecordStats": {
+        "Aces": 422,
+        "BreakPointsFaced": 174,
+        "BreakPointsSavedPercentage": 71,
+        "DoubleFaults": 65,
+        "FirstServePercentage": 62,
+        "FirstServePointsWonPercentage": 79,
+        "SecondServePointsWonPercentage": 55,
+        "ServiceGamesPlayed": 454,
+        "ServiceGamesWonPercentage": 89,
+        "ServicePointsWonPercentage": 70
+      },
+      "Surface": "Hard"
+    }
+  },
+  "S0AG": {
+    "player_id": "S0AG",
+    "collected_at": "2025-07-07 08:36:10",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "S0AG",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 42,
+        "BreakPointsOpportunities": 444,
+        "FirstServeReturnPointsWonPercentage": 32,
+        "ReturnGamesPlayed": 618,
+        "ReturnGamesWonPercentage": 30,
+        "ReturnPointsWonPercentage": 42,
+        "SecondServeReturnPointsWonPercentage": 57,
+        "TotalPointsWonPercentage": 56
+      },
+      "ServiceRecordStats": {
+        "Aces": 384,
+        "BreakPointsFaced": 214,
+        "BreakPointsSavedPercentage": 76,
+        "DoubleFaults": 92,
+        "FirstServePercentage": 60,
+        "FirstServePointsWonPercentage": 79,
+        "SecondServePointsWonPercentage": 59,
+        "ServiceGamesPlayed": 637,
+        "ServiceGamesWonPercentage": 92,
+        "ServicePointsWonPercentage": 71
+      },
+      "Surface": "Hard"
+    }
+  },
+  "S0S1": {
+    "player_id": "S0S1",
+    "collected_at": "2025-07-07 08:36:11",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "S0S1",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 37,
+        "BreakPointsOpportunities": 248,
+        "FirstServeReturnPointsWonPercentage": 24,
+        "ReturnGamesPlayed": 598,
+        "ReturnGamesWonPercentage": 15,
+        "ReturnPointsWonPercentage": 32,
+        "SecondServeReturnPointsWonPercentage": 45,
+        "TotalPointsWonPercentage": 51
+      },
+      "ServiceRecordStats": {
+        "Aces": 434,
+        "BreakPointsFaced": 232,
+        "BreakPointsSavedPercentage": 73,
+        "DoubleFaults": 127,
+        "FirstServePercentage": 69,
+        "FirstServePointsWonPercentage": 76,
+        "SecondServePointsWonPercentage": 55,
+        "ServiceGamesPlayed": 603,
+        "ServiceGamesWonPercentage": 90,
+        "ServicePointsWonPercentage": 70
+      },
+      "Surface": "Hard"
+    }
+  },
+  "FB98": {
+    "player_id": "FB98",
+    "collected_at": "2025-07-07 08:36:13",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "FB98",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 39,
+        "BreakPointsOpportunities": 267,
+        "FirstServeReturnPointsWonPercentage": 27,
+        "ReturnGamesPlayed": 497,
+        "ReturnGamesWonPercentage": 21,
+        "ReturnPointsWonPercentage": 36,
+        "SecondServeReturnPointsWonPercentage": 51,
+        "TotalPointsWonPercentage": 52
+      },
+      "ServiceRecordStats": {
+        "Aces": 382,
+        "BreakPointsFaced": 201,
+        "BreakPointsSavedPercentage": 70,
+        "DoubleFaults": 78,
+        "FirstServePercentage": 61,
+        "FirstServePointsWonPercentage": 77,
+        "SecondServePointsWonPercentage": 55,
+        "ServiceGamesPlayed": 503,
+        "ServiceGamesWonPercentage": 88,
+        "ServicePointsWonPercentage": 68
+      },
+      "Surface": "Hard"
+    }
+  },
+  "N0AE": {
+    "player_id": "N0AE",
+    "collected_at": "2025-07-07 08:36:14",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "N0AE",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 38,
+        "BreakPointsOpportunities": 133,
+        "FirstServeReturnPointsWonPercentage": 24,
+        "ReturnGamesPlayed": 328,
+        "ReturnGamesWonPercentage": 16,
+        "ReturnPointsWonPercentage": 32,
+        "SecondServeReturnPointsWonPercentage": 46,
+        "TotalPointsWonPercentage": 50
+      },
+      "ServiceRecordStats": {
+        "Aces": 235,
+        "BreakPointsFaced": 135,
+        "BreakPointsSavedPercentage": 67,
+        "DoubleFaults": 28,
+        "FirstServePercentage": 66,
+        "FirstServePointsWonPercentage": 74,
+        "SecondServePointsWonPercentage": 55,
+        "ServiceGamesPlayed": 328,
+        "ServiceGamesWonPercentage": 87,
+        "ServicePointsWonPercentage": 68
+      },
+      "Surface": "Hard"
+    }
+  },
+  "D875": {
+    "player_id": "D875",
+    "collected_at": "2025-07-07 08:36:15",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "D875",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 36,
+        "BreakPointsOpportunities": 303,
+        "FirstServeReturnPointsWonPercentage": 28,
+        "ReturnGamesPlayed": 515,
+        "ReturnGamesWonPercentage": 21,
+        "ReturnPointsWonPercentage": 37,
+        "SecondServeReturnPointsWonPercentage": 52,
+        "TotalPointsWonPercentage": 53
+      },
+      "ServiceRecordStats": {
+        "Aces": 360,
+        "BreakPointsFaced": 211,
+        "BreakPointsSavedPercentage": 69,
+        "DoubleFaults": 148,
+        "FirstServePercentage": 62,
+        "FirstServePointsWonPercentage": 80,
+        "SecondServePointsWonPercentage": 51,
+        "ServiceGamesPlayed": 525,
+        "ServiceGamesWonPercentage": 87,
+        "ServicePointsWonPercentage": 69
+      },
+      "Surface": "Hard"
+    }
+  },
+  "D643": {
+    "player_id": "D643",
+    "collected_at": "2025-07-07 08:36:17",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "D643",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 38,
+        "BreakPointsOpportunities": 183,
+        "FirstServeReturnPointsWonPercentage": 30,
+        "ReturnGamesPlayed": 266,
+        "ReturnGamesWonPercentage": 26,
+        "ReturnPointsWonPercentage": 40,
+        "SecondServeReturnPointsWonPercentage": 57,
+        "TotalPointsWonPercentage": 54
+      },
+      "ServiceRecordStats": {
+        "Aces": 164,
+        "BreakPointsFaced": 99,
+        "BreakPointsSavedPercentage": 67,
+        "DoubleFaults": 62,
+        "FirstServePercentage": 62,
+        "FirstServePointsWonPercentage": 77,
+        "SecondServePointsWonPercentage": 55,
+        "ServiceGamesPlayed": 273,
+        "ServiceGamesWonPercentage": 88,
+        "ServicePointsWonPercentage": 69
+      },
+      "Surface": "Hard"
+    }
+  },
+  "RE44": {
+    "player_id": "RE44",
+    "collected_at": "2025-07-07 08:36:18",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "RE44",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 35,
+        "BreakPointsOpportunities": 367,
+        "FirstServeReturnPointsWonPercentage": 27,
+        "ReturnGamesPlayed": 648,
+        "ReturnGamesWonPercentage": 20,
+        "ReturnPointsWonPercentage": 37,
+        "SecondServeReturnPointsWonPercentage": 52,
+        "TotalPointsWonPercentage": 52
+      },
+      "ServiceRecordStats": {
+        "Aces": 454,
+        "BreakPointsFaced": 267,
+        "BreakPointsSavedPercentage": 70,
+        "DoubleFaults": 116,
+        "FirstServePercentage": 62,
+        "FirstServePointsWonPercentage": 77,
+        "SecondServePointsWonPercentage": 54,
+        "ServiceGamesPlayed": 651,
+        "ServiceGamesWonPercentage": 88,
+        "ServicePointsWonPercentage": 68
+      },
+      "Surface": "Hard"
+    }
+  },
+  "A0E2": {
+    "player_id": "A0E2",
+    "collected_at": "2025-07-07 08:36:20",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "A0E2",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 40,
+        "BreakPointsOpportunities": 251,
+        "FirstServeReturnPointsWonPercentage": 34,
+        "ReturnGamesPlayed": 367,
+        "ReturnGamesWonPercentage": 28,
+        "ReturnPointsWonPercentage": 41,
+        "SecondServeReturnPointsWonPercentage": 53,
+        "TotalPointsWonPercentage": 54
+      },
+      "ServiceRecordStats": {
+        "Aces": 159,
+        "BreakPointsFaced": 111,
+        "BreakPointsSavedPercentage": 61,
+        "DoubleFaults": 53,
+        "FirstServePercentage": 64,
+        "FirstServePointsWonPercentage": 76,
+        "SecondServePointsWonPercentage": 59,
+        "ServiceGamesPlayed": 367,
+        "ServiceGamesWonPercentage": 88,
+        "ServicePointsWonPercentage": 70
+      },
+      "Surface": "Hard"
+    }
+  },
+  "HH26": {
+    "player_id": "HH26",
+    "collected_at": "2025-07-07 08:36:21",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "HH26",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 39,
+        "BreakPointsOpportunities": 259,
+        "FirstServeReturnPointsWonPercentage": 27,
+        "ReturnGamesPlayed": 451,
+        "ReturnGamesWonPercentage": 22,
+        "ReturnPointsWonPercentage": 37,
+        "SecondServeReturnPointsWonPercentage": 51,
+        "TotalPointsWonPercentage": 52
+      },
+      "ServiceRecordStats": {
+        "Aces": 262,
+        "BreakPointsFaced": 175,
+        "BreakPointsSavedPercentage": 67,
+        "DoubleFaults": 73,
+        "FirstServePercentage": 64,
+        "FirstServePointsWonPercentage": 73,
+        "SecondServePointsWonPercentage": 56,
+        "ServiceGamesPlayed": 458,
+        "ServiceGamesWonPercentage": 88,
+        "ServicePointsWonPercentage": 67
+      },
+      "Surface": "Hard"
+    }
+  },
+  "SU87": {
+    "player_id": "SU87",
+    "collected_at": "2025-07-07 08:36:23",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "SU87",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 32,
+        "BreakPointsOpportunities": 143,
+        "FirstServeReturnPointsWonPercentage": 27,
+        "ReturnGamesPlayed": 358,
+        "ReturnGamesWonPercentage": 13,
+        "ReturnPointsWonPercentage": 32,
+        "SecondServeReturnPointsWonPercentage": 42,
+        "TotalPointsWonPercentage": 49
+      },
+      "ServiceRecordStats": {
+        "Aces": 212,
+        "BreakPointsFaced": 155,
+        "BreakPointsSavedPercentage": 63,
+        "DoubleFaults": 50,
+        "FirstServePercentage": 67,
+        "FirstServePointsWonPercentage": 74,
+        "SecondServePointsWonPercentage": 50,
+        "ServiceGamesPlayed": 356,
+        "ServiceGamesWonPercentage": 84,
+        "ServicePointsWonPercentage": 66
+      },
+      "Surface": "Hard"
+    }
+  },
+  "P09Z": {
+    "player_id": "P09Z",
+    "collected_at": "2025-07-07 08:36:24",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "P09Z",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 34,
+        "BreakPointsOpportunities": 227,
+        "FirstServeReturnPointsWonPercentage": 28,
+        "ReturnGamesPlayed": 380,
+        "ReturnGamesWonPercentage": 20,
+        "ReturnPointsWonPercentage": 36,
+        "SecondServeReturnPointsWonPercentage": 50,
+        "TotalPointsWonPercentage": 51
+      },
+      "ServiceRecordStats": {
+        "Aces": 304,
+        "BreakPointsFaced": 177,
+        "BreakPointsSavedPercentage": 70,
+        "DoubleFaults": 95,
+        "FirstServePercentage": 62,
+        "FirstServePointsWonPercentage": 77,
+        "SecondServePointsWonPercentage": 51,
+        "ServiceGamesPlayed": 374,
+        "ServiceGamesWonPercentage": 86,
+        "ServicePointsWonPercentage": 67
+      },
+      "Surface": "Hard"
+    }
+  },
+  "RH16": {
+    "player_id": "RH16",
+    "collected_at": "2025-07-07 08:36:26",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "RH16",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 39,
+        "BreakPointsOpportunities": 242,
+        "FirstServeReturnPointsWonPercentage": 25,
+        "ReturnGamesPlayed": 485,
+        "ReturnGamesWonPercentage": 19,
+        "ReturnPointsWonPercentage": 35,
+        "SecondServeReturnPointsWonPercentage": 49,
+        "TotalPointsWonPercentage": 51
+      },
+      "ServiceRecordStats": {
+        "Aces": 257,
+        "BreakPointsFaced": 185,
+        "BreakPointsSavedPercentage": 65,
+        "DoubleFaults": 84,
+        "FirstServePercentage": 66,
+        "FirstServePointsWonPercentage": 74,
+        "SecondServePointsWonPercentage": 54,
+        "ServiceGamesPlayed": 487,
+        "ServiceGamesWonPercentage": 87,
+        "ServicePointsWonPercentage": 67
+      },
+      "Surface": "Hard"
+    }
+  },
+  "TE51": {
+    "player_id": "TE51",
+    "collected_at": "2025-07-07 08:36:27",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "TE51",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 39,
+        "BreakPointsOpportunities": 195,
+        "FirstServeReturnPointsWonPercentage": 27,
+        "ReturnGamesPlayed": 405,
+        "ReturnGamesWonPercentage": 19,
+        "ReturnPointsWonPercentage": 34,
+        "SecondServeReturnPointsWonPercentage": 46,
+        "TotalPointsWonPercentage": 51
+      },
+      "ServiceRecordStats": {
+        "Aces": 265,
+        "BreakPointsFaced": 196,
+        "BreakPointsSavedPercentage": 69,
+        "DoubleFaults": 101,
+        "FirstServePercentage": 58,
+        "FirstServePointsWonPercentage": 75,
+        "SecondServePointsWonPercentage": 53,
+        "ServiceGamesPlayed": 413,
+        "ServiceGamesWonPercentage": 85,
+        "ServicePointsWonPercentage": 66
+      },
+      "Surface": "Hard"
+    }
+  },
+  "KE29": {
+    "player_id": "KE29",
+    "collected_at": "2025-07-07 08:36:28",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "KE29",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 39,
+        "BreakPointsOpportunities": 279,
+        "FirstServeReturnPointsWonPercentage": 27,
+        "ReturnGamesPlayed": 494,
+        "ReturnGamesWonPercentage": 22,
+        "ReturnPointsWonPercentage": 37,
+        "SecondServeReturnPointsWonPercentage": 53,
+        "TotalPointsWonPercentage": 51
+      },
+      "ServiceRecordStats": {
+        "Aces": 310,
+        "BreakPointsFaced": 223,
+        "BreakPointsSavedPercentage": 61,
+        "DoubleFaults": 63,
+        "FirstServePercentage": 64,
+        "FirstServePointsWonPercentage": 74,
+        "SecondServePointsWonPercentage": 53,
+        "ServiceGamesPlayed": 492,
+        "ServiceGamesWonPercentage": 82,
+        "ServicePointsWonPercentage": 67
+      },
+      "Surface": "Hard"
+    }
+  },
+  "L0BV": {
+    "player_id": "L0BV",
+    "collected_at": "2025-07-07 08:36:30",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "L0BV",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 35,
+        "BreakPointsOpportunities": 247,
+        "FirstServeReturnPointsWonPercentage": 28,
+        "ReturnGamesPlayed": 478,
+        "ReturnGamesWonPercentage": 18,
+        "ReturnPointsWonPercentage": 35,
+        "SecondServeReturnPointsWonPercentage": 46,
+        "TotalPointsWonPercentage": 50
+      },
+      "ServiceRecordStats": {
+        "Aces": 331,
+        "BreakPointsFaced": 245,
+        "BreakPointsSavedPercentage": 68,
+        "DoubleFaults": 110,
+        "FirstServePercentage": 60,
+        "FirstServePointsWonPercentage": 75,
+        "SecondServePointsWonPercentage": 52,
+        "ServiceGamesPlayed": 474,
+        "ServiceGamesWonPercentage": 84,
+        "ServicePointsWonPercentage": 66
+      },
+      "Surface": "Hard"
+    }
+  },
+  "GJ37": {
+    "player_id": "GJ37",
+    "collected_at": "2025-07-07 08:36:31",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "GJ37",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 38,
+        "BreakPointsOpportunities": 163,
+        "FirstServeReturnPointsWonPercentage": 24,
+        "ReturnGamesPlayed": 403,
+        "ReturnGamesWonPercentage": 15,
+        "ReturnPointsWonPercentage": 32,
+        "SecondServeReturnPointsWonPercentage": 46,
+        "TotalPointsWonPercentage": 50
+      },
+      "ServiceRecordStats": {
+        "Aces": 303,
+        "BreakPointsFaced": 169,
+        "BreakPointsSavedPercentage": 64,
+        "DoubleFaults": 108,
+        "FirstServePercentage": 65,
+        "FirstServePointsWonPercentage": 76,
+        "SecondServePointsWonPercentage": 51,
+        "ServiceGamesPlayed": 400,
+        "ServiceGamesWonPercentage": 85,
+        "ServicePointsWonPercentage": 67
+      },
+      "Surface": "Hard"
+    }
+  },
+  "RC91": {
+    "player_id": "RC91",
+    "collected_at": "2025-07-07 08:36:33",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "RC91",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 31,
+        "BreakPointsOpportunities": 143,
+        "FirstServeReturnPointsWonPercentage": 24,
+        "ReturnGamesPlayed": 288,
+        "ReturnGamesWonPercentage": 16,
+        "ReturnPointsWonPercentage": 33,
+        "SecondServeReturnPointsWonPercentage": 47,
+        "TotalPointsWonPercentage": 49
+      },
+      "ServiceRecordStats": {
+        "Aces": 246,
+        "BreakPointsFaced": 145,
+        "BreakPointsSavedPercentage": 65,
+        "DoubleFaults": 51,
+        "FirstServePercentage": 63,
+        "FirstServePointsWonPercentage": 75,
+        "SecondServePointsWonPercentage": 50,
+        "ServiceGamesPlayed": 284,
+        "ServiceGamesWonPercentage": 82,
+        "ServicePointsWonPercentage": 66
+      },
+      "Surface": "Hard"
+    }
+  },
+  "R0DG": {
+    "player_id": "R0DG",
+    "collected_at": "2025-07-07 08:36:34",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "R0DG",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 38,
+        "BreakPointsOpportunities": 276,
+        "FirstServeReturnPointsWonPercentage": 26,
+        "ReturnGamesPlayed": 540,
+        "ReturnGamesWonPercentage": 19,
+        "ReturnPointsWonPercentage": 35,
+        "SecondServeReturnPointsWonPercentage": 50,
+        "TotalPointsWonPercentage": 51
+      },
+      "ServiceRecordStats": {
+        "Aces": 319,
+        "BreakPointsFaced": 226,
+        "BreakPointsSavedPercentage": 65,
+        "DoubleFaults": 128,
+        "FirstServePercentage": 60,
+        "FirstServePointsWonPercentage": 75,
+        "SecondServePointsWonPercentage": 56,
+        "ServiceGamesPlayed": 543,
+        "ServiceGamesWonPercentage": 85,
+        "ServicePointsWonPercentage": 67
+      },
+      "Surface": "Hard"
+    }
+  },
+  "D0CO": {
+    "player_id": "D0CO",
+    "collected_at": "2025-07-07 08:36:36",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "D0CO",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 47,
+        "BreakPointsOpportunities": 270,
+        "FirstServeReturnPointsWonPercentage": 32,
+        "ReturnGamesPlayed": 455,
+        "ReturnGamesWonPercentage": 28,
+        "ReturnPointsWonPercentage": 40,
+        "SecondServeReturnPointsWonPercentage": 51,
+        "TotalPointsWonPercentage": 53
+      },
+      "ServiceRecordStats": {
+        "Aces": 299,
+        "BreakPointsFaced": 211,
+        "BreakPointsSavedPercentage": 66,
+        "DoubleFaults": 127,
+        "FirstServePercentage": 58,
+        "FirstServePointsWonPercentage": 77,
+        "SecondServePointsWonPercentage": 50,
+        "ServiceGamesPlayed": 454,
+        "ServiceGamesWonPercentage": 84,
+        "ServicePointsWonPercentage": 66
+      },
+      "Surface": "Hard"
+    }
+  },
+  "TD51": {
+    "player_id": "TD51",
+    "collected_at": "2025-07-07 08:36:37",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "TD51",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 37,
+        "BreakPointsOpportunities": 278,
+        "FirstServeReturnPointsWonPercentage": 27,
+        "ReturnGamesPlayed": 534,
+        "ReturnGamesWonPercentage": 19,
+        "ReturnPointsWonPercentage": 36,
+        "SecondServeReturnPointsWonPercentage": 50,
+        "TotalPointsWonPercentage": 51
+      },
+      "ServiceRecordStats": {
+        "Aces": 355,
+        "BreakPointsFaced": 248,
+        "BreakPointsSavedPercentage": 63,
+        "DoubleFaults": 100,
+        "FirstServePercentage": 58,
+        "FirstServePointsWonPercentage": 75,
+        "SecondServePointsWonPercentage": 53,
+        "ServiceGamesPlayed": 532,
+        "ServiceGamesWonPercentage": 83,
+        "ServicePointsWonPercentage": 66
+      },
+      "Surface": "Hard"
+    }
+  },
+  "J551": {
+    "player_id": "J551",
+    "collected_at": "2025-07-07 08:36:38",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "J551",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 34,
+        "BreakPointsOpportunities": 112,
+        "FirstServeReturnPointsWonPercentage": 24,
+        "ReturnGamesPlayed": 308,
+        "ReturnGamesWonPercentage": 12,
+        "ReturnPointsWonPercentage": 32,
+        "SecondServeReturnPointsWonPercentage": 46,
+        "TotalPointsWonPercentage": 49
+      },
+      "ServiceRecordStats": {
+        "Aces": 230,
+        "BreakPointsFaced": 140,
+        "BreakPointsSavedPercentage": 62,
+        "DoubleFaults": 64,
+        "FirstServePercentage": 63,
+        "FirstServePointsWonPercentage": 77,
+        "SecondServePointsWonPercentage": 48,
+        "ServiceGamesPlayed": 306,
+        "ServiceGamesWonPercentage": 83,
+        "ServicePointsWonPercentage": 67
+      },
+      "Surface": "Hard"
+    }
+  },
+  "Z371": {
+    "player_id": "Z371",
+    "collected_at": "2025-07-07 08:36:40",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "Z371",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 32,
+        "BreakPointsOpportunities": 140,
+        "FirstServeReturnPointsWonPercentage": 24,
+        "ReturnGamesPlayed": 304,
+        "ReturnGamesWonPercentage": 15,
+        "ReturnPointsWonPercentage": 33,
+        "SecondServeReturnPointsWonPercentage": 47,
+        "TotalPointsWonPercentage": 49
+      },
+      "ServiceRecordStats": {
+        "Aces": 180,
+        "BreakPointsFaced": 120,
+        "BreakPointsSavedPercentage": 53,
+        "DoubleFaults": 48,
+        "FirstServePercentage": 64,
+        "FirstServePointsWonPercentage": 72,
+        "SecondServePointsWonPercentage": 52,
+        "ServiceGamesPlayed": 302,
+        "ServiceGamesWonPercentage": 81,
+        "ServicePointsWonPercentage": 65
+      },
+      "Surface": "Hard"
+    }
+  },
+  "TE30": {
+    "player_id": "TE30",
+    "collected_at": "2025-07-07 08:36:41",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "TE30",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 39,
+        "BreakPointsOpportunities": 135,
+        "FirstServeReturnPointsWonPercentage": 26,
+        "ReturnGamesPlayed": 282,
+        "ReturnGamesWonPercentage": 18,
+        "ReturnPointsWonPercentage": 35,
+        "SecondServeReturnPointsWonPercentage": 51,
+        "TotalPointsWonPercentage": 50
+      },
+      "ServiceRecordStats": {
+        "Aces": 197,
+        "BreakPointsFaced": 137,
+        "BreakPointsSavedPercentage": 62,
+        "DoubleFaults": 65,
+        "FirstServePercentage": 63,
+        "FirstServePointsWonPercentage": 75,
+        "SecondServePointsWonPercentage": 49,
+        "ServiceGamesPlayed": 285,
+        "ServiceGamesWonPercentage": 82,
+        "ServicePointsWonPercentage": 65
+      },
+      "Surface": "Hard"
+    }
+  },
+  "SL28": {
+    "player_id": "SL28",
+    "collected_at": "2025-07-07 08:36:43",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "SL28",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 33,
+        "BreakPointsOpportunities": 133,
+        "FirstServeReturnPointsWonPercentage": 26,
+        "ReturnGamesPlayed": 284,
+        "ReturnGamesWonPercentage": 15,
+        "ReturnPointsWonPercentage": 35,
+        "SecondServeReturnPointsWonPercentage": 49,
+        "TotalPointsWonPercentage": 50
+      },
+      "ServiceRecordStats": {
+        "Aces": 208,
+        "BreakPointsFaced": 163,
+        "BreakPointsSavedPercentage": 68,
+        "DoubleFaults": 88,
+        "FirstServePercentage": 59,
+        "FirstServePointsWonPercentage": 76,
+        "SecondServePointsWonPercentage": 46,
+        "ServiceGamesPlayed": 283,
+        "ServiceGamesWonPercentage": 82,
+        "ServicePointsWonPercentage": 64
+      },
+      "Surface": "Hard"
+    }
+  },
+  "AG37": {
+    "player_id": "AG37",
+    "collected_at": "2025-07-07 08:36:44",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "AG37",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 38,
+        "BreakPointsOpportunities": 151,
+        "FirstServeReturnPointsWonPercentage": 29,
+        "ReturnGamesPlayed": 312,
+        "ReturnGamesWonPercentage": 19,
+        "ReturnPointsWonPercentage": 36,
+        "SecondServeReturnPointsWonPercentage": 47,
+        "TotalPointsWonPercentage": 50
+      },
+      "ServiceRecordStats": {
+        "Aces": 230,
+        "BreakPointsFaced": 151,
+        "BreakPointsSavedPercentage": 62,
+        "DoubleFaults": 124,
+        "FirstServePercentage": 62,
+        "FirstServePointsWonPercentage": 73,
+        "SecondServePointsWonPercentage": 51,
+        "ServiceGamesPlayed": 316,
+        "ServiceGamesWonPercentage": 82,
+        "ServicePointsWonPercentage": 65
+      },
+      "Surface": "Hard"
+    }
+  },
+  "K0AH": {
+    "player_id": "K0AH",
+    "collected_at": "2025-07-07 08:36:46",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "K0AH",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 42,
+        "BreakPointsOpportunities": 175,
+        "FirstServeReturnPointsWonPercentage": 28,
+        "ReturnGamesPlayed": 305,
+        "ReturnGamesWonPercentage": 24,
+        "ReturnPointsWonPercentage": 38,
+        "SecondServeReturnPointsWonPercentage": 54,
+        "TotalPointsWonPercentage": 51
+      },
+      "ServiceRecordStats": {
+        "Aces": 222,
+        "BreakPointsFaced": 149,
+        "BreakPointsSavedPercentage": 62,
+        "DoubleFaults": 52,
+        "FirstServePercentage": 60,
+        "FirstServePointsWonPercentage": 75,
+        "SecondServePointsWonPercentage": 52,
+        "ServiceGamesPlayed": 308,
+        "ServiceGamesWonPercentage": 82,
+        "ServicePointsWonPercentage": 66
+      },
+      "Surface": "Hard"
+    }
+  },
+  "EA24": {
+    "player_id": "EA24",
+    "collected_at": "2025-07-07 08:36:47",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "EA24",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 34,
+        "BreakPointsOpportunities": 175,
+        "FirstServeReturnPointsWonPercentage": 24,
+        "ReturnGamesPlayed": 340,
+        "ReturnGamesWonPercentage": 17,
+        "ReturnPointsWonPercentage": 34,
+        "SecondServeReturnPointsWonPercentage": 51,
+        "TotalPointsWonPercentage": 50
+      },
+      "ServiceRecordStats": {
+        "Aces": 219,
+        "BreakPointsFaced": 167,
+        "BreakPointsSavedPercentage": 64,
+        "DoubleFaults": 47,
+        "FirstServePercentage": 65,
+        "FirstServePointsWonPercentage": 73,
+        "SecondServePointsWonPercentage": 48,
+        "ServiceGamesPlayed": 337,
+        "ServiceGamesWonPercentage": 82,
+        "ServicePointsWonPercentage": 65
+      },
+      "Surface": "Hard"
+    }
+  },
+  "N771": {
+    "player_id": "N771",
+    "collected_at": "2025-07-07 08:36:48",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "N771",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 36,
+        "BreakPointsOpportunities": 152,
+        "FirstServeReturnPointsWonPercentage": 29,
+        "ReturnGamesPlayed": 257,
+        "ReturnGamesWonPercentage": 21,
+        "ReturnPointsWonPercentage": 36,
+        "SecondServeReturnPointsWonPercentage": 49,
+        "TotalPointsWonPercentage": 51
+      },
+      "ServiceRecordStats": {
+        "Aces": 124,
+        "BreakPointsFaced": 116,
+        "BreakPointsSavedPercentage": 66,
+        "DoubleFaults": 38,
+        "FirstServePercentage": 65,
+        "FirstServePointsWonPercentage": 72,
+        "SecondServePointsWonPercentage": 55,
+        "ServiceGamesPlayed": 262,
+        "ServiceGamesWonPercentage": 85,
+        "ServicePointsWonPercentage": 66
+      },
+      "Surface": "Hard"
+    }
+  },
+  "SU55": {
+    "player_id": "SU55",
+    "collected_at": "2025-07-07 08:36:50",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "SU55",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 35,
+        "BreakPointsOpportunities": 199,
+        "FirstServeReturnPointsWonPercentage": 31,
+        "ReturnGamesPlayed": 324,
+        "ReturnGamesWonPercentage": 21,
+        "ReturnPointsWonPercentage": 37,
+        "SecondServeReturnPointsWonPercentage": 48,
+        "TotalPointsWonPercentage": 52
+      },
+      "ServiceRecordStats": {
+        "Aces": 234,
+        "BreakPointsFaced": 115,
+        "BreakPointsSavedPercentage": 63,
+        "DoubleFaults": 152,
+        "FirstServePercentage": 61,
+        "FirstServePointsWonPercentage": 78,
+        "SecondServePointsWonPercentage": 50,
+        "ServiceGamesPlayed": 323,
+        "ServiceGamesWonPercentage": 87,
+        "ServicePointsWonPercentage": 67
+      },
+      "Surface": "Hard"
+    }
+  },
+  "PL56": {
+    "player_id": "PL56",
+    "collected_at": "2025-07-07 08:36:51",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "PL56",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 41,
+        "BreakPointsOpportunities": 305,
+        "FirstServeReturnPointsWonPercentage": 33,
+        "ReturnGamesPlayed": 447,
+        "ReturnGamesWonPercentage": 28,
+        "ReturnPointsWonPercentage": 40,
+        "SecondServeReturnPointsWonPercentage": 52,
+        "TotalPointsWonPercentage": 52
+      },
+      "ServiceRecordStats": {
+        "Aces": 221,
+        "BreakPointsFaced": 236,
+        "BreakPointsSavedPercentage": 66,
+        "DoubleFaults": 69,
+        "FirstServePercentage": 60,
+        "FirstServePointsWonPercentage": 72,
+        "SecondServePointsWonPercentage": 54,
+        "ServiceGamesPlayed": 452,
+        "ServiceGamesWonPercentage": 82,
+        "ServicePointsWonPercentage": 65
+      },
+      "Surface": "Hard"
+    }
+  },
+  "K0AZ": {
+    "player_id": "K0AZ",
+    "collected_at": "2025-07-07 08:36:53",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "K0AZ",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 34,
+        "BreakPointsOpportunities": 114,
+        "FirstServeReturnPointsWonPercentage": 24,
+        "ReturnGamesPlayed": 287,
+        "ReturnGamesWonPercentage": 14,
+        "ReturnPointsWonPercentage": 32,
+        "SecondServeReturnPointsWonPercentage": 44,
+        "TotalPointsWonPercentage": 49
+      },
+      "ServiceRecordStats": {
+        "Aces": 241,
+        "BreakPointsFaced": 165,
+        "BreakPointsSavedPercentage": 69,
+        "DoubleFaults": 90,
+        "FirstServePercentage": 59,
+        "FirstServePointsWonPercentage": 76,
+        "SecondServePointsWonPercentage": 48,
+        "ServiceGamesPlayed": 283,
+        "ServiceGamesWonPercentage": 82,
+        "ServicePointsWonPercentage": 65
+      },
+      "Surface": "Hard"
+    }
+  },
+  "MC65": {
+    "player_id": "MC65",
+    "collected_at": "2025-07-07 08:36:54",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "MC65",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 38,
+        "BreakPointsOpportunities": 212,
+        "FirstServeReturnPointsWonPercentage": 31,
+        "ReturnGamesPlayed": 387,
+        "ReturnGamesWonPercentage": 21,
+        "ReturnPointsWonPercentage": 36,
+        "SecondServeReturnPointsWonPercentage": 46,
+        "TotalPointsWonPercentage": 51
+      },
+      "ServiceRecordStats": {
+        "Aces": 273,
+        "BreakPointsFaced": 194,
+        "BreakPointsSavedPercentage": 65,
+        "DoubleFaults": 134,
+        "FirstServePercentage": 60,
+        "FirstServePointsWonPercentage": 74,
+        "SecondServePointsWonPercentage": 52,
+        "ServiceGamesPlayed": 392,
+        "ServiceGamesWonPercentage": 83,
+        "ServicePointsWonPercentage": 65
+      },
+      "Surface": "Hard"
+    }
+  },
+  "TC61": {
+    "player_id": "TC61",
+    "collected_at": "2025-07-07 08:36:56",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "TC61",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 39,
+        "BreakPointsOpportunities": 293,
+        "FirstServeReturnPointsWonPercentage": 30,
+        "ReturnGamesPlayed": 516,
+        "ReturnGamesWonPercentage": 22,
+        "ReturnPointsWonPercentage": 38,
+        "SecondServeReturnPointsWonPercentage": 50,
+        "TotalPointsWonPercentage": 51
+      },
+      "ServiceRecordStats": {
+        "Aces": 311,
+        "BreakPointsFaced": 260,
+        "BreakPointsSavedPercentage": 64,
+        "DoubleFaults": 45,
+        "FirstServePercentage": 60,
+        "FirstServePointsWonPercentage": 74,
+        "SecondServePointsWonPercentage": 54,
+        "ServiceGamesPlayed": 514,
+        "ServiceGamesWonPercentage": 82,
+        "ServicePointsWonPercentage": 66
+      },
+      "Surface": "Hard"
+    }
+  },
+  "F0F1": {
+    "player_id": "F0F1",
+    "collected_at": "2025-07-07 08:36:57",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "F0F1",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 36,
+        "BreakPointsOpportunities": 191,
+        "FirstServeReturnPointsWonPercentage": 27,
+        "ReturnGamesPlayed": 367,
+        "ReturnGamesWonPercentage": 19,
+        "ReturnPointsWonPercentage": 36,
+        "SecondServeReturnPointsWonPercentage": 50,
+        "TotalPointsWonPercentage": 51
+      },
+      "ServiceRecordStats": {
+        "Aces": 223,
+        "BreakPointsFaced": 147,
+        "BreakPointsSavedPercentage": 64,
+        "DoubleFaults": 98,
+        "FirstServePercentage": 61,
+        "FirstServePointsWonPercentage": 78,
+        "SecondServePointsWonPercentage": 50,
+        "ServiceGamesPlayed": 372,
+        "ServiceGamesWonPercentage": 86,
+        "ServicePointsWonPercentage": 67
+      },
+      "Surface": "Hard"
+    }
+  },
+  "M0EJ": {
+    "player_id": "M0EJ",
+    "collected_at": "2025-07-07 08:36:59",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "M0EJ",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 33,
+        "BreakPointsOpportunities": 227,
+        "FirstServeReturnPointsWonPercentage": 26,
+        "ReturnGamesPlayed": 392,
+        "ReturnGamesWonPercentage": 19,
+        "ReturnPointsWonPercentage": 36,
+        "SecondServeReturnPointsWonPercentage": 52,
+        "TotalPointsWonPercentage": 49
+      },
+      "ServiceRecordStats": {
+        "Aces": 121,
+        "BreakPointsFaced": 207,
+        "BreakPointsSavedPercentage": 56,
+        "DoubleFaults": 64,
+        "FirstServePercentage": 64,
+        "FirstServePointsWonPercentage": 70,
+        "SecondServePointsWonPercentage": 53,
+        "ServiceGamesPlayed": 398,
+        "ServiceGamesWonPercentage": 77,
+        "ServicePointsWonPercentage": 63
+      },
+      "Surface": "Hard"
+    }
+  },
+  "M0QI": {
+    "player_id": "M0QI",
+    "collected_at": "2025-07-07 08:37:00",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "M0QI",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 43,
+        "BreakPointsOpportunities": 290,
+        "FirstServeReturnPointsWonPercentage": 30,
+        "ReturnGamesPlayed": 486,
+        "ReturnGamesWonPercentage": 26,
+        "ReturnPointsWonPercentage": 38,
+        "SecondServeReturnPointsWonPercentage": 51,
+        "TotalPointsWonPercentage": 51
+      },
+      "ServiceRecordStats": {
+        "Aces": 201,
+        "BreakPointsFaced": 255,
+        "BreakPointsSavedPercentage": 63,
+        "DoubleFaults": 110,
+        "FirstServePercentage": 66,
+        "FirstServePointsWonPercentage": 70,
+        "SecondServePointsWonPercentage": 51,
+        "ServiceGamesPlayed": 496,
+        "ServiceGamesWonPercentage": 81,
+        "ServicePointsWonPercentage": 64
+      },
+      "Surface": "Hard"
+    }
+  },
+  "CG80": {
+    "player_id": "CG80",
+    "collected_at": "2025-07-07 08:37:01",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "CG80",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 36,
+        "BreakPointsOpportunities": 133,
+        "FirstServeReturnPointsWonPercentage": 28,
+        "ReturnGamesPlayed": 264,
+        "ReturnGamesWonPercentage": 18,
+        "ReturnPointsWonPercentage": 36,
+        "SecondServeReturnPointsWonPercentage": 47,
+        "TotalPointsWonPercentage": 50
+      },
+      "ServiceRecordStats": {
+        "Aces": 161,
+        "BreakPointsFaced": 129,
+        "BreakPointsSavedPercentage": 64,
+        "DoubleFaults": 51,
+        "FirstServePercentage": 62,
+        "FirstServePointsWonPercentage": 73,
+        "SecondServePointsWonPercentage": 52,
+        "ServiceGamesPlayed": 260,
+        "ServiceGamesWonPercentage": 82,
+        "ServicePointsWonPercentage": 65
+      },
+      "Surface": "Hard"
+    }
+  },
+  "V832": {
+    "player_id": "V832",
+    "collected_at": "2025-07-07 08:37:03",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "V832",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 35,
+        "BreakPointsOpportunities": 125,
+        "FirstServeReturnPointsWonPercentage": 25,
+        "ReturnGamesPlayed": 294,
+        "ReturnGamesWonPercentage": 15,
+        "ReturnPointsWonPercentage": 33,
+        "SecondServeReturnPointsWonPercentage": 46,
+        "TotalPointsWonPercentage": 49
+      },
+      "ServiceRecordStats": {
+        "Aces": 234,
+        "BreakPointsFaced": 149,
+        "BreakPointsSavedPercentage": 58,
+        "DoubleFaults": 45,
+        "FirstServePercentage": 58,
+        "FirstServePointsWonPercentage": 74,
+        "SecondServePointsWonPercentage": 50,
+        "ServiceGamesPlayed": 291,
+        "ServiceGamesWonPercentage": 78,
+        "ServicePointsWonPercentage": 64
+      },
+      "Surface": "Hard"
+    }
+  },
+  "GC88": {
+    "player_id": "GC88",
+    "collected_at": "2025-07-07 08:37:05",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "GC88",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 39,
+        "BreakPointsOpportunities": 183,
+        "FirstServeReturnPointsWonPercentage": 29,
+        "ReturnGamesPlayed": 349,
+        "ReturnGamesWonPercentage": 21,
+        "ReturnPointsWonPercentage": 37,
+        "SecondServeReturnPointsWonPercentage": 50,
+        "TotalPointsWonPercentage": 50
+      },
+      "ServiceRecordStats": {
+        "Aces": 134,
+        "BreakPointsFaced": 158,
+        "BreakPointsSavedPercentage": 58,
+        "DoubleFaults": 44,
+        "FirstServePercentage": 61,
+        "FirstServePointsWonPercentage": 73,
+        "SecondServePointsWonPercentage": 51,
+        "ServiceGamesPlayed": 342,
+        "ServiceGamesWonPercentage": 81,
+        "ServicePointsWonPercentage": 65
+      },
+      "Surface": "Hard"
+    }
+  },
+  "O483": {
+    "player_id": "O483",
+    "collected_at": "2025-07-07 08:37:06",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "O483",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 36,
+        "BreakPointsOpportunities": 190,
+        "FirstServeReturnPointsWonPercentage": 25,
+        "ReturnGamesPlayed": 405,
+        "ReturnGamesWonPercentage": 17,
+        "ReturnPointsWonPercentage": 34,
+        "SecondServeReturnPointsWonPercentage": 50,
+        "TotalPointsWonPercentage": 50
+      },
+      "ServiceRecordStats": {
+        "Aces": 279,
+        "BreakPointsFaced": 207,
+        "BreakPointsSavedPercentage": 67,
+        "DoubleFaults": 66,
+        "FirstServePercentage": 59,
+        "FirstServePointsWonPercentage": 75,
+        "SecondServePointsWonPercentage": 50,
+        "ServiceGamesPlayed": 405,
+        "ServiceGamesWonPercentage": 83,
+        "ServicePointsWonPercentage": 65
+      },
+      "Surface": "Hard"
+    }
+  },
+  "DH50": {
+    "player_id": "DH50",
+    "collected_at": "2025-07-07 08:37:07",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "DH50",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 40,
+        "BreakPointsOpportunities": 202,
+        "FirstServeReturnPointsWonPercentage": 28,
+        "ReturnGamesPlayed": 358,
+        "ReturnGamesWonPercentage": 23,
+        "ReturnPointsWonPercentage": 37,
+        "SecondServeReturnPointsWonPercentage": 50,
+        "TotalPointsWonPercentage": 50
+      },
+      "ServiceRecordStats": {
+        "Aces": 156,
+        "BreakPointsFaced": 197,
+        "BreakPointsSavedPercentage": 63,
+        "DoubleFaults": 75,
+        "FirstServePercentage": 66,
+        "FirstServePointsWonPercentage": 69,
+        "SecondServePointsWonPercentage": 52,
+        "ServiceGamesPlayed": 362,
+        "ServiceGamesWonPercentage": 80,
+        "ServicePointsWonPercentage": 63
+      },
+      "Surface": "Hard"
+    }
+  },
+  "L987": {
+    "player_id": "L987",
+    "collected_at": "2025-07-07 08:37:09",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "L987",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 34,
+        "BreakPointsOpportunities": 67,
+        "FirstServeReturnPointsWonPercentage": 25,
+        "ReturnGamesPlayed": 135,
+        "ReturnGamesWonPercentage": 17,
+        "ReturnPointsWonPercentage": 34,
+        "SecondServeReturnPointsWonPercentage": 49,
+        "TotalPointsWonPercentage": 49
+      },
+      "ServiceRecordStats": {
+        "Aces": 34,
+        "BreakPointsFaced": 67,
+        "BreakPointsSavedPercentage": 63,
+        "DoubleFaults": 9,
+        "FirstServePercentage": 70,
+        "FirstServePointsWonPercentage": 70,
+        "SecondServePointsWonPercentage": 50,
+        "ServiceGamesPlayed": 132,
+        "ServiceGamesWonPercentage": 81,
+        "ServicePointsWonPercentage": 64
+      },
+      "Surface": "Hard"
+    }
+  },
+  "H997": {
+    "player_id": "H997",
+    "collected_at": "2025-07-07 08:37:10",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "H997",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 43,
+        "BreakPointsOpportunities": 60,
+        "FirstServeReturnPointsWonPercentage": 27,
+        "ReturnGamesPlayed": 164,
+        "ReturnGamesWonPercentage": 16,
+        "ReturnPointsWonPercentage": 34,
+        "SecondServeReturnPointsWonPercentage": 46,
+        "TotalPointsWonPercentage": 49
+      },
+      "ServiceRecordStats": {
+        "Aces": 91,
+        "BreakPointsFaced": 81,
+        "BreakPointsSavedPercentage": 64,
+        "DoubleFaults": 26,
+        "FirstServePercentage": 65,
+        "FirstServePointsWonPercentage": 70,
+        "SecondServePointsWonPercentage": 55,
+        "ServiceGamesPlayed": 161,
+        "ServiceGamesWonPercentage": 82,
+        "ServicePointsWonPercentage": 65
+      },
+      "Surface": "Hard"
+    }
+  },
+  "BD06": {
+    "player_id": "BD06",
+    "collected_at": "2025-07-07 08:37:12",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "BD06",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 40,
+        "BreakPointsOpportunities": 124,
+        "FirstServeReturnPointsWonPercentage": 25,
+        "ReturnGamesPlayed": 261,
+        "ReturnGamesWonPercentage": 19,
+        "ReturnPointsWonPercentage": 36,
+        "SecondServeReturnPointsWonPercentage": 54,
+        "TotalPointsWonPercentage": 50
+      },
+      "ServiceRecordStats": {
+        "Aces": 56,
+        "BreakPointsFaced": 163,
+        "BreakPointsSavedPercentage": 64,
+        "DoubleFaults": 54,
+        "FirstServePercentage": 68,
+        "FirstServePointsWonPercentage": 69,
+        "SecondServePointsWonPercentage": 50,
+        "ServiceGamesPlayed": 265,
+        "ServiceGamesWonPercentage": 78,
+        "ServicePointsWonPercentage": 63
+      },
+      "Surface": "Hard"
+    }
+  },
+  "BU13": {
+    "player_id": "BU13",
+    "collected_at": "2025-07-07 08:37:13",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "BU13",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 35,
+        "BreakPointsOpportunities": 116,
+        "FirstServeReturnPointsWonPercentage": 27,
+        "ReturnGamesPlayed": 238,
+        "ReturnGamesWonPercentage": 17,
+        "ReturnPointsWonPercentage": 36,
+        "SecondServeReturnPointsWonPercentage": 49,
+        "TotalPointsWonPercentage": 49
+      },
+      "ServiceRecordStats": {
+        "Aces": 111,
+        "BreakPointsFaced": 127,
+        "BreakPointsSavedPercentage": 61,
+        "DoubleFaults": 64,
+        "FirstServePercentage": 60,
+        "FirstServePointsWonPercentage": 71,
+        "SecondServePointsWonPercentage": 52,
+        "ServiceGamesPlayed": 231,
+        "ServiceGamesWonPercentage": 78,
+        "ServicePointsWonPercentage": 63
+      },
+      "Surface": "Hard"
+    }
+  },
+  "M0NI": {
+    "player_id": "M0NI",
+    "collected_at": "2025-07-07 08:37:15",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "M0NI",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 39,
+        "BreakPointsOpportunities": 174,
+        "FirstServeReturnPointsWonPercentage": 27,
+        "ReturnGamesPlayed": 330,
+        "ReturnGamesWonPercentage": 20,
+        "ReturnPointsWonPercentage": 36,
+        "SecondServeReturnPointsWonPercentage": 51,
+        "TotalPointsWonPercentage": 50
+      },
+      "ServiceRecordStats": {
+        "Aces": 276,
+        "BreakPointsFaced": 174,
+        "BreakPointsSavedPercentage": 66,
+        "DoubleFaults": 93,
+        "FirstServePercentage": 60,
+        "FirstServePointsWonPercentage": 75,
+        "SecondServePointsWonPercentage": 47,
+        "ServiceGamesPlayed": 329,
+        "ServiceGamesWonPercentage": 82,
+        "ServicePointsWonPercentage": 64
+      },
+      "Surface": "Hard"
+    }
+  },
+  "S0RE": {
+    "player_id": "S0RE",
+    "collected_at": "2025-07-07 08:37:16",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "S0RE",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 34,
+        "BreakPointsOpportunities": 275,
+        "FirstServeReturnPointsWonPercentage": 29,
+        "ReturnGamesPlayed": 424,
+        "ReturnGamesWonPercentage": 22,
+        "ReturnPointsWonPercentage": 37,
+        "SecondServeReturnPointsWonPercentage": 51,
+        "TotalPointsWonPercentage": 51
+      },
+      "ServiceRecordStats": {
+        "Aces": 136,
+        "BreakPointsFaced": 227,
+        "BreakPointsSavedPercentage": 62,
+        "DoubleFaults": 85,
+        "FirstServePercentage": 61,
+        "FirstServePointsWonPercentage": 71,
+        "SecondServePointsWonPercentage": 53,
+        "ServiceGamesPlayed": 424,
+        "ServiceGamesWonPercentage": 80,
+        "ServicePointsWonPercentage": 64
+      },
+      "Surface": "Hard"
+    }
+  },
+  "SX50": {
+    "player_id": "SX50",
+    "collected_at": "2025-07-07 08:37:17",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "SX50",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 35,
+        "BreakPointsOpportunities": 192,
+        "FirstServeReturnPointsWonPercentage": 29,
+        "ReturnGamesPlayed": 342,
+        "ReturnGamesWonPercentage": 20,
+        "ReturnPointsWonPercentage": 37,
+        "SecondServeReturnPointsWonPercentage": 50,
+        "TotalPointsWonPercentage": 50
+      },
+      "ServiceRecordStats": {
+        "Aces": 215,
+        "BreakPointsFaced": 179,
+        "BreakPointsSavedPercentage": 62,
+        "DoubleFaults": 85,
+        "FirstServePercentage": 60,
+        "FirstServePointsWonPercentage": 75,
+        "SecondServePointsWonPercentage": 50,
+        "ServiceGamesPlayed": 344,
+        "ServiceGamesWonPercentage": 80,
+        "ServicePointsWonPercentage": 65
+      },
+      "Surface": "Hard"
+    }
+  },
+  "KI95": {
+    "player_id": "KI95",
+    "collected_at": "2025-07-07 08:37:19",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "KI95",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 37,
+        "BreakPointsOpportunities": 230,
+        "FirstServeReturnPointsWonPercentage": 26,
+        "ReturnGamesPlayed": 437,
+        "ReturnGamesWonPercentage": 19,
+        "ReturnPointsWonPercentage": 36,
+        "SecondServeReturnPointsWonPercentage": 52,
+        "TotalPointsWonPercentage": 49
+      },
+      "ServiceRecordStats": {
+        "Aces": 147,
+        "BreakPointsFaced": 204,
+        "BreakPointsSavedPercentage": 54,
+        "DoubleFaults": 79,
+        "FirstServePercentage": 61,
+        "FirstServePointsWonPercentage": 70,
+        "SecondServePointsWonPercentage": 53,
+        "ServiceGamesPlayed": 434,
+        "ServiceGamesWonPercentage": 78,
+        "ServicePointsWonPercentage": 64
+      },
+      "Surface": "Hard"
+    }
+  },
+  "PH71": {
+    "player_id": "PH71",
+    "collected_at": "2025-07-07 08:37:20",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "PH71",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 33,
+        "BreakPointsOpportunities": 101,
+        "FirstServeReturnPointsWonPercentage": 25,
+        "ReturnGamesPlayed": 262,
+        "ReturnGamesWonPercentage": 13,
+        "ReturnPointsWonPercentage": 32,
+        "SecondServeReturnPointsWonPercentage": 43,
+        "TotalPointsWonPercentage": 48
+      },
+      "ServiceRecordStats": {
+        "Aces": 187,
+        "BreakPointsFaced": 142,
+        "BreakPointsSavedPercentage": 60,
+        "DoubleFaults": 59,
+        "FirstServePercentage": 57,
+        "FirstServePointsWonPercentage": 74,
+        "SecondServePointsWonPercentage": 51,
+        "ServiceGamesPlayed": 262,
+        "ServiceGamesWonPercentage": 78,
+        "ServicePointsWonPercentage": 64
+      },
+      "Surface": "Hard"
+    }
+  },
+  "N732": {
+    "player_id": "N732",
+    "collected_at": "2025-07-07 08:37:21",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "N732",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 39,
+        "BreakPointsOpportunities": 143,
+        "FirstServeReturnPointsWonPercentage": 26,
+        "ReturnGamesPlayed": 266,
+        "ReturnGamesWonPercentage": 21,
+        "ReturnPointsWonPercentage": 36,
+        "SecondServeReturnPointsWonPercentage": 52,
+        "TotalPointsWonPercentage": 50
+      },
+      "ServiceRecordStats": {
+        "Aces": 57,
+        "BreakPointsFaced": 133,
+        "BreakPointsSavedPercentage": 59,
+        "DoubleFaults": 26,
+        "FirstServePercentage": 63,
+        "FirstServePointsWonPercentage": 69,
+        "SecondServePointsWonPercentage": 54,
+        "ServiceGamesPlayed": 262,
+        "ServiceGamesWonPercentage": 79,
+        "ServicePointsWonPercentage": 63
+      },
+      "Surface": "Hard"
+    }
+  },
+  "MM58": {
+    "player_id": "MM58",
+    "collected_at": "2025-07-07 08:37:23",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "MM58",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 43,
+        "BreakPointsOpportunities": 376,
+        "FirstServeReturnPointsWonPercentage": 33,
+        "ReturnGamesPlayed": 536,
+        "ReturnGamesWonPercentage": 30,
+        "ReturnPointsWonPercentage": 41,
+        "SecondServeReturnPointsWonPercentage": 54,
+        "TotalPointsWonPercentage": 52
+      },
+      "ServiceRecordStats": {
+        "Aces": 280,
+        "BreakPointsFaced": 282,
+        "BreakPointsSavedPercentage": 62,
+        "DoubleFaults": 204,
+        "FirstServePercentage": 60,
+        "FirstServePointsWonPercentage": 73,
+        "SecondServePointsWonPercentage": 49,
+        "ServiceGamesPlayed": 526,
+        "ServiceGamesWonPercentage": 79,
+        "ServicePointsWonPercentage": 64
+      },
+      "Surface": "Hard"
+    }
+  },
+  "M0FH": {
+    "player_id": "M0FH",
+    "collected_at": "2025-07-07 08:37:24",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "M0FH",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 40,
+        "BreakPointsOpportunities": 228,
+        "FirstServeReturnPointsWonPercentage": 28,
+        "ReturnGamesPlayed": 425,
+        "ReturnGamesWonPercentage": 22,
+        "ReturnPointsWonPercentage": 36,
+        "SecondServeReturnPointsWonPercentage": 49,
+        "TotalPointsWonPercentage": 51
+      },
+      "ServiceRecordStats": {
+        "Aces": 195,
+        "BreakPointsFaced": 205,
+        "BreakPointsSavedPercentage": 64,
+        "DoubleFaults": 100,
+        "FirstServePercentage": 61,
+        "FirstServePointsWonPercentage": 74,
+        "SecondServePointsWonPercentage": 52,
+        "ServiceGamesPlayed": 427,
+        "ServiceGamesWonPercentage": 83,
+        "ServicePointsWonPercentage": 65
+      },
+      "Surface": "Hard"
+    }
+  },
+  "DH58": {
+    "player_id": "DH58",
+    "collected_at": "2025-07-07 08:37:26",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "DH58",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 45,
+        "BreakPointsOpportunities": 329,
+        "FirstServeReturnPointsWonPercentage": 31,
+        "ReturnGamesPlayed": 528,
+        "ReturnGamesWonPercentage": 28,
+        "ReturnPointsWonPercentage": 41,
+        "SecondServeReturnPointsWonPercentage": 55,
+        "TotalPointsWonPercentage": 52
+      },
+      "ServiceRecordStats": {
+        "Aces": 219,
+        "BreakPointsFaced": 236,
+        "BreakPointsSavedPercentage": 62,
+        "DoubleFaults": 113,
+        "FirstServePercentage": 54,
+        "FirstServePointsWonPercentage": 74,
+        "SecondServePointsWonPercentage": 55,
+        "ServiceGamesPlayed": 522,
+        "ServiceGamesWonPercentage": 83,
+        "ServicePointsWonPercentage": 65
+      },
+      "Surface": "Hard"
+    }
+  },
+  "O513": {
+    "player_id": "O513",
+    "collected_at": "2025-07-07 08:37:27",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "O513",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 42,
+        "BreakPointsOpportunities": 59,
+        "FirstServeReturnPointsWonPercentage": 25,
+        "ReturnGamesPlayed": 178,
+        "ReturnGamesWonPercentage": 14,
+        "ReturnPointsWonPercentage": 33,
+        "SecondServeReturnPointsWonPercentage": 46,
+        "TotalPointsWonPercentage": 49
+      },
+      "ServiceRecordStats": {
+        "Aces": 135,
+        "BreakPointsFaced": 78,
+        "BreakPointsSavedPercentage": 63,
+        "DoubleFaults": 35,
+        "FirstServePercentage": 58,
+        "FirstServePointsWonPercentage": 77,
+        "SecondServePointsWonPercentage": 49,
+        "ServiceGamesPlayed": 177,
+        "ServiceGamesWonPercentage": 84,
+        "ServicePointsWonPercentage": 65
+      },
+      "Surface": "Hard"
+    }
+  },
+  "K09F": {
+    "player_id": "K09F",
+    "collected_at": "2025-07-07 08:37:29",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "K09F",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 37,
+        "BreakPointsOpportunities": 126,
+        "FirstServeReturnPointsWonPercentage": 26,
+        "ReturnGamesPlayed": 264,
+        "ReturnGamesWonPercentage": 17,
+        "ReturnPointsWonPercentage": 34,
+        "SecondServeReturnPointsWonPercentage": 48,
+        "TotalPointsWonPercentage": 48
+      },
+      "ServiceRecordStats": {
+        "Aces": 82,
+        "BreakPointsFaced": 172,
+        "BreakPointsSavedPercentage": 66,
+        "DoubleFaults": 61,
+        "FirstServePercentage": 65,
+        "FirstServePointsWonPercentage": 71,
+        "SecondServePointsWonPercentage": 44,
+        "ServiceGamesPlayed": 256,
+        "ServiceGamesWonPercentage": 77,
+        "ServicePointsWonPercentage": 61
+      },
+      "Surface": "Hard"
+    }
+  },
+  "BK92": {
+    "player_id": "BK92",
+    "collected_at": "2025-07-07 08:37:30",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "BK92",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 41,
+        "BreakPointsOpportunities": 176,
+        "FirstServeReturnPointsWonPercentage": 30,
+        "ReturnGamesPlayed": 360,
+        "ReturnGamesWonPercentage": 20,
+        "ReturnPointsWonPercentage": 36,
+        "SecondServeReturnPointsWonPercentage": 46,
+        "TotalPointsWonPercentage": 50
+      },
+      "ServiceRecordStats": {
+        "Aces": 338,
+        "BreakPointsFaced": 208,
+        "BreakPointsSavedPercentage": 62,
+        "DoubleFaults": 203,
+        "FirstServePercentage": 59,
+        "FirstServePointsWonPercentage": 76,
+        "SecondServePointsWonPercentage": 43,
+        "ServiceGamesPlayed": 367,
+        "ServiceGamesWonPercentage": 78,
+        "ServicePointsWonPercentage": 63
+      },
+      "Surface": "Hard"
+    }
+  },
+  "BT72": {
+    "player_id": "BT72",
+    "collected_at": "2025-07-07 08:37:31",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "BT72",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 37,
+        "BreakPointsOpportunities": 198,
+        "FirstServeReturnPointsWonPercentage": 27,
+        "ReturnGamesPlayed": 360,
+        "ReturnGamesWonPercentage": 20,
+        "ReturnPointsWonPercentage": 37,
+        "SecondServeReturnPointsWonPercentage": 54,
+        "TotalPointsWonPercentage": 50
+      },
+      "ServiceRecordStats": {
+        "Aces": 188,
+        "BreakPointsFaced": 194,
+        "BreakPointsSavedPercentage": 57,
+        "DoubleFaults": 92,
+        "FirstServePercentage": 61,
+        "FirstServePointsWonPercentage": 72,
+        "SecondServePointsWonPercentage": 49,
+        "ServiceGamesPlayed": 354,
+        "ServiceGamesWonPercentage": 77,
+        "ServicePointsWonPercentage": 63
+      },
+      "Surface": "Hard"
+    }
+  },
+  "AE14": {
+    "player_id": "AE14",
+    "collected_at": "2025-07-07 08:37:33",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "AE14",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 35,
+        "BreakPointsOpportunities": 72,
+        "FirstServeReturnPointsWonPercentage": 25,
+        "ReturnGamesPlayed": 186,
+        "ReturnGamesWonPercentage": 13,
+        "ReturnPointsWonPercentage": 32,
+        "SecondServeReturnPointsWonPercentage": 43,
+        "TotalPointsWonPercentage": 48
+      },
+      "ServiceRecordStats": {
+        "Aces": 115,
+        "BreakPointsFaced": 103,
+        "BreakPointsSavedPercentage": 63,
+        "DoubleFaults": 41,
+        "FirstServePercentage": 63,
+        "FirstServePointsWonPercentage": 73,
+        "SecondServePointsWonPercentage": 47,
+        "ServiceGamesPlayed": 187,
+        "ServiceGamesWonPercentage": 80,
+        "ServicePointsWonPercentage": 63
+      },
+      "Surface": "Hard"
+    }
+  },
+  "C0E9": {
+    "player_id": "C0E9",
+    "collected_at": "2025-07-07 08:37:34",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "C0E9",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 42,
+        "BreakPointsOpportunities": 231,
+        "FirstServeReturnPointsWonPercentage": 27,
+        "ReturnGamesPlayed": 446,
+        "ReturnGamesWonPercentage": 22,
+        "ReturnPointsWonPercentage": 36,
+        "SecondServeReturnPointsWonPercentage": 50,
+        "TotalPointsWonPercentage": 49
+      },
+      "ServiceRecordStats": {
+        "Aces": 199,
+        "BreakPointsFaced": 295,
+        "BreakPointsSavedPercentage": 65,
+        "DoubleFaults": 129,
+        "FirstServePercentage": 54,
+        "FirstServePointsWonPercentage": 72,
+        "SecondServePointsWonPercentage": 49,
+        "ServiceGamesPlayed": 441,
+        "ServiceGamesWonPercentage": 77,
+        "ServicePointsWonPercentage": 62
+      },
+      "Surface": "Hard"
+    }
+  },
+  "SX91": {
+    "player_id": "SX91",
+    "collected_at": "2025-07-07 08:37:36",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "SX91",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 50,
+        "BreakPointsOpportunities": 66,
+        "FirstServeReturnPointsWonPercentage": 24,
+        "ReturnGamesPlayed": 230,
+        "ReturnGamesWonPercentage": 14,
+        "ReturnPointsWonPercentage": 31,
+        "SecondServeReturnPointsWonPercentage": 44,
+        "TotalPointsWonPercentage": 49
+      },
+      "ServiceRecordStats": {
+        "Aces": 128,
+        "BreakPointsFaced": 127,
+        "BreakPointsSavedPercentage": 65,
+        "DoubleFaults": 51,
+        "FirstServePercentage": 64,
+        "FirstServePointsWonPercentage": 71,
+        "SecondServePointsWonPercentage": 50,
+        "ServiceGamesPlayed": 236,
+        "ServiceGamesWonPercentage": 81,
+        "ServicePointsWonPercentage": 64
+      },
+      "Surface": "Hard"
+    }
+  },
+  "D0FJ": {
+    "player_id": "D0FJ",
+    "collected_at": "2025-07-07 08:37:37",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "D0FJ",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 27,
+        "BreakPointsOpportunities": 62,
+        "FirstServeReturnPointsWonPercentage": 22,
+        "ReturnGamesPlayed": 159,
+        "ReturnGamesWonPercentage": 11,
+        "ReturnPointsWonPercentage": 31,
+        "SecondServeReturnPointsWonPercentage": 46,
+        "TotalPointsWonPercentage": 46
+      },
+      "ServiceRecordStats": {
+        "Aces": 86,
+        "BreakPointsFaced": 96,
+        "BreakPointsSavedPercentage": 57,
+        "DoubleFaults": 42,
+        "FirstServePercentage": 58,
+        "FirstServePointsWonPercentage": 69,
+        "SecondServePointsWonPercentage": 47,
+        "ServiceGamesPlayed": 158,
+        "ServiceGamesWonPercentage": 74,
+        "ServicePointsWonPercentage": 60
+      },
+      "Surface": "Hard"
+    }
+  },
+  "CF59": {
+    "player_id": "CF59",
+    "collected_at": "2025-07-07 08:37:38",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "CF59",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 34,
+        "BreakPointsOpportunities": 150,
+        "FirstServeReturnPointsWonPercentage": 28,
+        "ReturnGamesPlayed": 260,
+        "ReturnGamesWonPercentage": 20,
+        "ReturnPointsWonPercentage": 37,
+        "SecondServeReturnPointsWonPercentage": 52,
+        "TotalPointsWonPercentage": 50
+      },
+      "ServiceRecordStats": {
+        "Aces": 92,
+        "BreakPointsFaced": 151,
+        "BreakPointsSavedPercentage": 61,
+        "DoubleFaults": 56,
+        "FirstServePercentage": 63,
+        "FirstServePointsWonPercentage": 71,
+        "SecondServePointsWonPercentage": 51,
+        "ServiceGamesPlayed": 263,
+        "ServiceGamesWonPercentage": 78,
+        "ServicePointsWonPercentage": 63
+      },
+      "Surface": "Hard"
+    }
+  },
+  "B0BI": {
+    "player_id": "B0BI",
+    "collected_at": "2025-07-07 08:37:40",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "B0BI",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 36,
+        "BreakPointsOpportunities": 112,
+        "FirstServeReturnPointsWonPercentage": 27,
+        "ReturnGamesPlayed": 207,
+        "ReturnGamesWonPercentage": 19,
+        "ReturnPointsWonPercentage": 36,
+        "SecondServeReturnPointsWonPercentage": 50,
+        "TotalPointsWonPercentage": 48
+      },
+      "ServiceRecordStats": {
+        "Aces": 36,
+        "BreakPointsFaced": 151,
+        "BreakPointsSavedPercentage": 58,
+        "DoubleFaults": 36,
+        "FirstServePercentage": 71,
+        "FirstServePointsWonPercentage": 62,
+        "SecondServePointsWonPercentage": 49,
+        "ServiceGamesPlayed": 202,
+        "ServiceGamesWonPercentage": 68,
+        "ServicePointsWonPercentage": 58
+      },
+      "Surface": "Hard"
+    }
+  },
+  "M0CI": {
+    "player_id": "M0CI",
+    "collected_at": "2025-07-07 08:37:41",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "M0CI",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 42,
+        "BreakPointsOpportunities": 218,
+        "FirstServeReturnPointsWonPercentage": 28,
+        "ReturnGamesPlayed": 381,
+        "ReturnGamesWonPercentage": 24,
+        "ReturnPointsWonPercentage": 38,
+        "SecondServeReturnPointsWonPercentage": 52,
+        "TotalPointsWonPercentage": 50
+      },
+      "ServiceRecordStats": {
+        "Aces": 149,
+        "BreakPointsFaced": 220,
+        "BreakPointsSavedPercentage": 57,
+        "DoubleFaults": 88,
+        "FirstServePercentage": 66,
+        "FirstServePointsWonPercentage": 69,
+        "SecondServePointsWonPercentage": 48,
+        "ServiceGamesPlayed": 389,
+        "ServiceGamesWonPercentage": 76,
+        "ServicePointsWonPercentage": 62
+      },
+      "Surface": "Hard"
+    }
+  },
+  "C0AU": {
+    "player_id": "C0AU",
+    "collected_at": "2025-07-07 08:37:42",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "C0AU",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 41,
+        "BreakPointsOpportunities": 138,
+        "FirstServeReturnPointsWonPercentage": 26,
+        "ReturnGamesPlayed": 301,
+        "ReturnGamesWonPercentage": 19,
+        "ReturnPointsWonPercentage": 35,
+        "SecondServeReturnPointsWonPercentage": 50,
+        "TotalPointsWonPercentage": 49
+      },
+      "ServiceRecordStats": {
+        "Aces": 112,
+        "BreakPointsFaced": 175,
+        "BreakPointsSavedPercentage": 62,
+        "DoubleFaults": 88,
+        "FirstServePercentage": 60,
+        "FirstServePointsWonPercentage": 70,
+        "SecondServePointsWonPercentage": 50,
+        "ServiceGamesPlayed": 305,
+        "ServiceGamesWonPercentage": 78,
+        "ServicePointsWonPercentage": 62
+      },
+      "Surface": "Hard"
+    }
+  },
+  "MP20": {
+    "player_id": "MP20",
+    "collected_at": "2025-07-07 08:37:44",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "MP20",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 44,
+        "BreakPointsOpportunities": 134,
+        "FirstServeReturnPointsWonPercentage": 27,
+        "ReturnGamesPlayed": 250,
+        "ReturnGamesWonPercentage": 24,
+        "ReturnPointsWonPercentage": 37,
+        "SecondServeReturnPointsWonPercentage": 53,
+        "TotalPointsWonPercentage": 50
+      },
+      "ServiceRecordStats": {
+        "Aces": 89,
+        "BreakPointsFaced": 144,
+        "BreakPointsSavedPercentage": 58,
+        "DoubleFaults": 39,
+        "FirstServePercentage": 65,
+        "FirstServePointsWonPercentage": 69,
+        "SecondServePointsWonPercentage": 50,
+        "ServiceGamesPlayed": 252,
+        "ServiceGamesWonPercentage": 76,
+        "ServicePointsWonPercentage": 62
+      },
+      "Surface": "Hard"
+    }
+  },
+  "KE73": {
+    "player_id": "KE73",
+    "collected_at": "2025-07-07 08:37:45",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "KE73",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 40,
+        "BreakPointsOpportunities": 105,
+        "FirstServeReturnPointsWonPercentage": 29,
+        "ReturnGamesPlayed": 190,
+        "ReturnGamesWonPercentage": 22,
+        "ReturnPointsWonPercentage": 37,
+        "SecondServeReturnPointsWonPercentage": 51,
+        "TotalPointsWonPercentage": 50
+      },
+      "ServiceRecordStats": {
+        "Aces": 78,
+        "BreakPointsFaced": 106,
+        "BreakPointsSavedPercentage": 60,
+        "DoubleFaults": 44,
+        "FirstServePercentage": 64,
+        "FirstServePointsWonPercentage": 69,
+        "SecondServePointsWonPercentage": 50,
+        "ServiceGamesPlayed": 188,
+        "ServiceGamesWonPercentage": 78,
+        "ServicePointsWonPercentage": 62
+      },
+      "Surface": "Hard"
+    }
+  },
+  "D0CG": {
+    "player_id": "D0CG",
+    "collected_at": "2025-07-07 08:37:47",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "D0CG",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 26,
+        "BreakPointsOpportunities": 57,
+        "FirstServeReturnPointsWonPercentage": 27,
+        "ReturnGamesPlayed": 102,
+        "ReturnGamesWonPercentage": 15,
+        "ReturnPointsWonPercentage": 35,
+        "SecondServeReturnPointsWonPercentage": 47,
+        "TotalPointsWonPercentage": 47
+      },
+      "ServiceRecordStats": {
+        "Aces": 25,
+        "BreakPointsFaced": 68,
+        "BreakPointsSavedPercentage": 56,
+        "DoubleFaults": 33,
+        "FirstServePercentage": 65,
+        "FirstServePointsWonPercentage": 65,
+        "SecondServePointsWonPercentage": 48,
+        "ServiceGamesPlayed": 101,
+        "ServiceGamesWonPercentage": 70,
+        "ServicePointsWonPercentage": 59
+      },
+      "Surface": "Hard"
+    }
+  },
+  "A0FC": {
+    "player_id": "A0FC",
+    "collected_at": "2025-07-07 08:37:48",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "A0FC",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 39,
+        "BreakPointsOpportunities": 225,
+        "FirstServeReturnPointsWonPercentage": 30,
+        "ReturnGamesPlayed": 408,
+        "ReturnGamesWonPercentage": 22,
+        "ReturnPointsWonPercentage": 37,
+        "SecondServeReturnPointsWonPercentage": 48,
+        "TotalPointsWonPercentage": 50
+      },
+      "ServiceRecordStats": {
+        "Aces": 233,
+        "BreakPointsFaced": 225,
+        "BreakPointsSavedPercentage": 58,
+        "DoubleFaults": 103,
+        "FirstServePercentage": 56,
+        "FirstServePointsWonPercentage": 72,
+        "SecondServePointsWonPercentage": 49,
+        "ServiceGamesPlayed": 413,
+        "ServiceGamesWonPercentage": 77,
+        "ServicePointsWonPercentage": 62
+      },
+      "Surface": "Hard"
+    }
+  },
+  "ME82": {
+    "player_id": "ME82",
+    "collected_at": "2025-07-07 08:37:49",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "ME82",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 36,
+        "BreakPointsOpportunities": 235,
+        "FirstServeReturnPointsWonPercentage": 26,
+        "ReturnGamesPlayed": 459,
+        "ReturnGamesWonPercentage": 19,
+        "ReturnPointsWonPercentage": 35,
+        "SecondServeReturnPointsWonPercentage": 49,
+        "TotalPointsWonPercentage": 48
+      },
+      "ServiceRecordStats": {
+        "Aces": 172,
+        "BreakPointsFaced": 266,
+        "BreakPointsSavedPercentage": 59,
+        "DoubleFaults": 87,
+        "FirstServePercentage": 60,
+        "FirstServePointsWonPercentage": 69,
+        "SecondServePointsWonPercentage": 51,
+        "ServiceGamesPlayed": 455,
+        "ServiceGamesWonPercentage": 76,
+        "ServicePointsWonPercentage": 62
+      },
+      "Surface": "Hard"
+    }
+  },
+  "S0H2": {
+    "player_id": "S0H2",
+    "collected_at": "2025-07-07 08:37:51",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "S0H2",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 39,
+        "BreakPointsOpportunities": 179,
+        "FirstServeReturnPointsWonPercentage": 28,
+        "ReturnGamesPlayed": 363,
+        "ReturnGamesWonPercentage": 19,
+        "ReturnPointsWonPercentage": 36,
+        "SecondServeReturnPointsWonPercentage": 50,
+        "TotalPointsWonPercentage": 49
+      },
+      "ServiceRecordStats": {
+        "Aces": 180,
+        "BreakPointsFaced": 211,
+        "BreakPointsSavedPercentage": 58,
+        "DoubleFaults": 87,
+        "FirstServePercentage": 60,
+        "FirstServePointsWonPercentage": 70,
+        "SecondServePointsWonPercentage": 49,
+        "ServiceGamesPlayed": 363,
+        "ServiceGamesWonPercentage": 76,
+        "ServicePointsWonPercentage": 62
+      },
+      "Surface": "Hard"
+    }
+  },
+  "DA81": {
+    "player_id": "DA81",
+    "collected_at": "2025-07-07 08:37:52",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "DA81",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 43,
+        "BreakPointsOpportunities": 97,
+        "FirstServeReturnPointsWonPercentage": 25,
+        "ReturnGamesPlayed": 260,
+        "ReturnGamesWonPercentage": 16,
+        "ReturnPointsWonPercentage": 33,
+        "SecondServeReturnPointsWonPercentage": 46,
+        "TotalPointsWonPercentage": 47
+      },
+      "ServiceRecordStats": {
+        "Aces": 87,
+        "BreakPointsFaced": 156,
+        "BreakPointsSavedPercentage": 57,
+        "DoubleFaults": 45,
+        "FirstServePercentage": 61,
+        "FirstServePointsWonPercentage": 68,
+        "SecondServePointsWonPercentage": 49,
+        "ServiceGamesPlayed": 261,
+        "ServiceGamesWonPercentage": 74,
+        "ServicePointsWonPercentage": 61
+      },
+      "Surface": "Hard"
+    }
+  },
+  "MU94": {
+    "player_id": "MU94",
+    "collected_at": "2025-07-07 08:37:53",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "MU94",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 40,
+        "BreakPointsOpportunities": 87,
+        "FirstServeReturnPointsWonPercentage": 31,
+        "ReturnGamesPlayed": 146,
+        "ReturnGamesWonPercentage": 24,
+        "ReturnPointsWonPercentage": 39,
+        "SecondServeReturnPointsWonPercentage": 53,
+        "TotalPointsWonPercentage": 49
+      },
+      "ServiceRecordStats": {
+        "Aces": 46,
+        "BreakPointsFaced": 99,
+        "BreakPointsSavedPercentage": 60,
+        "DoubleFaults": 43,
+        "FirstServePercentage": 64,
+        "FirstServePointsWonPercentage": 69,
+        "SecondServePointsWonPercentage": 44,
+        "ServiceGamesPlayed": 149,
+        "ServiceGamesWonPercentage": 73,
+        "ServicePointsWonPercentage": 60
+      },
+      "Surface": "Hard"
+    }
+  },
+  "GB88": {
+    "player_id": "GB88",
+    "collected_at": "2025-07-07 08:37:55",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "GB88",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 39,
+        "BreakPointsOpportunities": 206,
+        "FirstServeReturnPointsWonPercentage": 30,
+        "ReturnGamesPlayed": 287,
+        "ReturnGamesWonPercentage": 28,
+        "ReturnPointsWonPercentage": 39,
+        "SecondServeReturnPointsWonPercentage": 52,
+        "TotalPointsWonPercentage": 50
+      },
+      "ServiceRecordStats": {
+        "Aces": 121,
+        "BreakPointsFaced": 192,
+        "BreakPointsSavedPercentage": 61,
+        "DoubleFaults": 78,
+        "FirstServePercentage": 61,
+        "FirstServePointsWonPercentage": 69,
+        "SecondServePointsWonPercentage": 47,
+        "ServiceGamesPlayed": 286,
+        "ServiceGamesWonPercentage": 74,
+        "ServicePointsWonPercentage": 60
+      },
+      "Surface": "Hard"
+    }
+  },
+  "MO44": {
+    "player_id": "MO44",
+    "collected_at": "2025-07-07 08:37:56",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "MO44",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 42,
+        "BreakPointsOpportunities": 78,
+        "FirstServeReturnPointsWonPercentage": 25,
+        "ReturnGamesPlayed": 160,
+        "ReturnGamesWonPercentage": 21,
+        "ReturnPointsWonPercentage": 36,
+        "SecondServeReturnPointsWonPercentage": 54,
+        "TotalPointsWonPercentage": 47
+      },
+      "ServiceRecordStats": {
+        "Aces": 52,
+        "BreakPointsFaced": 103,
+        "BreakPointsSavedPercentage": 51,
+        "DoubleFaults": 59,
+        "FirstServePercentage": 65,
+        "FirstServePointsWonPercentage": 65,
+        "SecondServePointsWonPercentage": 46,
+        "ServiceGamesPlayed": 159,
+        "ServiceGamesWonPercentage": 69,
+        "ServicePointsWonPercentage": 58
+      },
+      "Surface": "Hard"
+    }
+  },
+  "V812": {
+    "player_id": "V812",
+    "collected_at": "2025-07-07 08:37:58",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "V812",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 38,
+        "BreakPointsOpportunities": 124,
+        "FirstServeReturnPointsWonPercentage": 26,
+        "ReturnGamesPlayed": 254,
+        "ReturnGamesWonPercentage": 19,
+        "ReturnPointsWonPercentage": 36,
+        "SecondServeReturnPointsWonPercentage": 51,
+        "TotalPointsWonPercentage": 48
+      },
+      "ServiceRecordStats": {
+        "Aces": 105,
+        "BreakPointsFaced": 155,
+        "BreakPointsSavedPercentage": 59,
+        "DoubleFaults": 74,
+        "FirstServePercentage": 63,
+        "FirstServePointsWonPercentage": 70,
+        "SecondServePointsWonPercentage": 45,
+        "ServiceGamesPlayed": 250,
+        "ServiceGamesWonPercentage": 75,
+        "ServicePointsWonPercentage": 61
+      },
+      "Surface": "Hard"
+    }
+  },
+  "H0BH": {
+    "player_id": "H0BH",
+    "collected_at": "2025-07-07 08:37:59",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "H0BH",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 38,
+        "BreakPointsOpportunities": 154,
+        "FirstServeReturnPointsWonPercentage": 29,
+        "ReturnGamesPlayed": 285,
+        "ReturnGamesWonPercentage": 21,
+        "ReturnPointsWonPercentage": 37,
+        "SecondServeReturnPointsWonPercentage": 50,
+        "TotalPointsWonPercentage": 48
+      },
+      "ServiceRecordStats": {
+        "Aces": 112,
+        "BreakPointsFaced": 192,
+        "BreakPointsSavedPercentage": 61,
+        "DoubleFaults": 71,
+        "FirstServePercentage": 58,
+        "FirstServePointsWonPercentage": 69,
+        "SecondServePointsWonPercentage": 48,
+        "ServiceGamesPlayed": 275,
+        "ServiceGamesWonPercentage": 73,
+        "ServicePointsWonPercentage": 60
+      },
+      "Surface": "Hard"
+    }
+  },
+  "N0BS": {
+    "player_id": "N0BS",
+    "collected_at": "2025-07-07 08:38:00",
+    "api_response": {
+      "Category": "Year",
+      "EventYear": 2024,
+      "PlayerId": "N0BS",
+      "RankDate": "2024-12-02T00:00:00",
+      "ReturnRecordStats": {
+        "BreakPointsConvertedPercentage": 35,
+        "BreakPointsOpportunities": 69,
+        "FirstServeReturnPointsWonPercentage": 26,
+        "ReturnGamesPlayed": 154,
+        "ReturnGamesWonPercentage": 16,
+        "ReturnPointsWonPercentage": 34,
+        "SecondServeReturnPointsWonPercentage": 48,
+        "TotalPointsWonPercentage": 47
+      },
+      "ServiceRecordStats": {
+        "Aces": 54,
+        "BreakPointsFaced": 111,
+        "BreakPointsSavedPercentage": 61,
+        "DoubleFaults": 37,
+        "FirstServePercentage": 57,
+        "FirstServePointsWonPercentage": 68,
+        "SecondServePointsWonPercentage": 49,
+        "ServiceGamesPlayed": 152,
+        "ServiceGamesWonPercentage": 72,
+        "ServicePointsWonPercentage": 60
+      },
+      "Surface": "Hard"
+    }
+  }
+}

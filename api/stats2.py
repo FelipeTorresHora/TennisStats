@@ -27,7 +27,7 @@ def get_top50_rankings():
         
         # Extrair os top 50 jogadores
         ranking_data = data.get('data', [])
-        top50_players = ranking_data[:50]  # Limitar aos top 50
+        top50_players = ranking_data[:100]  # Limitar aos top 50
         
         print(f"✅ {len(top50_players)} jogadores do ranking coletados")
         return top50_players
