@@ -46,13 +46,13 @@ def collect_all_players_data():
     Coleta dados de todos os jogadores do stats.csv e salva em JSON
     """
     # Verificar se o arquivo stats.csv existe
-    if not os.path.exists('dados/stats.csv'):
+    if not os.path.exists('dados/clean/stats.csv'):
         print("❌ Erro: Arquivo stats.csv não encontrado!")
         return
     
     # Ler o arquivo stats.csv
     try:
-        df_original = pd.read_csv('dados/stats.csv')
+        df_original = pd.read_csv('dados/clean/stats.csv')
         print(f"📊 Arquivo stats.csv carregado com {len(df_original)} jogadores")
     except Exception as e:
         print(f"❌ Erro ao ler stats.csv: {e}")
@@ -113,7 +113,7 @@ def collect_all_players_data():
     
     # Salvar os dados em JSON
     if all_players_data:
-        output_filename = 'dados/raw/hard/hard_stats_raw.json'
+        output_filename = 'dados/raw/stats_raw_hard.json'
         with open(output_filename, 'w', encoding='utf-8') as f:
             json.dump(all_players_data, f, indent=2, ensure_ascii=False)
         

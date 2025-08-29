@@ -1,9 +1,8 @@
 import json
 import pandas as pd
-from collections import defaultdict
 
 # Carregar os arquivos
-with open('dados/raw/stats_raw.json', 'r', encoding='utf-8') as f:
+with open('dados/raw/stats_raw_grass.json', 'r', encoding='utf-8') as f:
     stats_raw = json.load(f)
 
 with open('dados/raw/stats2_raw.json', 'r', encoding='utf-8') as f:
@@ -20,7 +19,7 @@ for _, row in stats_csv.iterrows():
 # Inicializar stats_clean
 stats_clean = {}
 
-# Processar stats_raw.json
+# Processar stats_raw_grass.json
 for player_id, player_data in stats_raw.items():
     if player_id not in id_to_name:
         continue
@@ -122,5 +121,5 @@ for player_key, player_data in stats2_raw.items():
             stats_clean[matched_name]['past_matches'] = player_data['past_matches']
 
 # Criar o arquivo stats_clean.json
-with open('dados/clean/stats_clean.json', 'w', encoding='utf-8') as f:
+with open('dados/clean/stats_clean_grass.json', 'w', encoding='utf-8') as f:
     json.dump(stats_clean, f, indent=2, ensure_ascii=False)
