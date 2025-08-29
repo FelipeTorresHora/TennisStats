@@ -10,7 +10,7 @@ load_dotenv()
 
 STATS_RAPIDAPI_KEY = os.getenv("STATS_RAPIDAPI_KEY", os.getenv("RAPIDAPI_KEY"))
 
-def get_player_stats_ultimate_tennis(player_id, season="2024", surface="clay"):
+def get_player_stats_ultimate_tennis(player_id, season="2024", surface="hard"):
     """
     Busca todos os dados de um jogador na Ultimate Tennis API
     """
@@ -113,7 +113,7 @@ def collect_all_players_data():
     
     # Salvar os dados em JSON
     if all_players_data:
-        output_filename = 'dados/raw/stats_raw.json'
+        output_filename = 'dados/raw/hard/hard_stats_raw.json'
         with open(output_filename, 'w', encoding='utf-8') as f:
             json.dump(all_players_data, f, indent=2, ensure_ascii=False)
         

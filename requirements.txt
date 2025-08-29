@@ -2,3 +2,5 @@ seaborn
 streamlit
 pandas
 requests
+python-dotenv
+plotly
